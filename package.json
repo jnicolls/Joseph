@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jnicolls/Joseph/issues"
   },
-  "homepage": "https://github.com/jnicolls/Joseph"
+  "homepage": "https://github.com/jnicolls/Joseph",
+  "dependencies": {
+    "express": "^4.8.6"
+  }
 }

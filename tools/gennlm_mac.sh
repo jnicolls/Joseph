@@ -8,7 +8,7 @@ SOURCE="${BASH_SOURCE[0]}"
 DIR="$( dirname "$SOURCE" )"
 while [ -h "$SOURCE" ]
 do 
-  SOURCE="$(readlink "$SOURCE")"
+  SOURCE="$(greadlink "$SOURCE")"
   [[ $SOURCE != /* ]] && SOURCE="$DIR/$SOURCE"
   DIR="$( cd -P "$( dirname "$SOURCE"  )" && pwd )"
 done
@@ -72,7 +72,7 @@ fi
 # make the output directory and remap it to an absolute path
 
 mkdir "$outputfolder"
-outputfolder=$(readlink -f "$outputfolder")
+outputfolder=$(greadlink -f "$outputfolder")
 
 # OK, this is the grimmest part: XSLT using relative filenames expects the "rels" directory to be found
 # relative to itself, not the file to which the transform is being applied, so we have to copy it
@@ -91,7 +91,7 @@ infile=$(basename "$infile")
 infile="$outputfolder/docx/$infile"
 
 # then to an absolute path
-infile=$(readlink -f "$infile")
+infile=$(greadlink -f "$infile")
 
 cd "$outputfolder/docx"
 

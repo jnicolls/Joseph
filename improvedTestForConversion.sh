@@ -9,7 +9,7 @@ for f in *; do
 	declare -i RETURNVAL=0
 	RETURNVAL= timeout 5m  python /var/www/public/parsingdev/meTypeset/bin/meTypeset.py docx "$f" /var/local/meTypesetTests/tests/testOutput/"$f" -d --nogit
 	if [ $RETURNVAL -eq 124 ]; then
-		rm -rf /var/local/meTypesetTests/tests/testOutput	
+		rm -rf /var/local/meTypesetTests/tests/testOutput/"$f"	
 	fi
 done
 cd /var/local/meTypesetTests/tests/testOutput

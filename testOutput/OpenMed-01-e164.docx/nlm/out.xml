@@ -1,0 +1,73 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">The Journal Title</journal-id>
+      <issn pub-type="epub">0000-000X</issn>
+      <publisher>
+        <publisher-name>The Publisher Name</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1000/123456</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Sample Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A Sample Article Title</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Eve</surname>
+            <given-names>Martin Paul</given-names>
+          </name>
+          <xref ref-type="aff" rid="lincoln"/>
+        </contrib>
+        <aff id="lincoln">
+          <institution>University of Lincoln</institution>
+        </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <year>2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <issue>1</issue>
+      <fpage>1</fpage>
+      <lpage>2</lpage>
+      <permissions>
+        <copyright-statement>Copyright &#169; 2014, Martin Paul Eve</copyright-statement>
+        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The citation of this article must include: the name(s) of the authors, the name of the journal, the full URL of the article (in a hyperlinked format if distributed online) and the DOI number of the article.</license-p>
+        </license>
+      </permissions>
+      <self-uri>https://www.martineve.com/</self-uri>
+      <abstract>
+        <p>This is a sample abstract that forms part of the metadataSample.xml file in meTypeset.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title/>
+      <p>Little Se&#239;d is going home today, but he almost didn&#8217;t make it. At one month old, he seemed healthy at first. His parents were thrilled, having lost their three other young children before he was born.   But he had the misfortune to be born here, in the region where Chad and the Sudan meet along a border interwoven by conflict and misery, and his family has been on the move for months. Se&#239;d doesn&#8217;t have a home: he lives under a standard issue, white and blue High Commision for Refugees tarp that miraculously appeared from the sky one day.</p>
+      <p>	But the winds can be relentless and remorseless here. It makes the sand infiltrate everything, everywhere, even the decent straw hut that I share with my staff behind our little field hospital. When our youngest patients start crying at sunrise, we wake up, notice the grit between out teeth and spit it out. But babies are rarely born with teeth and they certainly can&#8217;t spit by themselves, unlike every one else here during the Ramadan.</p>
+      <p>	Se&#239;d&#8217;s parents brought him to us a week ago because he wouldn&#8217;t breastfeed. A quick look at him and I knew he was in trouble: he was breathing quickly, very quickly, and his chest would cave in and crush him with every strained and ineffective breath. He also had a fever. This was bad news&#8212;he had bronchiolitis, a viral infection that takes hold of a baby&#8217;s lungs and doesn&#8217;t let go for three or four days. In the state little Se&#239;d was in, I wasn&#8217;t sure that he even had three or four hours.</p>
+      <p>	We quickly devised a sort of spacing device from some used pill containers to give him some Ventolin, injected him with steroids and adrenalin and looked at each other and his mother knowing this would likely not be enough. Back home we would quickly intubate and ventilate him, or at least give him oxygen. But now, we were in a desert.</p>
+      <p>	We were overdue for a massive shipment from our <italic>M&#233;decins Sans Fronti&#232;res</italic> headquarters and knew that we had asked for a oxygen concentrator. But night was falling and with a pang of anxiety we realized that it would not arrive today, whether because of bad roads or a hijacking, we did not know which.</p>
+      <p>	I placed Se&#239;d in the position that he seemed least uncomfortable in and crawled off to bed, but neither of us slept that night. There had been a stifling heat that day and all the frogs and crickets had sought refuge in our straw hut and were croaking and creaking to each other, and besides, I could hear little Se&#239;d chocking next door. All night I thought of going for a walk to get some fresh desert air, but I was too afraid to step on a frog and crush it.</p>
+      <p>	In the morning, Se&#239;d was still alive, but barely. We gave him some more medication but he was starting to breathe irregularly, his fragile chest muscles too starved to keep going. I gave him some sugar water, hoping that he was old enough to respond to a placebo. Just then, miraculously, our truck pulled in. Our driver could not understand why we were so happy to see him.</p>
+      <p>	It was a large shipment and it took us a frentic hour to find the right boxes and put everything together and by that time, Se&#239;d had stopped breathing. But he still had a heart beat so we gave a couple of breaths and some more adrenalin and started our generator and the concentrator. He improved, but we were still worried: we only had one generator and generators need a break every four hours but babies need to breathe all the time. This baby had another two or three days before he could breather on his own.</p>
+      <p>	That night, I had a nightmare. I dreamt that a child fell violently off a tree and broke his neck. I wanted to make sure he did not move when someone came along and&#8212;out of mercy I hope&#8212;broke it fully. Who was right? I woke up in a sweat but could hear little Se&#239;d still gasping for life and I fell back asleep.</p>
+      <p>	All week I worried about that baby. It was an exceptionally busy week in this region where malaria is so epidemic that to word for any medicine translates as &#8220;quinine&#8221;, where home births and thus neonatal tetanus are the rule rather than the exception, and where poverty and displacement make typhoid and other water- and food-borne illness all the more common. We even received some gun shot wounds that I would rather not talk about. And yet, there were regular moments of solace too&#8212;the bucket shower every morning, waving to healthy children screaming &#8220;The white man! The white man!&#8221; during the midday truck ride to the outpatient clinic, the moment of peace before slumber when anything seemed possible&#8212;even miracles.</p>
+      <p>	During the second night there was a violent thunder storm but no rain and the morning felt strangely heavy and anticlimactic, but I managed to convince myself that little Se&#239;d looked a little better.</p>
+      <p>	The third night was as clear and crisp as a midnight dew drop in the dry desert but I had another strange dream. I have been dreaming a lot since I got here. This time, I was back home, watching a man and his son enjoying their manicured back yard&#8212;the man floating past in his swimming pool, the child washing his pure-breed dog with a breed-specific shampoo. I noticed I was holding Se&#239;d in my arms, but the man and his son did not notice us.</p>
+      <p>	And in the morning, I ran into the hospital and saw that Se&#239;d was crying as babies should and breastfeeding and I too started to cry. I seem to have been crying a lot since I got here.</p>
+      <p>	Now, I watch Se&#239;d and his his parents wander off back into the desert and I wonder what will happen to them. They are no better off than they were before, but they still have their baby to feed, and shelter, and hope for. But they do not seem worried&#8212;people here do not have much left but they do still have something very powerful. They call it &#8220;Inshallah&#8221;, a sort of faith in something that they face at least five times a day and realize that they are small and powerless next to. God, at least, has not abandoned them.</p>
+      <p> I am not usually a religious man, and yet, this week in this seemingly empty desert, despite the pace and the violence and the hopelessness, or maybe because of it, little Se&#239;d has taught me to pray.</p>
+    </sec>
+  </body>
+  <back/>
+</article>

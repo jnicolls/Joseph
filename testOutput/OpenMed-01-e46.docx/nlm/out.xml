@@ -1,0 +1,108 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">The Journal Title</journal-id>
+      <issn pub-type="epub">0000-000X</issn>
+      <publisher>
+        <publisher-name>The Publisher Name</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1000/123456</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Sample Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A Sample Article Title</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Eve</surname>
+            <given-names>Martin Paul</given-names>
+          </name>
+          <xref ref-type="aff" rid="lincoln"/>
+        </contrib>
+        <aff id="lincoln">
+          <institution>University of Lincoln</institution>
+        </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <year>2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <issue>1</issue>
+      <fpage>1</fpage>
+      <lpage>2</lpage>
+      <permissions>
+        <copyright-statement>Copyright &#169; 2014, Martin Paul Eve</copyright-statement>
+        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The citation of this article must include: the name(s) of the authors, the name of the journal, the full URL of the article (in a hyperlinked format if distributed online) and the DOI number of the article.</license-p>
+        </license>
+      </permissions>
+      <self-uri>https://www.martineve.com/</self-uri>
+      <abstract>
+        <p>This is a sample abstract that forms part of the metadataSample.xml file in meTypeset.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>The Joys and Challenges of Being an Open Access Medical Journal</title>
+      <p>&#8220;For supporters of open access publishing, these are heady times,&#8221; wrote the editors of the <italic>BMJ </italic>in 2004, reflecting on an extraordinary revolution taking place in the world of medical and scientific publishing.1   The pace of progress since then has been astonishing, with a wealth of new open access journals and growing support for open access worldwide from, among others, research funding agencies, universities, governments, publishers, physicians, and patients.2 <italic>Open Medicine </italic>will be joining a revolution that now seems unstoppable.</p>
+      <p>One of <italic>Open Medicine</italic>&#8217;s editors referred to <italic>PLoS Medicine</italic> (<xref rid="TO_LINK" ref-type="bibr" id="IDb51e8f82-b78e-4a72-a0b3-2158ad4943d4">www.plosmedicine.org</xref>), the international open access journal published by the Public Library of Science (<xref rid="TO_LINK" ref-type="bibr" id="ID4c54a7d0-83cf-4e89-9600-7eb8f5106bd2">www.plos.org</xref>), as its &#8220;older sister.&#8221;  As the editors of <italic>PLoS Medicine </italic>we take that as a great compliment although, at the tender age of just two years, we feel as if the <italic>CMAJ</italic>&#8217;s description of us when we launched as &#8220;the boldest new kid on the block&#8221; still holds true.3 So what have we been trying to achieve in our first two years, and what lessons might there be from our experiences so far that can be passed on to the newest kid on the block?</p>
+      <p>Most importantly, because <italic>PLoS Medicine </italic>is open access, we can potentially reach not just traditional readers of a medical journal&#8212;those wealthy enough to afford journal subscriptions or individual article download charges&#8212;but anyone with Internet access.  In our opening editorial we rather immodestly declared that our audience is &#8220;everyone,&#8221; as captured in the editorial&#8217;s title: <italic>Prescription for a healthy journal&#8212;take monthly, at no cost; reaches six billion.</italic>4 Serving such a diverse, global audience, in developed and developing countries, from clinicians and clinical researchers through to health policy makers, teachers, students, non-governmental organizations, and patients is a great opportunity, but it also presents a substantial challenge. What does it mean practically?</p>
+      <p>First, we have tried to be inclusive as possible and to go beyond a narrow biomedical view of health and illness.  In our research section, we&#8217;ve published everything from basic sciences and animal studies (<xref rid="TO_LINK" ref-type="bibr" id="ID048ddcf1-1f2d-4b6f-9a4f-3966b5e06ca2">those with implications for human health</xref>), through to clinical trials, health services research, genetic association studies, qualitative research, and cost effectiveness analyses, and most recently we have dipped our toe into the world of social medicine research. </p>
+      <p>Second, there is a need to make research as understandable as possible.  Therefore all our research articles are accompanied by an editors&#8217; summary, aimed at a general audience, particularly patients.  </p>
+      <p>Third, we have used our magazine section to raise debates on topics outside the remit of traditional journals.  For example, we have a regular column devoted to the world&#8217;s most neglected diseases.  We have a section for authors who are providing health care at the coal face&#8212;often in low income settings&#8212;to describe their innovative approaches to health improvement (<xref rid="TO_LINK" ref-type="bibr" id="ID460b7c29-bf31-4bc5-8c67-9976c85ef466">the &#8220;Health in Action&#8221; section</xref>).  And our Policy Forum highlights topics of key interest to the health policy community.   </p>
+      <p>Fourth, we wanted to specifically respond to a challenge highlighted by Gro Harlem Brundtland, the former Director General of the WHO, who said that health problems are &#8220;no longer just local, national or regional&#8230;.they are global.&#8221;5 We aim to give authors from <italic>all</italic> countries the opportunity to discuss national problems that are of relevance to the global health community. Subscription-based medical journals have generally shown little interest in the health problems of the developing world, partly because to remain profitable these journals must publish materials that will appeal to readers in the rich world who can pay. In contrast, open access journals &#8220;need not concern themselves with choosing content that would appeal to wealthy audiences.&#8221;6The publishing model thus gives open access editors extraordinary freedom over the content they publish. </p>
+      <p>Fifth, our mission statement is to &#8220;encourage research and comment that address the global burden of disease.&#8221; To achieve this, we have assembled a large, international editorial board, and we work with its members to attract and commission content that fulfils our mission. In addition, we work to overcome barriers to reading the literature other than cost. <italic>PLoS Medicine </italic>and the other PLoS journals encourage authors who are fluent in other languages to provide translations of their abstracts or entire articles as supporting information files.7 And PLoS is working on expanding opportunities to contribute to the medical and scientific literature through offering additional publications (<xref ref-type="bibr" id="IDad8fefc8-e293-4010-8461-783a44ffe238" rid="TO_LINK">see, for example, PLoS ONE, at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.plosone.org/" ext-link-type="uri" xlink:type="simple">www.plosone.org</ext-link>
+            </xref>) and through adding functionality that allows anyone to comment and annotate articles.8 </p>
+      <p>But while open access journals are privileged to have the opportunity to be far reaching, they run the risk of trying to be all things to all people (particularly when both the focus and the desired readership are as broad as we have described for <italic>PLoS Medicine</italic>). Does this matter? Perhaps not, as readers increasingly get their information not in discrete units called &#8220;journals&#8221; but rather by picking and choosing for themselves among the enormous wealth of information available from diverse sources. </p>
+      <p>One challenge for the PLoS journals, <italic>Open Medicine</italic>, and all other open access journals will be to respond to the differing uses of the biomedical literature that sophisticated search engines are driving. This reuse will revolutionize science. The Wellcome Trust, the UK&#8217;s largest charitable funder of medical research, and a major supporter of open access, argues that &#8220;as the tools for such mining become more sophisticated, we will see new knowledge being created by the linking of research papers that previously had not been seen as relevant to each other.&#8221; Crucially, they note that &#8220;for this to happen, however, papers must be held in an open access repository and not remain hidden behind publishers' authentication systems.&#8221;9</p>
+      <p>	The most important way that <italic>PLoS Medicine</italic> and <italic>Open Medicine</italic> will drive this reuse is by their adoption of a progressive copyright license, the Creative Commons Attribution License (<xref rid="TO_LINK" ref-type="bibr" id="IDe79697e1-eac2-4595-9313-3d95a45f0622">CCAL</xref>; <xref rid="TO_LINK" ref-type="bibr" id="IDcd7f302d-c2ed-4e82-aa1d-8102ec1ad5b5">http://creativecommons.org/licenses/by/2.5/</xref>).  Unlike traditional copyright, which severely restricts the potential uses of an article, the CCAL allows readers to reuse the articles for any legal purpose&#8212;reproduction, distribution, translation, and the creation of derivative works&#8212;provided proper attribution is given to the authors and the original source is cited.  The result, says Jan Velterop, Director of Open Access at Springer, is that &#8220;copyright can be used for what it is meant to in science, not to make the articles artificially scarce and in the process restrict their distribution, but instead, to ensure that their potential for maximum possible dissemination can be realized.&#8221;10 </p>
+      <p>If <italic>PLoS Medicine</italic>&#8217;s experience is anything to go by, it will undoubtedly take some time before readers of <italic>Open Medicine</italic> use the CCAL to its full potential.  We still regularly receive requests asking for permission to reuse our materials, suggesting that our audience remains unfamiliar with progressive copyright.  But although it can be a little nerve wracking letting content out freely into the world, the reuse of some of our material has delighted us. As more and more journals join <italic>Open Medicine</italic>, <italic>PLoS Medicine</italic>, and BioMed Central (<xref rid="TO_LINK" ref-type="bibr" id="IDf9bf3850-f213-4d9e-800f-dc4f8fe444b4">www.biomedcentral.com</xref>) in adopting the CCAL, such reuse will be limited only by the collective imagination of our six billion-strong audience.   </p>
+      <p><italic>Open Medicine </italic>and <italic>PLoS Medicine</italic> were both launched in the spirit of reinventing the modern medical journal by doing things rather differently.  One significant break from tradition is that both journals eschew drug advertising, out of a desire to break the unhealthy cycle of financial dependency that has grown between journals and drug companies.4 We also feel sure, given the circumstances that gave rise to the creation of <italic>Open Medicine</italic>, that the new journal will join us in taking risks and publishing provocative articles that stimulate debate across all areas of health care. Medical journals need to urgently reinvent themselves to continue to be relevant to the 21st century. <italic>Open Medicine</italic>, born in a spirit of fierce editorial independence, will undoubtedly help to meet that need.  These are exciting times for open access medical journals, and it&#8217;s great to have a new sibling in the enterprise of disseminating knowledge freely to all.   </p>
+      <p>Gavin Yamey, Virginia Barbour, Barbara Cohen, Larry Peiperl, Paul Chinnock</p>
+      <p>Senior Editors, <italic>PLoS Medicine</italic> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple"><xref rid="TO_LINK" ref-type="bibr" id="IDf060f8e0-f236-46ba-ba1b-250f8c279595">medicine_editors@plos.org</xref></ext-link>)</p>
+      <p>Competing interests: The Public Library of Science is an international non-profit organization that believes that the scientific and medical literature should be a freely available public resource. PLoS is supported by a combination of foundation support, publication charges, institutional memberships, advertising, and sponsorship.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref>
+        <mixed-citation>Delamothe T, Smith R.  Open access publishing takes off.  <italic>BMJ</italic> 2004;328:1-3</mixed-citation>
+      </ref>
+      <ref>
+        <mixed-citation>http://www.earlham.edu/~peters/fos/timeline.htm, accessed Sept 26 2006.</mixed-citation>
+      </ref>
+      <ref>
+        <mixed-citation>Editorial:Open access in medical publishing: trends and countertrends<bold><!--meTypeset:br--></bold>Can. Med. Assoc. J; 2005;172:49.</mixed-citation>
+      </ref>
+      <ref>
+        <mixed-citation>The PLoS Medicine Editors (2004) Prescription for a Healthy Journal. PLoS Med 1(1): e22. </mixed-citation>
+      </ref>
+      <ref>
+        <mixed-citation>Brundtland, GH.  Public health challenges in a globalizing world.  European Journal of Public Health 2005;15:3-5.</mixed-citation>
+      </ref>
+      <ref>
+        <mixed-citation>Ofori-Adjei D,&#160;Antes G,&#160;Tharyan P,&#160;Slade E,&#160;Tamber PS (2006) Have Online International Medical Journals Made Local Journals Obsolete? PLoS Med 3(8): e359</mixed-citation>
+      </ref>
+      <ref>
+        <mixed-citation>The PLoS Medicine Editors (2006) Ich Weiss Nicht Was Soll Es Bedeuten: Language Matters in Medicine. PLoS Med 3(2): e122</mixed-citation>
+      </ref>
+      <ref>
+        <mixed-citation>The PLoS Medicine Editors (2006) Access for Contributors: PLoS Expands Options for Publication of Research and Comment. PLoS Med 3(9): e416</mixed-citation>
+      </ref>
+      <ref>
+        <mixed-citation>Walport M, Kiley R. Open Access, UK PubMed Central and the Wellcome Trust.  J R Soc Med 2006;99:438-439</mixed-citation>
+      </ref>
+      <ref>
+        <mixed-citation>http://www.soros.org/openaccess/scholarly_guide.shtml, accessed Sept 26 2006.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

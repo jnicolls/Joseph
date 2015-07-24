@@ -1,0 +1,542 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">The Journal Title</journal-id>
+      <issn pub-type="epub">0000-000X</issn>
+      <publisher>
+        <publisher-name>The Publisher Name</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1000/123456</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Sample Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A Sample Article Title</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Eve</surname>
+            <given-names>Martin Paul</given-names>
+          </name>
+          <xref ref-type="aff" rid="lincoln"/>
+        </contrib>
+        <aff id="lincoln">
+          <institution>University of Lincoln</institution>
+        </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <year>2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <issue>1</issue>
+      <fpage>1</fpage>
+      <lpage>2</lpage>
+      <permissions>
+        <copyright-statement>Copyright &#169; 2014, Martin Paul Eve</copyright-statement>
+        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The citation of this article must include: the name(s) of the authors, the name of the journal, the full URL of the article (in a hyperlinked format if distributed online) and the DOI number of the article.</license-p>
+        </license>
+      </permissions>
+      <self-uri>https://www.martineve.com/</self-uri>
+      <abstract>
+        <p>This is a sample abstract that forms part of the metadataSample.xml file in meTypeset.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Science and Ideology</title>
+      <p>Stephen W. Hwang, MD, MPH</p>
+      <p>Affiliation: Dr. Hwang is a research scientist at the Centre for Research on Inner City Health, the Keenan Research Centre in the Li Ka Shing Knowledge Institute of St. Michael's Hospital, Toronto, Ontario; and an associate professor of medicine in the Division of General Internal Medicine, Department of Medicine, University of Toronto.  </p>
+      <p>Contact Information: </p>
+      <p>Dr. Stephen W. Hwang, Centre for Research on Inner City Health, </p>
+      <p>St. Michael&#8217;s Hospital, 30 Bond Street, Toronto, Ontario M5B 1W8, Canada.</p>
+      <p>Email: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:hwangs@smh.toronto.on.ca" ext-link-type="uri" xlink:type="simple">hwangs@smh.toronto.on.ca</ext-link>
+         </p>
+      <p>Phone: 416-864-5991</p>
+      <p>Fax: 416-864-5485</p>
+      <p>Funding: None</p>
+      <p>Competing Interests: None</p>
+      <p>Word Count (<xref rid="TO_LINK" ref-type="bibr" id="ID349d31de-63f0-4b65-9d9b-f419e4bb4817">text only</xref>): 1,034</p>
+      <p>Consider the following hypothetical scenario.  An innovative new intervention for people with diabetes is developed.  Health Canada provides funding to a highly accomplished group of academic health scientists, who have no financial conflicts of interest with respect to the new intervention, to conduct research on its effectiveness.  Their work shows that the new intervention significantly reduces the incidence of a variety of diabetic complications.  Despite a careful search for possible adverse effects of the intervention, none are detected.  Over a 3 year period, the group&#8217;s research findings are published in leading medical journals, including the <italic>New England Journal of Medicine, the Lancet, </italic>and the <italic>British Medical Journal.</italic>
+         </p>
+      <p>In response, the federal government calls the research inconclusive, and states its position that the only acceptable therapies for diabetes are ones that either prevent or completely cure this condition.  Two national organizations state their opposition to the intervention because they fear that the availability of an intervention that reduces the risk of diabetic complications will cause people with diabetes to eat more food and become more obese.  The government indicates that unless additional research can address its concerns within a year, it will likely move to ban the new intervention.  Meanwhile, institutions other than the one at which the research was initially conducted are forbidden to provide the intervention.  </p>
+      <p>Although this tale seems far-fetched and even Orwellian, it becomes true-to-life if one substitutes &#8220;drug addiction&#8221; for &#8220;diabetes,&#8221; &#8220;drug-related harms&#8221; for &#8220;diabetic complications,&#8221; and the &#8220;new intervention&#8221; is a supervised injection facility for injection drug users. In a series of peer-reviewed research articles, the supervised injection facility in Vancouver has been shown to provide a number of benefits, including reduced needle sharing, decreased public drug use, fewer publicly discarded syringes, and more rapid entry into detoxification services by persons using the facility.<xref ref-type="fn" rid="bibd2e76"/>
+            <xref ref-type="fn" rid="bibd2e86"/>
+            <xref ref-type="fn" rid="bibd2e96"/>
+            <xref ref-type="fn" rid="bibd2e106"/>  The opening of the facility was not associated with any increase in levels of crime, public disorder, or injection drug use.<xref rid="RefF0">Error: Reference source not found</xref> 
+            <xref ref-type="fn" rid="bibd2e121"/> 
+         </p>
+      <p>Despite this body of evidence, Federal Health Minister Tony Clement released an official statement in September 2006 in which he claimed &#8220;Right now the only thing the research to date has proven conclusively is drug addicts need more help to get off drugs.&#8221;<xref ref-type="fn" rid="bibd2e135"/>  This statement came on the heels of press releases by the Canadian Police Association and the Royal Canadian Mounted Police which asserted, in the absence of supporting data, that Vancouver&#8217;s supervised injection site was contributing to increased crime.<xref ref-type="fn" rid="bibd2e146"/>  It remains a distinct possibility that the federal government will not renew the current exemption that allows the supervised injection facility to operate legally, thus forcing the program to close in December 2007.<xref ref-type="fn" rid="bibd2e160"/>  The fact that a highly promising intervention for the management of substance abuse appears to have been judged by an entirely different standard than interventions for other common chronic health conditions, such as diabetes, suggests that scientific evidence is about to be trumped by ideology.  </p>
+      <p>We wish to affirm the vital importance of evidence-informed policy-making on issues related to substance use disorders, and to state our grave concern regarding the risks of pursuing health policies that disregard strong and credible scientific data. Of course, public policies arise through a complex process that is influenced not only by information and evidence such as that obtained through research. Other essential and legitimate factors that affect policy-making include ideologies (<xref rid="TO_LINK" ref-type="bibr" id="IDb1777dbf-b8c7-4e8e-be08-e9c3b026db4d">normative views regarding what ought to be</xref>), beliefs (convictions about the way things are or the likely effects of particular actions), and interests (<xref rid="TO_LINK" ref-type="bibr" id="ID0ab6082f-9802-4de9-aba8-d8e292478347">who wins, who loses, and by how much</xref>).<xref ref-type="fn" rid="bibd2e174"/>  However, the health of the nation is placed in peril if our leaders ignore or discount crucial research findings simply because they run contrary to a rigid policy agenda driven by ideology or fixed beliefs.<xref ref-type="fn" rid="bibd2e186"/>
+         </p>
+      <p>An example of the potentially deadly consequences of this kind of approach to drug policy is the U.S. ban on the use of federal funds to support needle exchange programs for injection drug users (<xref rid="TO_LINK" ref-type="bibr" id="IDae486dd8-d048-470f-a1fd-77e3a3d21150">Canada has no such restrictions</xref>). The U.S. ban was enacted in 1988 amid accusations that needle exchange programs encourage illegal drug use. Despite the subsequent accumulation of a large body of research evidence demonstrating that needle exchange programs reduce HIV seroconversion among injection drug users<xref ref-type="fn" rid="bibd2e199"/> and a National Institutes of Health consensus statement concluding that such programs reduce needle sharing and do not increase drug use,<xref ref-type="fn" rid="bibd2e211"/> the ban on funding remains in effect to this day.  Washington, D.C., the only U.S. city where federal law barred both local and federal financing of needle exchange programs over the last 10 years, now has the highest rate of new AIDS cases in America (<xref rid="TO_LINK" ref-type="bibr" id="ID7cf36a00-8da1-4d3e-b046-b14fec1cf8e6">128 per 100,000 people per year</xref>).<xref ref-type="fn" rid="bibd2e222"/>
+         </p>
+      <p>Policy makers may legitimately decide on ethical, moral, political, or economic grounds to severely restrict or even prohibit the use of an intervention, such as Vancouver&#8217;s supervised injection site, that careful scientific inquiry has shown to have significant health benefits. In these situations, however, policy makers must provide cogent reasons for their decision that make the basis for their actions explicit and transparent. Such decisions must not be justified by resorting to deceptive claims that cast doubt upon the effectiveness of the intervention, or that raise unsupported fears of harmful side-effects.</p>
+      <p>At the same time, physicians, scientists, and public health professionals must be willing to speak out in the public arena when the accumulated body of research evidence clearly supports a health intervention that faces resistance due to entrenched beliefs. As stated in a declaration by Scientists and Engineers for America, a grassroots organization that counts 15 Nobel laureates among its Board of Advisors, &#8220;[t]he principal role of the science and technology community is to advance human understanding.&#160; But there are times when this is not enough.&#160; Scientists and engineers have a right, indeed an obligation, to enter the political debate when the nation&#8217;s leaders systematically ignore scientific evidence and analysis, [or] put ideological interests ahead of scientific truths&#8230;.&#8221;<xref ref-type="fn" rid="bibd2e236"/>
+         </p>
+      <p>We believe this is such an occasion. The data to date show that Vancouver&#8217;s supervised injection facility is an intervention that reduces drug-related harm, with no discernable adverse consequences. If the federal government chooses to close this facility, then it must clearly specify the nature of its objections to an intervention whose effectiveness is supported by current research evidence.</p>
+      <p>The following Canadian physicians, scientists, and public health professionals have endorsed this commentary. Institutional affiliations are provided for identification purposes only; no endorsement by any of these institutions is intended or should be inferred.</p>
+      <list list-type="order">
+        <list-item>
+          <p>Barry Adam, PhD, University of Windsor</p>
+        </list-item>
+        <list-item>
+          <p>Alix Adrien, MD, CM, MSc, Direction de sant&#233; publique de Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>Michel Alary, MD, PhD, Universit&#233; Laval</p>
+        </list-item>
+        <list-item>
+          <p>Nelson Ames, MD, MHSc, Interior Health, BC</p>
+        </list-item>
+        <list-item>
+          <p>Jonathan Angel, MD, University of Ottawa</p>
+        </list-item>
+        <list-item>
+          <p>Nelson Arruda, MSc, Direction de sant&#233; publique de Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>Mark Asbridge, PhD, Dalhousie University</p>
+        </list-item>
+        <list-item>
+          <p>Greta Bauer, PhD, MPH, University of Western Ontario</p>
+        </list-item>
+        <list-item>
+          <p>Ahmed Bayoumi, MD, MSc, University of Toronto</p>
+        </list-item>
+        <list-item>
+          <p>Hallgrimur Benediktsson, MD, University of Calgary</p>
+        </list-item>
+        <list-item>
+          <p>Cecilia Benoit, PhD, University of Victoria</p>
+        </list-item>
+        <list-item>
+          <p>Philip Berger, MD, University of Toronto</p>
+        </list-item>
+        <list-item>
+          <p>Barry Beyerstein, PhD, Simon Fraser University</p>
+        </list-item>
+        <list-item>
+          <p>John Blatherwick, CM, CD, MD, Vancouver Coastal Health, BC</p>
+        </list-item>
+        <list-item>
+          <p>Neil Boyd, LLB, LLM, Simon Fraser University</p>
+        </list-item>
+        <list-item>
+          <p>Susan Boyd, PhD, University of Victoria</p>
+        </list-item>
+        <list-item>
+          <p>Serge Brochu, PhD, Universit&#233; de Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>Julie Bruneau, MD, MSc, Universit&#233; de Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>Robert C. Brunham, MD, University of British Columbia</p>
+        </list-item>
+        <list-item>
+          <p>Jane Buxton, MBBS, MHSc, University of British Columbia</p>
+        </list-item>
+        <list-item>
+          <p>Roy Cain, PhD, McMaster University</p>
+        </list-item>
+        <list-item>
+          <p>Bill Cameron, MD, University of Ottawa</p>
+        </list-item>
+        <list-item>
+          <p>John Carsley, MD, MSc, McGill University</p>
+        </list-item>
+        <list-item>
+          <p>Isabelle Casavant, RN, Direction de sant&#233; publique de Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>M&#233;lanie Charron, RN, Direction de sant&#233; publique de Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>&#201;ric A. Cohen, PhD, Institut de Recherches Cliniques de Montr&#233;al.</p>
+        </list-item>
+        <list-item>
+          <p>Evan Collins, MD, University of Toronto</p>
+        </list-item>
+        <list-item>
+          <p>Curtis Cooper, MD, University of Ottawa</p>
+        </list-item>
+        <list-item>
+          <p>Trevor Corneil, MD, MHSc, Vancouver Coastal Health, BC</p>
+        </list-item>
+        <list-item>
+          <p>Andr&#233; Corriveau, MD, MBA, Department of Health &amp; Social Services, Government of the Northwest Territories</p>
+        </list-item>
+        <list-item>
+          <p>Fran&#231;ois Coutl&#233;e, MD, Universit&#233; de Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>Joseph Cox, MD, Direction de sant&#233; publique de Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>Patricia Daly, MD, University of British Columbia</p>
+        </list-item>
+        <list-item>
+          <p>Harold Dion, MD, Clinique m&#233;dicale l'Actuel, Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>Peter Dodek, MD, MHSc, University of British Columbia</p>
+        </list-item>
+        <list-item>
+          <p>James R. Dunn, PhD, University of Toronto</p>
+        </list-item>
+        <list-item>
+          <p>Brian P. Emerson, MD, British Columbia Ministry of Health</p>
+        </list-item>
+        <list-item>
+          <p>Gilbert &#201;mond, PhD, Universit&#233; Concordia</p>
+        </list-item>
+        <list-item>
+          <p>Patricia G. Erickson, PhD, University of Toronto</p>
+        </list-item>
+        <list-item>
+          <p>Myl&#232;ne Fernet, PhD, Universit&#233; du Qu&#233;bec &#224; Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>Benedikt Fischer, PhD, University of Victoria</p>
+        </list-item>
+        <list-item>
+          <p>Sarah Flicker, PhD, York University</p>
+        </list-item>
+        <list-item>
+          <p>Lisa Forman, LLB, MA, SJD, University of Toronto</p>
+        </list-item>
+        <list-item>
+          <p>John Frank, MD, MSc, University of Toronto</p>
+        </list-item>
+        <list-item>
+          <p>James Frankish, PhD, University of British Columbia</p>
+        </list-item>
+        <list-item>
+          <p>Jacqueline Gahagan, PhD, Dalhousie University</p>
+        </list-item>
+        <list-item>
+          <p>Richard H. Glazier, MD, MPH, University of Toronto</p>
+        </list-item>
+        <list-item>
+          <p>Kevin Gough, MD, MEd, University of Toronto</p>
+        </list-item>
+        <list-item>
+          <p>Jason Grebely, PhD, University of British Columbia</p>
+        </list-item>
+        <list-item>
+          <p>Reka Gustafson, MD, University of British Columbia</p>
+        </list-item>
+        <list-item>
+          <p>Nathalia Gutierrez, MSc, Direction de sant&#233; publique de Montr&#233;al </p>
+        </list-item>
+        <list-item>
+          <p>Helga Hallgrimsdottir, PhD, University of Victoria</p>
+        </list-item>
+        <list-item>
+          <p>Michael Hayes, PhD, Simon Fraser University</p>
+        </list-item>
+        <list-item>
+          <p>Clyde Hertzman, MD, MSc, University of British Columbia</p>
+        </list-item>
+        <list-item>
+          <p>Nikolaus Heveker, PhD, Universit&#233; de Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>J. David Hulchanski, PhD, University of Toronto</p>
+        </list-item>
+        <list-item>
+          <p>Marian Hutcheon, MD, MHSc, Interior Health, BC</p>
+        </list-item>
+        <list-item>
+          <p>Lois A. Jackson, PhD, Dalhousie University</p>
+        </list-item>
+        <list-item>
+          <p>Patti Janssen, PhD, University of British Columbia</p>
+        </list-item>
+        <list-item>
+          <p>Mikael Jansson, PhD, University of Victoria</p>
+        </list-item>
+        <list-item>
+          <p>Prabhat Jha, MD, DPhil, University of Toronto</p>
+        </list-item>
+        <list-item>
+          <p>Klaus Jochem, MD, Direction de sant&#233; publique de Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>Mira Johri, PhD, MPH, Universit&#233; de Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>Amy Kaler, PhD, University of Alberta</p>
+        </list-item>
+        <list-item>
+          <p>Jeff Karabanow, PhD, Dalhousie University</p>
+        </list-item>
+        <list-item>
+          <p>Ken Kasper, MD, University of Manitoba</p>
+        </list-item>
+        <list-item>
+          <p>Rupert Kaul, MD, PhD, University of Toronto</p>
+        </list-item>
+        <list-item>
+          <p>Perry Kendall, MBBS, MSc, Provincial Health Officer, British Columbia, and University of British Columbia</p>
+        </list-item>
+        <list-item>
+          <p>Susan Kirkland, PhD, Dalhousie University</p>
+        </list-item>
+        <list-item>
+          <p>Marina Klein, MD, CM, MSc, McGill University</p>
+        </list-item>
+        <list-item>
+          <p>Murray D. Krahn, MD, MSc, University of Toronto</p>
+        </list-item>
+        <list-item>
+          <p>Richard G. Lalonde, MD, McGill University</p>
+        </list-item>
+        <list-item>
+          <p>Gilles Lambert, MD, Direction de sant&#233; publique de Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>Michel Landry, PhD, Centre Dollard-Cormier, Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>John N. Lavis, MD, PhD, McMaster University</p>
+        </list-item>
+        <list-item>
+          <p>Pascale Leclerc, MSc, Direction de sant&#233; publique de Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>Lynne Leonard, PhD, University of Ottawa</p>
+        </list-item>
+        <list-item>
+          <p>Francesco Leri, PhD, University of Guelph</p>
+        </list-item>
+        <list-item>
+          <p>Richard Lessard, MD, Agence de sant&#233; et de services sociaux de Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>Dani&#232;le Longpr&#233;, MD, Clinique m&#233;dicale l'Actuel, Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>Mona Loutfy, MD, MPH, University of Toronto</p>
+        </list-item>
+        <list-item>
+          <p>Jo-Ann MacDonald, RN, PhD(<xref rid="TO_LINK" ref-type="bibr" id="ID8b06731b-2a46-40ba-bf1f-5a95e6919c4d">cand.</xref>), University of Prince Edward Island</p>
+        </list-item>
+        <list-item>
+          <p>Nim&#226; Machouf, PhD, Clinique m&#233;dicale l'Actuel, Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>Bruce MacLaurin, MSW, PhD(<xref rid="TO_LINK" ref-type="bibr" id="ID35e2caaa-76aa-4f1b-afac-e6305adb3a2a">cand.</xref>), University of Calgary</p>
+        </list-item>
+        <list-item>
+          <p>Joan MacNeil, PhD, RN, University of Victoria</p>
+        </list-item>
+        <list-item>
+          <p>David C. Marsh, MD, University of British Columbia</p>
+        </list-item>
+        <list-item>
+          <p>Richard Mathias, MD, University of British Columbia</p>
+        </list-item>
+        <list-item>
+          <p>Lorna Medd, MD, Northern Health, BC</p>
+        </list-item>
+        <list-item>
+          <p>Edward Mills, PhD, MSc, LLM, Simon Fraser University</p>
+        </list-item>
+        <list-item>
+          <p>Carole Morissette, MD, Direction de sant&#233; publique de Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>Stephen Moses, MD, MPH, University of Manitoba</p>
+        </list-item>
+        <list-item>
+          <p>Gerry Mugford, PhD, CMH, Memorial University of Newfoundland</p>
+        </list-item>
+        <list-item>
+          <p>Shree Mulay, PhD, McGill University</p>
+        </list-item>
+        <list-item>
+          <p>Stephanie Nixon, PhD, University of Toronto</p>
+        </list-item>
+        <list-item>
+          <p>Brian O'Connor, MD, MHSc, Vancouver Coastal Health, BC</p>
+        </list-item>
+        <list-item>
+          <p>James Orbinski, MD, University of Toronto</p>
+        </list-item>
+        <list-item>
+          <p>Mario Ostrowski, MD, University of Toronto</p>
+        </list-item>
+        <list-item>
+          <p>Anita Palepu, MD, MPH, University of British Columbia</p>
+        </list-item>
+        <list-item>
+          <p>Nathalie Paquette, RN, Direction de sant&#233; publique de Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>Gilles Paradis, MD, McGill University</p>
+        </list-item>
+        <list-item>
+          <p>Bernadette M. Pauly, RN, PhD, University of Victoria </p>
+        </list-item>
+        <list-item>
+          <p>H&#233;l&#232;ne Poliquin, RN, Direction de sant&#233; publique de Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>Martin Potter, MD, McGill University</p>
+        </list-item>
+        <list-item>
+          <p>Janet Raboud, PhD, University of Toronto</p>
+        </list-item>
+        <list-item>
+          <p>Patricia Rodney, RN, PhD, University of British Columbia</p>
+        </list-item>
+        <list-item>
+          <p>Michel Roger, MD, PhD, Universit&#233; de Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>Eric A. Roth, PhD, University of Victoria</p>
+        </list-item>
+        <list-item>
+          <p>Sean B. Rourke, PhD, University of Toronto</p>
+        </list-item>
+        <list-item>
+          <p>Jean-Pierre Routy, MD, McGill University</p>
+        </list-item>
+        <list-item>
+          <p>David J. Roy, STL, PhL, DrTheol, Institut de recherches cliniques de Montr&#233;al, and Universit&#233; de Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>&#201;lise Roy, MD, MSc, Universit&#233; de Sherbrooke</p>
+        </list-item>
+        <list-item>
+          <p>Elizabeth M. Saewyc, PhD, RN, University of British Columbia</p>
+        </list-item>
+        <list-item>
+          <p>Chandrakant P. Shah, MD, University of Toronto</p>
+        </list-item>
+        <list-item>
+          <p>Naglaa Shoukry, PhD, Universit&#233; de Montreal</p>
+        </list-item>
+        <list-item>
+          <p>Jean Shoveller, PhD, University of British Columbia</p>
+        </list-item>
+        <list-item>
+          <p>Fiona Smaill, MB, ChB, McMaster University</p>
+        </list-item>
+        <list-item>
+          <p>Marek Smieja, MD, PhD, McMaster University</p>
+        </list-item>
+        <list-item>
+          <p>Hugo Soudeyns, PhD, Centre de recherche du CHU Sainte-Justine</p>
+        </list-item>
+        <list-item>
+          <p>Richard Stanwick, MD, MSc, Vancouver Island Health Authority, BC</p>
+        </list-item>
+        <list-item>
+          <p>Steffanie A. Strathdee, PhD, University of California San Diego</p>
+        </list-item>
+        <list-item>
+          <p>Carol Strike, PhD, University of Toronto</p>
+        </list-item>
+        <list-item>
+          <p>Terry-Nan Tannenbaum, MD, Direction de sant&#233; publique de Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>R&#233;jean Thomas, MD, Clinique m&#233;dicale l'Actuel, Montr&#233;al</p>
+        </list-item>
+        <list-item>
+          <p>Sally Thorne, PhD, RN, University of British Columbia</p>
+        </list-item>
+        <list-item>
+          <p>Robb Travers, PhD, Ontario HIV Treatment Network</p>
+        </list-item>
+        <list-item>
+          <p>Jo&#235;l Tremblay, PhD, Centre de r&#233;adaptation Ubald-Villeneuve, Beauport, QC</p>
+        </list-item>
+        <list-item>
+          <p>Jeffrey Turnbull, MD, University of Ottawa</p>
+        </list-item>
+        <list-item>
+          <p>Mark Wainberg, PhD, McGill University</p>
+        </list-item>
+        <list-item>
+          <p>John Walsh, PhD, R.Psych, University of Victoria</p>
+        </list-item>
+        <list-item>
+          <p>Franklin White, MD, CM, MSc, Pacific Health &amp; Development Sciences, Victoria, BC</p>
+        </list-item>
+        <list-item>
+          <p>T. Cameron Wild, PhD, University of Alberta</p>
+        </list-item>
+        <list-item>
+          <p>Robert F. Woollard, MD, University of British Columbia</p>
+        </list-item>
+        <list-item>
+          <p>Catherine Worthington, PhD, RSW, University of Calgary</p>
+        </list-item>
+        <list-item>
+          <p>David Zakus, MES, MSc, PhD, University of Toronto</p>
+        </list-item>
+      </list>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn id="bibd2e76">
+        <p>	 Wood E, Tyndall MW, Montaner JS, Kerr T. Summary of findings from the evaluation of a pilot medically supervised safer injecting facility. <italic>CMAJ</italic>. 2006;175(11):1399-404. </p>
+      </fn>
+      <fn id="bibd2e86">
+        <p>	 Wood E, Kerr T, Small W, Li K, Marsh DC, Montaner JS, Tyndall MW. Changes in public order after the opening of a medically supervised safer injecting facility for illicit injection drug users. <italic>CMAJ.</italic> 2004;171(7):731-4.</p>
+      </fn>
+      <fn id="bibd2e96">
+        <p>	 Kerr T, Tyndall M, Li K, Montaner J, Wood E. Safer injection facility use and syringe sharing in injection drug users. <italic>Lancet.</italic> 2005;366(9482):316-8.</p>
+      </fn>
+      <fn id="bibd2e106">
+        <p>	 Wood E, Tyndall MW, Zhang R, Stoltz JA, Lai C, Montaner JS, Kerr T. Attendance at supervised injecting facilities and use of detoxification services. <italic>N Engl J Med.</italic> 2006;354(23):2512-4.</p>
+      </fn>
+      <fn id="bibd2e121">
+        <p>	 Kerr T, Stoltz JA, Tyndall M, Li K, Zhang R, Montaner J, Wood E. Impact of a medically supervised safer injection facility on community drug use patterns: a before and after study. <italic>BMJ.</italic> 2006;332(7535):220-2.</p>
+      </fn>
+      <fn id="bibd2e135">
+        <p>	 Health Canada News Release 2006-85.  &#8220;No new injection sites for addicts until questions answered says Minister Clement.&#8221;  September 1, 2006.  Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.hc-sc.gc.ca/ahc-asc/media/nr-cp/2006/2006_85_e.html" ext-link-type="uri" xlink:type="simple">http://www.hc-sc.gc.ca/ahc-asc/media/nr-cp/2006/2006_85_e.html</ext-link>
+            </p>
+      </fn>
+      <fn id="bibd2e146">
+        <p>	 CBC News.  Police group takes aim at Vancouver safe injection site.  September 1, 2006.  Available at: http://www.cbc.ca/news/story/2006/09/01/bc-police-sis.html</p>
+      </fn>
+      <fn id="bibd2e160">
+        <p>	 Wainberg MA. The need to promote public health in the field of illicit drug use. <italic>CMAJ.</italic> 2006;175(11):1395.</p>
+      </fn>
+      <fn id="bibd2e174">
+        <p>	 Lomas J.  Connecting research and policy.  <italic>Isuma: Can J Policy Research.</italic>  2000;1(1):140-4.</p>
+      </fn>
+      <fn id="bibd2e186">
+        <p>	 Rosenstock L, Lee LJ. Attacks on science: the risks to evidence-based policy. <italic>Am J Public Health.</italic> 2002;92(1):14-8.</p>
+      </fn>
+      <fn id="bibd2e199">
+        <p>	 Gibson DR, Flynn NM, Perales D. Effectiveness of syringe exchange programs in reducing HIV risk behavior and HIV seroconversion among injecting drug users. <italic>AIDS.</italic> 2001;15(11):1329-41.</p>
+      </fn>
+      <fn id="bibd2e211">
+        <p>	 Interventions to Prevent HIV Risk Behaviors. NIH Consensus Statement Online. 1997 Feb 11-13;15(2):1-41. Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://consensus.nih.gov/1997/1997PreventHIVRisk104html.htm" ext-link-type="uri" xlink:type="simple">http://consensus.nih.gov/1997/1997PreventHIVRisk104html.htm</ext-link>
+            </p>
+      </fn>
+      <fn id="bibd2e222">
+        <p>	 Urbina I.  Alone in a city&#8217;s AIDS battle, hoping for backup.  New York Times.  May 29, 2007.  Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.nytimes.com/2007/05/29/washington/29district.html" ext-link-type="uri" xlink:type="simple">http://www.nytimes.com/2007/05/29/washington/29district.html</ext-link>
+            </p>
+      </fn>
+      <fn id="bibd2e236">
+        <p>	 Scientists and Engineers for America. Welcome message. Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.sefora.org/" ext-link-type="uri" xlink:type="simple">http://www.sefora.org</ext-link>
+            </p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

@@ -1,0 +1,2655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generated="20150724 09:31:29.020" generator="Robot 2.9b2 (Python 2.7.3 on linux2)">
+<suite source="/var/local/meTypesetTests/tests/testForSuccessfulConversion.txt" id="s1" name="testForSuccessfulConversion">
+<test id="s1-t1" name="OpenMed-01-e1">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e1</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.084" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e1.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.084" starttime="20150724 09:31:29.084"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.085" starttime="20150724 09:31:29.083"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.085" critical="yes" starttime="20150724 09:31:29.082">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e1.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t2" name="OpenMed-01-e3">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e3</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.087" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e3.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.087" starttime="20150724 09:31:29.086"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.087" starttime="20150724 09:31:29.086"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.088" critical="yes" starttime="20150724 09:31:29.085">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e3.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t3" name="OpenMed-01-e13">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e13</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.090" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e13.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.090" starttime="20150724 09:31:29.089"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.090" starttime="20150724 09:31:29.089"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.090" critical="yes" starttime="20150724 09:31:29.088">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e13.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t4" name="OpenMed-01-e18">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e18</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.092" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e18.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.092" starttime="20150724 09:31:29.092"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.093" starttime="20150724 09:31:29.091"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.093" critical="yes" starttime="20150724 09:31:29.091">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e18.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t5" name="OpenMed-01-e37">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e37</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.095" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e37.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.095" starttime="20150724 09:31:29.094"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.095" starttime="20150724 09:31:29.094"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.096" critical="yes" starttime="20150724 09:31:29.093">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e37.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t6" name="OpenMed-01-e46">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e46</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.098" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e46.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.098" starttime="20150724 09:31:29.097"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.098" starttime="20150724 09:31:29.096"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.098" critical="yes" starttime="20150724 09:31:29.096">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e46.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t7" name="OpenMed-01-e52">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e52</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.100" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e52.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.100" starttime="20150724 09:31:29.100"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.101" starttime="20150724 09:31:29.099"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.101" critical="yes" starttime="20150724 09:31:29.099">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e52.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t8" name="OpenMed-01-e55">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e55</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.103" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e55.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.103" starttime="20150724 09:31:29.102"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.103" starttime="20150724 09:31:29.102"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.103" critical="yes" starttime="20150724 09:31:29.101">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e55.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t9" name="OpenMed-01-e58">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e58</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.105" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e58.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.106" starttime="20150724 09:31:29.105"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.106" starttime="20150724 09:31:29.104"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.106" critical="yes" starttime="20150724 09:31:29.104">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e58.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t10" name="OpenMed-01-e74">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e74</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.108" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e74.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.108" starttime="20150724 09:31:29.107"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.108" starttime="20150724 09:31:29.107"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.109" critical="yes" starttime="20150724 09:31:29.106">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e74.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t11" name="OpenMed-01-e89">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e89</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.111" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e89.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.111" starttime="20150724 09:31:29.110"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.111" starttime="20150724 09:31:29.109"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.111" critical="yes" starttime="20150724 09:31:29.109">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e89.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t12" name="OpenMed-01-e99">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e99</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.113" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e99.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.113" starttime="20150724 09:31:29.113"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.114" starttime="20150724 09:31:29.112"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.114" critical="yes" starttime="20150724 09:31:29.112">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e99.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t13" name="OpenMed-01-e147">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e147</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.116" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e147.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.116" starttime="20150724 09:31:29.115"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.116" starttime="20150724 09:31:29.115"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.117" critical="yes" starttime="20150724 09:31:29.114">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e147.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t14" name="OpenMed-01-e160">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e160</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.119" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e160.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.119" starttime="20150724 09:31:29.118"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.119" starttime="20150724 09:31:29.117"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.119" critical="yes" starttime="20150724 09:31:29.117">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e160.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t15" name="OpenMed-01-e164">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e164</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.121" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e164.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.121" starttime="20150724 09:31:29.121"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.122" starttime="20150724 09:31:29.120"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.122" critical="yes" starttime="20150724 09:31:29.120">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e164.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t16" name="OpenMed-01-e166">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e166</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.124" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e166.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.124" starttime="20150724 09:31:29.123"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.124" starttime="20150724 09:31:29.123"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.124" critical="yes" starttime="20150724 09:31:29.122">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e166.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t17" name="OpenMed-01-e181">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e181</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.126" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e181.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.126" starttime="20150724 09:31:29.126"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.127" starttime="20150724 09:31:29.125"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.127" critical="yes" starttime="20150724 09:31:29.125">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e181.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t18" name="OpenMed-01-e184">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e184</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.129" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e184.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.129" starttime="20150724 09:31:29.128"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.129" starttime="20150724 09:31:29.128"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.130" critical="yes" starttime="20150724 09:31:29.127">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e184.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t19" name="OpenMed-02-e1">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-02-e1</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.132" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e1.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.132" starttime="20150724 09:31:29.131"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.132" starttime="20150724 09:31:29.131"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.132" critical="yes" starttime="20150724 09:31:29.130">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e1.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t20" name="OpenMed-02-e4">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-02-e4</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.134" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e4.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.134" starttime="20150724 09:31:29.134"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.135" starttime="20150724 09:31:29.133"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.135" critical="yes" starttime="20150724 09:31:29.133">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e4.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t21" name="OpenMed-02-e18">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-02-e18</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.138" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e18.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.138" starttime="20150724 09:31:29.136"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.138" starttime="20150724 09:31:29.136"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.139" critical="yes" starttime="20150724 09:31:29.135">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e18.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t22" name="OpenMed-02-e20">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-02-e20</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.141" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e20.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.141" starttime="20150724 09:31:29.140"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.141" starttime="20150724 09:31:29.140"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.141" critical="yes" starttime="20150724 09:31:29.139">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e20.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t23" name="OpenMed-02-e39">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-02-e39</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.143" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e39.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.143" starttime="20150724 09:31:29.143"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.144" starttime="20150724 09:31:29.142"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.144" critical="yes" starttime="20150724 09:31:29.142">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e39.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t24" name="OpenMed-02-e42">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-02-e42</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.146" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e42.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.146" starttime="20150724 09:31:29.145"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.146" starttime="20150724 09:31:29.145"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.146" critical="yes" starttime="20150724 09:31:29.144">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e42.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t25" name="OpenMed-02-e49">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-02-e49</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.148" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e49.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.148" starttime="20150724 09:31:29.148"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.149" starttime="20150724 09:31:29.147"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.149" critical="yes" starttime="20150724 09:31:29.147">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e49.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t26" name="OpenMed-02-e51">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-02-e51</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.151" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e51.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.151" starttime="20150724 09:31:29.151"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.152" starttime="20150724 09:31:29.150"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.152" critical="yes" starttime="20150724 09:31:29.150">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e51.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t27" name="OpenMed-02-e60">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-02-e60</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.154" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e60.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.154" starttime="20150724 09:31:29.153"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.154" starttime="20150724 09:31:29.153"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.154" critical="yes" starttime="20150724 09:31:29.152">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e60.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t28" name="OpenMed-02-e62">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-02-e62</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.156" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e62.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.157" starttime="20150724 09:31:29.156"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.157" starttime="20150724 09:31:29.155"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.157" critical="yes" starttime="20150724 09:31:29.155">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e62.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t29" name="OpenMed-02-e70">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-02-e70</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.159" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e70.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.159" starttime="20150724 09:31:29.158"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.160" starttime="20150724 09:31:29.158"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.160" critical="yes" starttime="20150724 09:31:29.157">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e70.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t30" name="OpenMed-02-e74">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-02-e74</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.162" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e74.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.162" starttime="20150724 09:31:29.161"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.162" starttime="20150724 09:31:29.161"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.162" critical="yes" starttime="20150724 09:31:29.160">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e74.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t31" name="OpenMed-02-e83">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-02-e83</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.164" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e83.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.165" starttime="20150724 09:31:29.164"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.165" starttime="20150724 09:31:29.163"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.165" critical="yes" starttime="20150724 09:31:29.163">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e83.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t32" name="OpenMed-02-e89">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-02-e89</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.167" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e89.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.167" starttime="20150724 09:31:29.167"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.167" starttime="20150724 09:31:29.166"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.168" critical="yes" starttime="20150724 09:31:29.165">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e89.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t33" name="OpenMed-02-e91">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-02-e91</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.170" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e91.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.170" starttime="20150724 09:31:29.169"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.170" starttime="20150724 09:31:29.169"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.170" critical="yes" starttime="20150724 09:31:29.168">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e91.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t34" name="OpenMed-02-e99">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-02-e99</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.172" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e99.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.172" starttime="20150724 09:31:29.172"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.173" starttime="20150724 09:31:29.171"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.173" critical="yes" starttime="20150724 09:31:29.171">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e99.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t35" name="OpenMed-02-e114">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-02-e114</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.175" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e114.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.175" starttime="20150724 09:31:29.174"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.175" starttime="20150724 09:31:29.174"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.175" critical="yes" starttime="20150724 09:31:29.173">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e114.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t36" name="OpenMed-02-e121">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-02-e121</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.177" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e121.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.178" starttime="20150724 09:31:29.177"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.178" starttime="20150724 09:31:29.176"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.178" critical="yes" starttime="20150724 09:31:29.176">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e121.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t37" name="OpenMed-03-e1">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e1</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.180" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e1.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.180" starttime="20150724 09:31:29.180"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.181" starttime="20150724 09:31:29.179"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.181" critical="yes" starttime="20150724 09:31:29.178">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e1.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t38" name="OpenMed-03-e16">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e16</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.183" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e16.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.183" starttime="20150724 09:31:29.182"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.183" starttime="20150724 09:31:29.182"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.183" critical="yes" starttime="20150724 09:31:29.181">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e16.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t39" name="OpenMed-03-e22">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e22</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.185" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e22.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.186" starttime="20150724 09:31:29.185"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.186" starttime="20150724 09:31:29.184"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.186" critical="yes" starttime="20150724 09:31:29.184">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e22.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t40" name="OpenMed-03-e26">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e26</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.188" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e26.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.188" starttime="20150724 09:31:29.187"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.188" starttime="20150724 09:31:29.187"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.189" critical="yes" starttime="20150724 09:31:29.186">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e26.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t41" name="OpenMed-03-e51">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e51</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.191" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e51.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.191" starttime="20150724 09:31:29.190"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.191" starttime="20150724 09:31:29.189"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.191" critical="yes" starttime="20150724 09:31:29.189">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e51.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t42" name="OpenMed-03-e54">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e54</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.193" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e54.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.193" starttime="20150724 09:31:29.193"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.194" starttime="20150724 09:31:29.192"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.194" critical="yes" starttime="20150724 09:31:29.192">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e54.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t43" name="OpenMed-03-e92">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e92</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.196" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e92.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.196" starttime="20150724 09:31:29.195"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.196" starttime="20150724 09:31:29.195"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.196" critical="yes" starttime="20150724 09:31:29.194">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e92.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t44" name="OpenMed-03-e101">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e101</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.198" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e101.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.199" starttime="20150724 09:31:29.198"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.199" starttime="20150724 09:31:29.197"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.199" critical="yes" starttime="20150724 09:31:29.197">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e101.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t45" name="OpenMed-03-e120">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e120</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.201" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e120.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.201" starttime="20150724 09:31:29.200"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.202" starttime="20150724 09:31:29.200"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.202" critical="yes" starttime="20150724 09:31:29.199">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e120.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t46" name="OpenMed-03-e121">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e121</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.204" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e121.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.204" starttime="20150724 09:31:29.203"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.204" starttime="20150724 09:31:29.203"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.204" critical="yes" starttime="20150724 09:31:29.202">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e121.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t47" name="OpenMed-03-e122a">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e122a</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.206" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e122a.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.207" starttime="20150724 09:31:29.206"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.207" starttime="20150724 09:31:29.205"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.207" critical="yes" starttime="20150724 09:31:29.205">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e122a.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t48" name="OpenMed-03-e131">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e131</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.209" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e131.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.209" starttime="20150724 09:31:29.208"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.209" starttime="20150724 09:31:29.208"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.210" critical="yes" starttime="20150724 09:31:29.207">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e131.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t49" name="OpenMed-03-e140">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e140</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.212" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e140.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.212" starttime="20150724 09:31:29.211"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.212" starttime="20150724 09:31:29.211"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.212" critical="yes" starttime="20150724 09:31:29.210">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e140.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t50" name="OpenMed-03-e165">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e165</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.214" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e165.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.214" starttime="20150724 09:31:29.214"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.215" starttime="20150724 09:31:29.213"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.215" critical="yes" starttime="20150724 09:31:29.213">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e165.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t51" name="OpenMed-03-e178">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e178</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.217" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e178.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.217" starttime="20150724 09:31:29.216"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.217" starttime="20150724 09:31:29.216"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.217" critical="yes" starttime="20150724 09:31:29.215">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e178.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t52" name="OpenMed-03-e210">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e210</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.219" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e210.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.220" starttime="20150724 09:31:29.219"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.220" starttime="20150724 09:31:29.218"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.220" critical="yes" starttime="20150724 09:31:29.218">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e210.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t53" name="OpenMed-03-e220">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e220</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.222" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e220.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.222" starttime="20150724 09:31:29.221"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.223" starttime="20150724 09:31:29.221"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.223" critical="yes" starttime="20150724 09:31:29.220">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e220.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t54" name="OpenMed-04-e1">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e1</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.225" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e1.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.225" starttime="20150724 09:31:29.224"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.225" starttime="20150724 09:31:29.224"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.225" critical="yes" starttime="20150724 09:31:29.223">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e1.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t55" name="OpenMed-04-e11">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e11</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.227" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e11.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.228" starttime="20150724 09:31:29.227"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.228" starttime="20150724 09:31:29.226"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.228" critical="yes" starttime="20150724 09:31:29.226">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e11.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t56" name="OpenMed-04-e22">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e22</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.230" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e22.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.230" starttime="20150724 09:31:29.229"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.230" starttime="20150724 09:31:29.229"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.231" critical="yes" starttime="20150724 09:31:29.228">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e22.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t57" name="OpenMed-04-e26">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e26</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.233" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e26.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.233" starttime="20150724 09:31:29.232"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.233" starttime="20150724 09:31:29.231"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.233" critical="yes" starttime="20150724 09:31:29.231">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e26.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t58" name="OpenMed-04-e28">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e28</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.235" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e28.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.235" starttime="20150724 09:31:29.235"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.236" starttime="20150724 09:31:29.234"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.236" critical="yes" starttime="20150724 09:31:29.234">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e28.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t59" name="OpenMed-04-e49">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e49</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.238" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e49.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.238" starttime="20150724 09:31:29.237"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.238" starttime="20150724 09:31:29.237"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.238" critical="yes" starttime="20150724 09:31:29.236">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e49.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t60" name="OpenMed-04-e50">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e50</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.240" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e50.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.240" starttime="20150724 09:31:29.240"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.241" starttime="20150724 09:31:29.239"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.241" critical="yes" starttime="20150724 09:31:29.239">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e50.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t61" name="OpenMed-04-e60">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e60</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.243" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e60.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.243" starttime="20150724 09:31:29.242"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.244" starttime="20150724 09:31:29.242"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.244" critical="yes" starttime="20150724 09:31:29.241">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e60.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t62" name="OpenMed-04-e69">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e69</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.246" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e69.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.246" starttime="20150724 09:31:29.245"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.246" starttime="20150724 09:31:29.245"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.246" critical="yes" starttime="20150724 09:31:29.244">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e69.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t63" name="OpenMed-04-e92">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e92</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.248" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e92.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.248" starttime="20150724 09:31:29.248"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.249" starttime="20150724 09:31:29.247"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.249" critical="yes" starttime="20150724 09:31:29.247">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e92.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t64" name="OpenMed-04-e95">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e95</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.251" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e95.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.251" starttime="20150724 09:31:29.250"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.251" starttime="20150724 09:31:29.250"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.252" critical="yes" starttime="20150724 09:31:29.249">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e95.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t65" name="OpenMed-04-e98">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e98</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.253" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e98.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.254" starttime="20150724 09:31:29.253"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.254" starttime="20150724 09:31:29.252"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.254" critical="yes" starttime="20150724 09:31:29.252">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e98.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t66" name="OpenMed-04-e114">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e114</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.256" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e114.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.256" starttime="20150724 09:31:29.256"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.256" starttime="20150724 09:31:29.255"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.257" critical="yes" starttime="20150724 09:31:29.254">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e114.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t67" name="OpenMed-04-e117">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e117</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.259" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e117.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.259" starttime="20150724 09:31:29.258"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.259" starttime="20150724 09:31:29.258"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.259" critical="yes" starttime="20150724 09:31:29.257">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e117.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t68" name="OpenMed-04-e139">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e139</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.261" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e139.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.261" starttime="20150724 09:31:29.261"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.262" starttime="20150724 09:31:29.260"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.262" critical="yes" starttime="20150724 09:31:29.260">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e139.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t69" name="OpenMed-04-e143">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e143</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.264" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e143.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.264" starttime="20150724 09:31:29.263"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.265" starttime="20150724 09:31:29.263"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.265" critical="yes" starttime="20150724 09:31:29.262">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e143.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t70" name="OpenMed-04-e167">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e167</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.267" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e167.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.267" starttime="20150724 09:31:29.266"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.267" starttime="20150724 09:31:29.266"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.267" critical="yes" starttime="20150724 09:31:29.265">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e167.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t71" name="OpenMed-04-e181">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e181</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.269" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e181.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.270" starttime="20150724 09:31:29.269"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.270" starttime="20150724 09:31:29.268"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.270" critical="yes" starttime="20150724 09:31:29.268">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e181.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t72" name="OpenMed-04-e187">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e187</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.272" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e187.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.272" starttime="20150724 09:31:29.271"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.272" starttime="20150724 09:31:29.271"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.273" critical="yes" starttime="20150724 09:31:29.270">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e187.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t73" name="OpenMed-04-e193">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e193</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.275" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e193.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.275" starttime="20150724 09:31:29.274"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.275" starttime="20150724 09:31:29.273"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.275" critical="yes" starttime="20150724 09:31:29.273">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e193.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t74" name="OpenMed-04-e197">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e197</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.277" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e197.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.277" starttime="20150724 09:31:29.277"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.277" starttime="20150724 09:31:29.276"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.278" critical="yes" starttime="20150724 09:31:29.276">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e197.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t75" name="OpenMed-05-e1">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e1</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.280" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e1.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.280" starttime="20150724 09:31:29.279"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.280" starttime="20150724 09:31:29.279"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.280" critical="yes" starttime="20150724 09:31:29.278">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e1.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t76" name="OpenMed-05-e10">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e10</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.282" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e10.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.282" starttime="20150724 09:31:29.282"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.283" starttime="20150724 09:31:29.281"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.283" critical="yes" starttime="20150724 09:31:29.281">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e10.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t77" name="OpenMed-05-e13">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e13</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.285" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e13.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.285" starttime="20150724 09:31:29.284"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.286" starttime="20150724 09:31:29.284"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.286" critical="yes" starttime="20150724 09:31:29.283">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e13.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t78" name="OpenMed-05-e23">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e23</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.288" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e23.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.288" starttime="20150724 09:31:29.287"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.288" starttime="20150724 09:31:29.287"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.288" critical="yes" starttime="20150724 09:31:29.286">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e23.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t79" name="OpenMed-05-e28">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e28</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.290" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e28.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.291" starttime="20150724 09:31:29.290"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.291" starttime="20150724 09:31:29.289"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.291" critical="yes" starttime="20150724 09:31:29.289">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e28.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t80" name="OpenMed-05-e33">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e33</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.293" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e33.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.293" starttime="20150724 09:31:29.292"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.293" starttime="20150724 09:31:29.292"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.294" critical="yes" starttime="20150724 09:31:29.291">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e33.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t81" name="OpenMed-05-e49">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e49</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.296" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e49.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.296" starttime="20150724 09:31:29.295"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.296" starttime="20150724 09:31:29.294"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.296" critical="yes" starttime="20150724 09:31:29.294">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e49.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t82" name="OpenMed-05-e55">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e55</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.298" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e55.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.298" starttime="20150724 09:31:29.298"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.299" starttime="20150724 09:31:29.297"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.299" critical="yes" starttime="20150724 09:31:29.297">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e55.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t83" name="OpenMed-05-e57">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e57</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.301" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e57.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.301" starttime="20150724 09:31:29.300"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.301" starttime="20150724 09:31:29.300"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.301" critical="yes" starttime="20150724 09:31:29.299">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e57.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t84" name="OpenMed-05-e65">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e65</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.303" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e65.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.304" starttime="20150724 09:31:29.303"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.304" starttime="20150724 09:31:29.302"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.304" critical="yes" starttime="20150724 09:31:29.302">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e65.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t85" name="OpenMed-05-e77">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e77</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.306" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e77.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.306" starttime="20150724 09:31:29.305"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.307" starttime="20150724 09:31:29.305"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.307" critical="yes" starttime="20150724 09:31:29.304">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e77.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t86" name="OpenMed-05-e79">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e79</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.309" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e79.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.309" starttime="20150724 09:31:29.308"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.309" starttime="20150724 09:31:29.308"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.309" critical="yes" starttime="20150724 09:31:29.307">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e79.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t87" name="OpenMed-05-e87">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e87</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.311" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e87.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.312" starttime="20150724 09:31:29.311"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.312" starttime="20150724 09:31:29.310"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.312" critical="yes" starttime="20150724 09:31:29.310">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e87.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t88" name="OpenMed-05-e94">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e94</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.314" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e94.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.314" starttime="20150724 09:31:29.313"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.314" starttime="20150724 09:31:29.313"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.315" critical="yes" starttime="20150724 09:31:29.312">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e94.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t89" name="OpenMed-05-e104">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e104</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.317" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e104.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.317" starttime="20150724 09:31:29.316"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.317" starttime="20150724 09:31:29.316"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.317" critical="yes" starttime="20150724 09:31:29.315">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e104.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t90" name="OpenMed-05-e120">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e120</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.319" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e120.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.319" starttime="20150724 09:31:29.319"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.320" starttime="20150724 09:31:29.318"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.320" critical="yes" starttime="20150724 09:31:29.318">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e120.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t91" name="OpenMed-05-e132">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e132</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.322" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e132.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.322" starttime="20150724 09:31:29.321"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.322" starttime="20150724 09:31:29.321"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.322" critical="yes" starttime="20150724 09:31:29.320">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e132.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t92" name="OpenMed-05-e134">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e134</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.324" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e134.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.325" starttime="20150724 09:31:29.324"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.325" starttime="20150724 09:31:29.323"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.325" critical="yes" starttime="20150724 09:31:29.323">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e134.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t93" name="OpenMed-05-e137">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e137</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.327" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e137.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.327" starttime="20150724 09:31:29.327"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.328" starttime="20150724 09:31:29.326"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.328" critical="yes" starttime="20150724 09:31:29.325">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e137.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t94" name="OpenMed-05-e139">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e139</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.330" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e139.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.330" starttime="20150724 09:31:29.329"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.330" starttime="20150724 09:31:29.329"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.331" critical="yes" starttime="20150724 09:31:29.328">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e139.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t95" name="OpenMed-05-e149">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e149</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.333" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e149.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.333" starttime="20150724 09:31:29.332"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.333" starttime="20150724 09:31:29.331"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.333" critical="yes" starttime="20150724 09:31:29.331">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e149.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t96" name="OpenMed-05-e166">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e166</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.335" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e166.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.335" starttime="20150724 09:31:29.335"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.336" starttime="20150724 09:31:29.334"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.336" critical="yes" starttime="20150724 09:31:29.334">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e166.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t97" name="OpenMed-05-e173">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e173</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.338" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e173.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.338" starttime="20150724 09:31:29.337"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.338" starttime="20150724 09:31:29.337"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.338" critical="yes" starttime="20150724 09:31:29.336">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e173.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t98" name="OpenMed-05-e175">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e175</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.340" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e175.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.340" starttime="20150724 09:31:29.340"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.341" starttime="20150724 09:31:29.339"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.341" critical="yes" starttime="20150724 09:31:29.339">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e175.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t99" name="OpenMed-05-e183">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e183</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.343" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e183.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.343" starttime="20150724 09:31:29.342"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.343" starttime="20150724 09:31:29.342"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.344" critical="yes" starttime="20150724 09:31:29.341">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e183.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t100" name="OpenMed-05-e193">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e193</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.346" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e193.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.346" starttime="20150724 09:31:29.345"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.346" starttime="20150724 09:31:29.344"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.346" critical="yes" starttime="20150724 09:31:29.344">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e193.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t101" name="OpenMed-05-e201">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e201</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.348" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e201.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.349" starttime="20150724 09:31:29.348"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.349" starttime="20150724 09:31:29.347"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.349" critical="yes" starttime="20150724 09:31:29.347">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e201.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t102" name="OpenMed-06-e1">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-06-e1</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.351" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e1.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.351" starttime="20150724 09:31:29.350"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.351" starttime="20150724 09:31:29.350"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.352" critical="yes" starttime="20150724 09:31:29.349">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e1.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t103" name="OpenMed-06-e10">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-06-e10</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.354" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e10.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.354" starttime="20150724 09:31:29.353"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.354" starttime="20150724 09:31:29.353"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.354" critical="yes" starttime="20150724 09:31:29.352">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e10.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t104" name="OpenMed-06-e17">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-06-e17</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.356" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e17.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.356" starttime="20150724 09:31:29.356"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.357" starttime="20150724 09:31:29.355"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.357" critical="yes" starttime="20150724 09:31:29.355">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e17.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t105" name="OpenMed-06-e24">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-06-e24</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.359" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e24.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.359" starttime="20150724 09:31:29.358"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.359" starttime="20150724 09:31:29.358"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.359" critical="yes" starttime="20150724 09:31:29.357">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e24.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t106" name="OpenMed-06-e28">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-06-e28</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.361" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e28.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.362" starttime="20150724 09:31:29.361"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.362" starttime="20150724 09:31:29.360"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.362" critical="yes" starttime="20150724 09:31:29.360">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e28.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t107" name="OpenMed-06-e35">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-06-e35</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.364" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e35.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.364" starttime="20150724 09:31:29.364"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.364" starttime="20150724 09:31:29.363"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.365" critical="yes" starttime="20150724 09:31:29.362">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e35.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t108" name="OpenMed-06-e48">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-06-e48</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.367" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e48.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.367" starttime="20150724 09:31:29.366"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.367" starttime="20150724 09:31:29.366"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.367" critical="yes" starttime="20150724 09:31:29.365">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e48.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t109" name="OpenMed-06-e75">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-06-e75</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.370" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e75.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.370" starttime="20150724 09:31:29.369"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.370" starttime="20150724 09:31:29.368"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.370" critical="yes" starttime="20150724 09:31:29.368">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e75.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t110" name="OpenMed-06-e101">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-06-e101</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.372" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e101.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.372" starttime="20150724 09:31:29.372"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.372" starttime="20150724 09:31:29.371"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.373" critical="yes" starttime="20150724 09:31:29.370">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e101.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t111" name="OpenMed-06-e118">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-06-e118</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.375" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e118.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.375" starttime="20150724 09:31:29.374"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.375" starttime="20150724 09:31:29.374"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.375" critical="yes" starttime="20150724 09:31:29.373">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e118.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t112" name="OpenMed-06-e134">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-06-e134</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.377" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e134.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.377" starttime="20150724 09:31:29.377"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.378" starttime="20150724 09:31:29.376"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.378" critical="yes" starttime="20150724 09:31:29.376">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e134.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t113" name="OpenMed-06-e141">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-06-e141</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.380" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e141.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.380" starttime="20150724 09:31:29.379"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.380" starttime="20150724 09:31:29.379"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.381" critical="yes" starttime="20150724 09:31:29.378">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e141.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t114" name="OpenMed-06-e146">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-06-e146</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.383" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e146.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.383" starttime="20150724 09:31:29.382"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.383" starttime="20150724 09:31:29.381"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.383" critical="yes" starttime="20150724 09:31:29.381">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e146.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t115" name="OpenMed-06-e166">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-06-e146</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.385" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e146.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.385" starttime="20150724 09:31:29.385"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.385" starttime="20150724 09:31:29.384"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.386" critical="yes" starttime="20150724 09:31:29.383">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e146.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t116" name="OpenMed-07-74">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-07-74</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.388" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-07-74.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.388" starttime="20150724 09:31:29.387"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.388" starttime="20150724 09:31:29.387"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.388" critical="yes" starttime="20150724 09:31:29.386">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-07-74.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t117" name="OpenMed-07-85">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-07-85</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.391" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-07-85.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.391" starttime="20150724 09:31:29.390"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.391" starttime="20150724 09:31:29.389"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.392" critical="yes" starttime="20150724 09:31:29.389">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-07-85.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t118" name="OpenMed-07-94">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-07-94</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.394" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-07-94.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.394" starttime="20150724 09:31:29.393"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.394" starttime="20150724 09:31:29.392"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.394" critical="yes" starttime="20150724 09:31:29.392">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-07-94.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t119" name="OpenMed-07-107">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-07-107</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.396" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-07-107.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.396" starttime="20150724 09:31:29.396"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.397" starttime="20150724 09:31:29.395"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.397" critical="yes" starttime="20150724 09:31:29.395">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-07-107.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t120" name="OpenMed-07-e1">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-07-e1</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.399" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-07-e1.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.399" starttime="20150724 09:31:29.398"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.399" starttime="20150724 09:31:29.398"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.399" critical="yes" starttime="20150724 09:31:29.397">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-07-e1.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t121" name="OpenMed-07-e9">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-07-e9</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.401" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-07-e9.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.401" starttime="20150724 09:31:29.401"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.402" starttime="20150724 09:31:29.400"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.402" critical="yes" starttime="20150724 09:31:29.400">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-07-e9.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t122" name="OpenMed-07-e21">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-07-e21</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.404" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-07-e21.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.404" starttime="20150724 09:31:29.403"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.404" starttime="20150724 09:31:29.403"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.405" critical="yes" starttime="20150724 09:31:29.402">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-07-e21.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t123" name="OpenMed-07-e31">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-07-e31</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.407" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-07-e31.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.407" starttime="20150724 09:31:29.406"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.407" starttime="20150724 09:31:29.405"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.407" critical="yes" starttime="20150724 09:31:29.405">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-07-e31.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t124" name="OpenMed-07-e40">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-07-e40</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.409" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-07-e40.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.409" starttime="20150724 09:31:29.409"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.409" starttime="20150724 09:31:29.408"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.410" critical="yes" starttime="20150724 09:31:29.407">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-07-e40.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t125" name="OpenMed-07-e68">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-07-e68</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.412" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-07-e68.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.412" starttime="20150724 09:31:29.411"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.412" starttime="20150724 09:31:29.411"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.413" critical="yes" starttime="20150724 09:31:29.410">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-07-e68.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t126" name="OpenMed-08-01">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-08-01</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.415" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-01.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.415" starttime="20150724 09:31:29.414"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.415" starttime="20150724 09:31:29.413"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.415" critical="yes" starttime="20150724 09:31:29.413">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-01.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t127" name="OpenMed-08-14">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-08-14</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.417" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-14.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.417" starttime="20150724 09:31:29.417"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.417" starttime="20150724 09:31:29.416"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.418" critical="yes" starttime="20150724 09:31:29.416">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-14.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t128" name="OpenMed-08-20">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-08-20</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.420" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-20.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.420" starttime="20150724 09:31:29.419"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.420" starttime="20150724 09:31:29.419"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.420" critical="yes" starttime="20150724 09:31:29.418">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-20.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t129" name="OpenMed-08-46">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-08-46</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.422" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-46.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.422" starttime="20150724 09:31:29.422"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.423" starttime="20150724 09:31:29.421"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.423" critical="yes" starttime="20150724 09:31:29.421">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-46.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t130" name="OpenMed-08-73">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-08-73</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.425" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-73.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.425" starttime="20150724 09:31:29.424"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.425" starttime="20150724 09:31:29.424"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.426" critical="yes" starttime="20150724 09:31:29.423">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-73.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t131" name="OpenMed-08-81">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-08-81</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.428" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-81.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.428" starttime="20150724 09:31:29.427"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.428" starttime="20150724 09:31:29.426"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.428" critical="yes" starttime="20150724 09:31:29.426">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-81.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t132" name="OpenMed-08-102">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-08-102</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.430" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-102.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.430" starttime="20150724 09:31:29.430"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.430" starttime="20150724 09:31:29.429"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.431" critical="yes" starttime="20150724 09:31:29.429">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-102.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t133" name="OpenMed-08-105">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-08-105</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.433" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-105.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.433" starttime="20150724 09:31:29.432"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.433" starttime="20150724 09:31:29.432"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.434" critical="yes" starttime="20150724 09:31:29.431">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-105.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t134" name="OpenMed-08-116">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-08-116</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.436" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-116.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.436" starttime="20150724 09:31:29.435"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.436" starttime="20150724 09:31:29.434"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.436" critical="yes" starttime="20150724 09:31:29.434">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-116.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t135" name="OpenMed-08-130">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-08-130</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.438" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-130.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.438" starttime="20150724 09:31:29.438"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.439" starttime="20150724 09:31:29.437"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.439" critical="yes" starttime="20150724 09:31:29.437">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-130.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t136" name="OpenMed-08-147">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-08-147</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.441" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-147.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.441" starttime="20150724 09:31:29.440"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.441" starttime="20150724 09:31:29.440"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.441" critical="yes" starttime="20150724 09:31:29.439">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-147.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t137" name="OpenMed-01-e27">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e27</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.443" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e27.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.444" starttime="20150724 09:31:29.443"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.444" starttime="20150724 09:31:29.442"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.444" critical="yes" starttime="20150724 09:31:29.442">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e27.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t138" name="OpenMed-01-e102">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e102</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.446" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e102.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.446" starttime="20150724 09:31:29.445"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.446" starttime="20150724 09:31:29.445"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.447" critical="yes" starttime="20150724 09:31:29.444">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e102.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t139" name="OpenMed-01-e107">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e107</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.449" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e107.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.449" starttime="20150724 09:31:29.448"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.449" starttime="20150724 09:31:29.447"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.449" critical="yes" starttime="20150724 09:31:29.447">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e107.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t140" name="OpenMed-01-e171">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-01-e171</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.451" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e171.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.451" starttime="20150724 09:31:29.451"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.451" starttime="20150724 09:31:29.450"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.452" critical="yes" starttime="20150724 09:31:29.450">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-01-e171.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t141" name="OpenMed-02-e26">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-02-e26</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.454" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e26.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.454" starttime="20150724 09:31:29.453"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.454" starttime="20150724 09:31:29.453"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.455" critical="yes" starttime="20150724 09:31:29.452">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-02-e26.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t142" name="OpenMed-03-e31">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e31</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.457" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e31.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.457" starttime="20150724 09:31:29.456"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.457" starttime="20150724 09:31:29.455"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.457" critical="yes" starttime="20150724 09:31:29.455">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e31.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t143" name="OpenMed-03-e62">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e62</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.459" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e62.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.459" starttime="20150724 09:31:29.459"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.460" starttime="20150724 09:31:29.458"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.460" critical="yes" starttime="20150724 09:31:29.457">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e62.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t144" name="OpenMed-03-e69">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e69</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.462" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e69.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.462" starttime="20150724 09:31:29.461"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.462" starttime="20150724 09:31:29.461"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.462" critical="yes" starttime="20150724 09:31:29.460">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e69.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t145" name="OpenMed-03-e123">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e123</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.464" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e123.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.464" starttime="20150724 09:31:29.464"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.465" starttime="20150724 09:31:29.463"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.465" critical="yes" starttime="20150724 09:31:29.463">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e123.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t146" name="OpenMed-03-e196">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-03-e196</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.468" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e196.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.468" starttime="20150724 09:31:29.467"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.468" starttime="20150724 09:31:29.466"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.468" critical="yes" starttime="20150724 09:31:29.465">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-03-e196.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t147" name="OpenMed-04-e13">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e13</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.470" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e13.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.471" starttime="20150724 09:31:29.470"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.471" starttime="20150724 09:31:29.469"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.471" critical="yes" starttime="20150724 09:31:29.469">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e13.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t148" name="OpenMed-04-e102">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e102</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.473" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e102.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.473" starttime="20150724 09:31:29.473"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.473" starttime="20150724 09:31:29.472"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.474" critical="yes" starttime="20150724 09:31:29.472">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e102.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t149" name="OpenMed-04-e134">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e134</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.476" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e134.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.476" starttime="20150724 09:31:29.475"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.476" starttime="20150724 09:31:29.475"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.477" critical="yes" starttime="20150724 09:31:29.474">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e134.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t150" name="OpenMed-04-e154">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e154</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.479" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e154.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.479" starttime="20150724 09:31:29.478"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.479" starttime="20150724 09:31:29.478"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.479" critical="yes" starttime="20150724 09:31:29.477">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e154.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t151" name="OpenMed-04-e171">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-04-e171</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.481" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e171.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.481" starttime="20150724 09:31:29.481"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.482" starttime="20150724 09:31:29.480"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.482" critical="yes" starttime="20150724 09:31:29.480">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-04-e171.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t152" name="OpenMed-05-e35">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e35</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.484" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e35.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.484" starttime="20150724 09:31:29.483"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.484" starttime="20150724 09:31:29.483"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.485" critical="yes" starttime="20150724 09:31:29.482">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e35.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t153" name="OpenMed-05-e154">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-05-e154</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.487" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e154.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.487" starttime="20150724 09:31:29.486"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.487" starttime="20150724 09:31:29.485"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.487" critical="yes" starttime="20150724 09:31:29.485">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-05-e154.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t154" name="OpenMed-06-e59">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-06-e59</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.489" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e59.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.489" starttime="20150724 09:31:29.489"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.490" starttime="20150724 09:31:29.488"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.490" critical="yes" starttime="20150724 09:31:29.488">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-06-e59.docx/nlm/out.xml' does not match any file</status>
+</test>
+<test id="s1-t155" name="OpenMed-08-e147">
+<kw name="File is Converted and Errors Highlighted">
+<arguments>
+<arg>OpenMed-08-e147</arg>
+</arguments>
+<kw name="File Should Exist" library="OperatingSystem">
+<doc>Fails unless the given ``path`` points to an existing file.</doc>
+<arguments>
+<arg>testOutput/${filePath}.docx/nlm/out.xml</arg>
+</arguments>
+<msg timestamp="20150724 09:31:29.492" level="FAIL">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-e147.docx/nlm/out.xml' does not match any file</msg>
+<status status="FAIL" endtime="20150724 09:31:29.492" starttime="20150724 09:31:29.491"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.492" starttime="20150724 09:31:29.491"></status>
+</kw>
+<status status="FAIL" endtime="20150724 09:31:29.492" critical="yes" starttime="20150724 09:31:29.490">Path '/var/local/meTypesetTests/tests/testOutput/OpenMed-08-e147.docx/nlm/out.xml' does not match any file</status>
+</test>
+<doc>This test goes through every file in the corpus and sees if a conversion process occurred and if only the accepted errors were passed through and if the XML files matches JATS format.</doc>
+<status status="FAIL" endtime="20150724 09:31:29.496" starttime="20150724 09:31:29.021"></status>
+</suite>
+<statistics>
+<total>
+<stat fail="155" pass="0">Critical Tests</stat>
+<stat fail="155" pass="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat fail="155" id="s1" name="testForSuccessfulConversion" pass="0">testForSuccessfulConversion</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

@@ -1,0 +1,377 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">The Journal Title</journal-id>
+      <issn pub-type="epub">0000-000X</issn>
+      <publisher>
+        <publisher-name>The Publisher Name</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1000/123456</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Sample Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A Sample Article Title</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Eve</surname>
+            <given-names>Martin Paul</given-names>
+          </name>
+          <xref ref-type="aff" rid="lincoln"/>
+        </contrib>
+        <aff id="lincoln">
+          <institution>University of Lincoln</institution>
+        </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <year>2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <issue>1</issue>
+      <fpage>1</fpage>
+      <lpage>2</lpage>
+      <permissions>
+        <copyright-statement>Copyright &#169; 2014, Martin Paul Eve</copyright-statement>
+        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The citation of this article must include: the name(s) of the authors, the name of the journal, the full URL of the article (in a hyperlinked format if distributed online) and the DOI number of the article.</license-p>
+        </license>
+      </permissions>
+      <self-uri>https://www.martineve.com/</self-uri>
+      <abstract>
+        <p>This is a sample abstract that forms part of the metadataSample.xml file in meTypeset.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Rural Medical Students At Urban Medical Schools:</title>
+    </sec>
+    <sec>
+      <title>Too Few and Far Between?</title>
+      <sec>
+        <title>Jennifer M. Hensel</title>
+        <p>Maureen Shandling</p>
+      </sec>
+      <sec>
+        <title>Donald A. Redelmeier</title>
+        <p>Department of Medicine, University of Toronto; Clinical Epidemiology and Health Care Research Program, Sunnybrook Health Sciences Centre; Institute for Clinical Evaluative Sciences in Ontario; and Patient Safety Service of Sunnybrook Health Sciences Centre. </p>
+        <sec>
+          <title>Correspondence:	Donald A. Redelmeier</title>
+        </sec>
+        <sec>
+          <title>			Sunnybrook and Women's College Health Sciences Centre, G-151</title>
+        </sec>
+        <sec>
+          <title>			2075 Bayview Ave, Ontario, CANADA M4N 3M5</title>
+        </sec>
+        <sec>
+          <title>			voice:	(416) 480-6999	fax:	(416) 480-6048</title>
+        </sec>
+        <sec>
+          <title>			e.mail:	DAR@ICES.ON.CA</title>
+          <sec>
+            <title>ABSTRACT</title>
+            <p><underline>Introduction:</underline> 	Rural regions of industrialized nations have a crisis in health care access reflecting a high disease burden and a low physician supply.  The maldistribution of physicians stems partly from the low entry into medical school of applicants from rural backgrounds.  </p>
+            <p><underline>Methods:</underline>	We analyzed applicants to the University of Toronto medical school in 2005 (<xref rid="TO_LINK" ref-type="bibr" id="IDc73973d2-3b8c-4b0d-8ed6-33889812d2ce">n=2052</xref>) to test for a possible institutional bias against rural applicants and a possible applicant bias against the institution.  We defined rural according to the Statistics Canada classification of home family postal code reflecting communities with a population of less than 10,000. </p>
+            <p><underline>Results:</underline>	Consistent with past reports, rural applicants were underrepresented (n=93, 4.5% of applicants relative to 20% of baseline population).  Rural applicants, on average, were equally competitive with urban applicants as measured by grades, test scores, and interviews.  Rural applicants were just as likely as urban applicants to be offered admission (<xref rid="TO_LINK" ref-type="bibr" id="ID4e0dc2f3-faca-43e0-9329-cbf3c049c131">17% vs. 14%, p=0.43</xref>), indicating no large bias from the institution.  Rural applicants, however, were more than twice as likely to decline the admission offer (<xref rid="TO_LINK" ref-type="bibr" id="ID598a8d10-977b-4a8e-84df-167be56f7274">69% vs. 24%, p&lt;0.001</xref>), indicating a large bias against the institution.  This discrepancy was not explained by financial disparity and was not confined to those applicants most likely to receive invitations to other schools.   </p>
+            <p><underline>Conclusions:</underline>	Programs to increase physician supply in rural areas need to address students' concealed preferences that are established prior to enrolment.  Medical schools, in particular, need to encourage more rural students to apply and persuade those offered admission to accept.  </p>
+            <p>MeSH Keywords:	rural 	medical students admission medical school	</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec>
+        <title>INTRODUCTION</title>
+        <p><bold>	</bold>A few years ago, the executive director of the Office of Rural Health stated: &#8220;if there is a two-tiered medicine in Canada, it&#8217;s not rich and poor, it&#8217;s urban vs rural&#8221; [<xref rid="ID63523481-61b8-4d6c-8c00-a9e62811dda6" ref-type="bibr" id="IDcdd11ce2-c6a2-4aae-b3ed-aeae13a13478">1</xref>].  Indeed, a perennial problem in health care for industrialized nations is the maldistribution of physicians that, in turn, contributes to long travel distance to healthcare services, limited access to care, and delayed follow-up.  No physician, for example, currently practices north of 70&#186; latitude in North America [<xref rid="ID4f2eae6c-356a-4fd9-ae70-15e7d310786a" ref-type="bibr" id="IDb5ba9dc8-7fc0-4f51-967f-eeb57f727eda">2</xref>].  On a Canadian basis, about <xref rid="ID4f2eae6c-356a-4fd9-ae70-15e7d310786a" ref-type="bibr" id="ID87bcfd2e-a824-4c00-900d-9891f2c8147a">2</xref>0% of the population is rural but only 9% of the country's physicians practice in rural areas [2].  A shortfall in rural physicians is evident in other countries throughout the world [<xref rid="ID609cce07-99a4-4ec3-ad3e-504187e7f5c8" ref-type="bibr" id="ID076e5775-1994-4752-83aa-ee47d5363ef9">3</xref>,<xref rid="ID5bd001b9-76dd-4dee-b4ca-fb3b8dd6de95" ref-type="bibr" id="IDd1d3f83c-4050-4816-ba37-f8f7c430a389">4</xref>,<xref rid="IDaa8c5445-76d2-43b4-8a76-35f330f8a53d" ref-type="bibr" id="IDe8f0cfc6-2133-4abb-9b1c-6002eb985043">5</xref>].  The physicians located in rural areas, moreover, are often responsible for multiple duties, carry large patient rosters, and have limited back-up [<xref rid="IDe1e224de-5164-49d6-8ed7-0874fe914efb" ref-type="bibr" id="ID113ab875-7cb8-40e0-8be9-e9ca58a5942a">6</xref>].  </p>
+        <p>	Improving the geographic maldistribution of physicians requires recruiting more clinicians to practice in rural communities.  Past research indicates that certain characteristics are distinct to rural physicians.  The most notable predictor is that rural physicians are up to 4-5 times more likely than their urban counterparts to come from rural backgrounds (eg, raised and schooled in a rural community) [<xref rid="TO_LINK" ref-type="bibr" id="ID76c7e9d0-f430-4916-838b-0922bbeadda1">7</xref>,<xref rid="TO_LINK" ref-type="bibr" id="ID2a78da58-e36e-4583-af9b-40641555d80d">8</xref>,<xref rid="TO_LINK" ref-type="bibr" id="ID77ac2b4f-0ad5-4a26-9af9-dcd7fab4b1a3">9</xref>,<xref rid="TO_LINK" ref-type="bibr" id="IDb9a2c95d-8c40-4f1f-a50e-f4e696ee97ae">10</xref>,<xref rid="ID4f2eae6c-356a-4fd9-ae70-15e7d310786a" ref-type="bibr" id="ID4306e675-41c1-4d4f-9e7d-77870753ce2f">11</xref>,<xref rid="TO_LINK" ref-type="bibr" id="ID877774fb-a04c-4e93-b831-54fed83bccf2">12</xref>,<xref rid="TO_LINK" ref-type="bibr" id="ID318f65d2-3707-4054-b415-f612cce0a883">13</xref>,<xref rid="TO_LINK" ref-type="bibr" id="ID76578dc4-524a-4e51-b5da-d32b5ee497f5">14</xref>,<xref rid="TO_LINK" ref-type="bibr" id="IDde9b4a79-b580-466c-b8f4-1fb53335395f">15</xref>].  In addition, rural physicians are 2-3 times more likely to have had rural undergraduate training and 2-3 times more likely to have rural post-graduate training [<xref rid="TO_LINK" ref-type="bibr" id="ID33a669ae-cc6e-477a-84e6-b0b133c7d077">9</xref>,<xref rid="TO_LINK" ref-type="bibr" id="ID81c529e0-285d-4247-a1f8-c33494ee3e7a">13</xref>].  For most rural physicians, all three characteristics are true.  Despite these recognizable distinctions, rural students are greatly under-represented in Canadian medical schools (11.0% overall), with similar shortfalls for other industrialized countries [<xref rid="TO_LINK" ref-type="bibr" id="ID81d7e8bb-2943-40b0-9b67-ba844f3f04fe">10</xref>,<xref rid="TO_LINK" ref-type="bibr" id="ID184c39e7-039d-4134-86b6-0d1dfc5f8e0f">14</xref>].  </p>
+        <p>Two reasons may explain a lack of rural students in medical schools; namely, they don&#8217;t apply or they don&#8217;t get accepted.  Individuals may not apply because of the cost, a lack of motivation, or distance from home [<xref rid="TO_LINK" ref-type="bibr" id="IDc4181505-c21d-4384-840c-702f8a70acc1">7</xref>].  Alternatively, individuals may not be accepted due to lack of credentials or a systematic admission bias.  Congruent with such concerns, some recommendations now suggest increasing the enrolment of rural students in medical school by reducing financial costs, adding more rural physicians to admissions committees, applying a rural adjustment factor to academic standards, and setting quotas for rural enrollment [<xref rid="TO_LINK" ref-type="bibr" id="IDf75e8d2e-9765-4dbe-b2af-fd0d236c6722">7</xref>].  All these policies target the institution rather than the applicant.  In this study we focused on one of North America's largest medical schools training a low proportion of rural students and asked: &#8220;Are admissions at the University of Toronto Medical School biased against rural applicants?&#8221;  </p>
+      </sec>
+      <sec>
+        <title>METHODS</title>
+        <p>	We obtained data for all students who applied to the University of Toronto Medical School in 2004-2005 from the office of the Associate Dean of Admissions (<xref rid="TO_LINK" ref-type="bibr" id="IDb8aa8379-76d4-498b-ac07-4f1fedbba18f">earlier years not available for analysis</xref>). Data were grouped according to those applicants who applied but were <xref rid="TO_LINK" ref-type="bibr" id="ID9cb93f79-a944-4e08-95b0-c547c2c51f16">declined</xref> an interview (<xref rid="TO_LINK" ref-type="bibr" id="ID1efeed89-285b-4601-93bc-5db576e6db29">rejected</xref>), those who applied and were interviewed but not offered admission (<xref rid="TO_LINK" ref-type="bibr" id="ID573cc3f8-ee88-4a7c-b534-fdab5612e04f">rejected</xref>), those who were offered admission but did not accept (<xref rid="TO_LINK" ref-type="bibr" id="ID2cb1bdf5-74a2-4aa2-8a50-2d019e7e77f0">declined</xref>), and those who were both offered and <xref rid="TO_LINK" ref-type="bibr" id="ID2ea884e0-c004-4562-98a6-7a571a3c46e4">accepted</xref> (accepted). Approval for this study was obtained from the Sunnybrook Health Sciences Centre Research Ethics Board and analyses were conducted using confidentiality safeguards at the Institute for Clinical Evaluative Sciences in Ontario.</p>
+        <p>The information collected for each applicant included age, gender, last degree obtained, last university attended, grade point average (<xref rid="TO_LINK" ref-type="bibr" id="ID4e9a4d5d-9428-4b3a-a461-b2f1bdc922dc">GPA</xref>), Medical College Admission Test (<xref rid="TO_LINK" ref-type="bibr" id="ID77daee4c-c2d7-47c0-9d83-94dd9616d97d">MCAT</xref>) scores (including physical sciences, biological sciences, verbal reasoning, and writing sample), overall academic score (based on review of <xref rid="TO_LINK" ref-type="bibr" id="IDbf046746-f587-42d1-a83e-a841fa636b4f">GPA</xref>, <xref rid="TO_LINK" ref-type="bibr" id="ID46af39d0-f0b9-43d1-bb59-aa46f11744fa">MCAT</xref> and other criteria), non-academic score (based on review of experiences, reference letters, and personal statement), file score (<xref rid="TO_LINK" ref-type="bibr" id="ID0be4cf69-98c1-48ca-878f-c7e722fde82e">sum of academic and non-academic score</xref>), interview score, total score (<xref rid="TO_LINK" ref-type="bibr" id="ID9ebab78e-79b3-476d-bdc8-9942a1d9e3d9">weighted sum of file and interview scores</xref>), and overall rank.  These are the decisive data that determine all offers of admission and are restricted from public view. </p>
+        <p>Designations of rurality and socioeconomic status were based on the permanent home postal code of the applicant's family.  In cases where the applicant listed no permanent postal code, we used the applicant's home postal code.  In cases where the applicant provided neither a permanent nor a home postal code we excluded the individual from analysis.  Rural status was defined from Statistics Canada data as a local population of fewer than 10,000.  Classification of rurality was conducted using computerized linkages in a manner blind to all other characteristics of the applicant including final decision of admission.  The same technique was also used to estimate socioeconomic status quintiles by neighborhood household income.  </p>
+        <p>Statistical analysis was conducted using the Statview 5.0 statistical package using two-tailed tests throughout.  Comparative descriptive statistics were based on means or percentages, as appropriate, to compare urban and rural students.  Univariate differences were analyzed using an unpaired t-test or chi-square test as appropriate.  Multivariate analyses were conducted using logistic regression to determine if rural students were less likely to be offered admission, using background (<xref rid="TO_LINK" ref-type="bibr" id="IDb7d96bdc-4a16-4de3-aca3-ca81d51ece38">rural vs urban</xref>) as the main predictor variable and decision of the institution (<xref rid="TO_LINK" ref-type="bibr" id="ID6f3fa0dc-7422-4888-8365-cad26ea4f35b">offered vs rejected</xref>) as the main outcome variable.  The same analyses then tested the decision of the individual (<xref rid="TO_LINK" ref-type="bibr" id="IDeb1af2f8-d53a-4c41-8612-75bc140a0b42">accepted vs declined</xref>) as the main outcome variable.  </p>
+      </sec>
+      <sec>
+        <title>RESULTS</title>
+        <p>During the study, a total of 2106 individuals applied for admission to the University of Toronto medical school. Overall, 54 applicants were excluded from analysis because they provided unusable postal codes, most commonly due to homes outside of Canada (<xref rid="TO_LINK" ref-type="bibr" id="ID662a88d2-6cf3-47d4-8b5c-38b741ca463b">these included 52 rejected and 2 accepted applicants</xref>). This yielded a total of 2052 applicants for analysis with 1991 unique postal codes. After applying the postal code classification algorithm, we obtained 93 rural students and 1959 urban students. Rural applicants were greatly under-represented in the applicant pool (<xref rid="TO_LINK" ref-type="bibr" id="ID22b26dfd-bf89-4291-9f0b-7facae39568e">4.5%</xref>) compared to national proportions (<xref rid="TO_LINK" ref-type="bibr" id="ID92807c32-222e-4842-b14f-9ba5a85dffbe">approx. 20% rural</xref>).</p>
+        <p>Rural and urban applicants were similar in personal background and academic merit (<xref rid="TO_LINK" ref-type="bibr" id="ID05a8c04b-be69-4cb8-b721-524f21ae90ee">Table 1</xref>). Rural students had a slightly higher mean age (<xref rid="TO_LINK" ref-type="bibr" id="ID9c785c31-933a-418e-a374-b39608520a95">24.4 vs. 23.7, p=0.02</xref>) and were more often from the lowest socioeconomic quintile (<xref rid="TO_LINK" ref-type="bibr" id="ID056e8b1f-6698-43f7-8d8f-77ab47be4c96">18 vs. 7%, p=0.006</xref>). They were marginally more likely to have obtained an advanced degree prior to application (<xref rid="TO_LINK" ref-type="bibr" id="ID035fb17f-6b44-4cc2-8103-7a6ac0925345">MSc, PhD, or other</xref>), but this trend was not statistically significant (<xref rid="TO_LINK" ref-type="bibr" id="ID07555193-a715-49c2-b351-08e9956da5bb">p=0.62</xref>). Rural students had slightly lower average GPA scores but a slightly higher overall academic score, perhaps suggesting they may have taken more demanding courses. Interview scores for rural students were slightly lower, but average total scores (<xref rid="TO_LINK" ref-type="bibr" id="IDcd6199a5-d8ee-44de-9702-436e7a38240f">file score + interview score</xref>) were identical between the two groups.</p>
+        <p>Most students who applied to medical school were not granted admission. In total, 16 of the 93 rural applicants received offers of admission whereas 279 of 1959 urban applicants received offers of admission. This amounted to a slight increase in admission offer rates in favour of rural applicants (<xref rid="TO_LINK" ref-type="bibr" id="IDb4b06626-670c-49e6-b8de-55b49d70f2bd">17% vs. 14%, p=0.43</xref>). In the multivariate analysis adjusting for age, gender, GPA, and MCAT scores, rural applicants had a higher odds ratio in admission offer rates that was not statistically significant (<xref rid="TO_LINK" ref-type="bibr" id="ID748dfd02-67eb-4e44-b7a6-506c64d96160">Adjusted odds ratio 1.63</xref>; <xref rid="TO_LINK" ref-type="bibr" id="IDe90bb65b-7a9d-4c93-9ad3-251cb991195d">95% confidence interval 0.87 to 3.04</xref>). As expected, admission offers were highly correlated with GPA and MCAT scores (<xref rid="TO_LINK" ref-type="bibr" id="IDa1aaff75-b1db-4246-b22d-b9222d7d7092">p&lt;0.001, for both</xref>) but not correlated with socioeconomic status (<xref rid="TO_LINK" ref-type="bibr" id="IDf55dfd4f-7630-44e1-91b4-6332e43680f1">p=0.96</xref>).</p>
+        <p>The majority of applicants offered admission subsequently accepted, but the difference in the proportion of rural and urban students who declined the invitation was notable. In total, 11 of 16 rural applicants declined the offer of admission whereas 68 of 279 urban applicants declined the offer of admission. This amounted to a large absolute increase in the rate of declined admission offers by rural applicants (<xref rid="TO_LINK" ref-type="bibr" id="IDff6602de-6ae3-43e9-9872-7ce38a6fd79f">69% vs. 24%, p&lt;0.001</xref>). After adjustment for age, gender, GPA, and MCAT scores, rural applicants had a higher odds of declining medical school admission offers compared to urban applicants (<xref rid="TO_LINK" ref-type="bibr" id="IDe5696b86-5ad1-4e15-9f51-4d4b64c2dbac">Adjusted odds ratio 7.75</xref>; <xref rid="TO_LINK" ref-type="bibr" id="ID56c691c4-5a1b-484d-b462-1d4f92c33ef3">95% confidence interval 2.37 to 25.38</xref>). Decisions to decline the offer were not significantly correlated with GPA, MCAT scores, or socioeconomic status (<xref rid="TO_LINK" ref-type="bibr" id="ID25c6a64d-3bdf-4177-bbfa-eb26cdcea4de">p&gt;0.20, for all</xref>).</p>
+        <p>The reluctance of rural applicants to accept admission offers was also examined in two important subgroups specified in advance.  When restricted to those applicants from the top two socioeconomic quintiles and when we restricted to those applicants below the median overall rank (<xref rid="TO_LINK" ref-type="bibr" id="ID35feb675-a324-4fe7-93ee-47fdb918df6e">based on all academic and interview scores</xref>), we continued to observe higher odds ratios in declined admission offers from rural applicants compared to urban applicants: 4.93 (<xref rid="TO_LINK" ref-type="bibr" id="ID7a5108f6-0308-43c0-9bc3-717ae0e86673">95% confidence interval: 1.13 to 21.43</xref>) and 14.86 (<xref rid="TO_LINK" ref-type="bibr" id="IDcdc4477f-30cd-40d4-ad98-f853b7f250fc">95% confidence interval: 1.68 to 131.4</xref>), respectively.  </p>
+        <p>We followed up after one year on those applicants who declined offers of admission.  The majority of both rural and urban students had enrolled in another medical school elsewhere in the country (<xref rid="TO_LINK" ref-type="bibr" id="ID1dbb8af1-34dc-447a-942d-dd6ca14d9a2d">73% vs. 75%, p&gt;0.20</xref>).  The rural students were distributed across six different schools with no dominant pattern of preferences and no school accepting more than two individuals.  None had enrolled at the Northern Ontario School of Medicine, the institution in Ontario mandated to admit and train rural physicians. A few students had left the country for medical school training (<xref rid="TO_LINK" ref-type="bibr" id="IDeae1d8f4-aebd-4336-8996-cd7dc7b6b8e2">9% vs. 4%, p&gt;0.20</xref>) and for one-in-five we found no evidence of subsequent medical training (<xref rid="TO_LINK" ref-type="bibr" id="ID415f09a9-52bd-465e-862c-d39262343d87">18% vs. 21%, p&gt;0.20</xref>).  </p>
+      </sec>
+      <sec>
+        <title>DISCUSSION</title>
+        <p>We found that only five students admitted to one of Canada's largest medical schools in 2005 were from rural backgrounds, a rate that does little to redress the shortfall in rural healthcare in this nation. In accord with past research from the United States [<xref rid="TO_LINK" ref-type="bibr" id="IDb5a45e67-3673-4615-bd93-949a32724fcb">16</xref>,<xref rid="TO_LINK" ref-type="bibr" id="IDe78d9594-570f-4e06-beca-c4b449d79a8f">17</xref>], the lack of enrollment was not explained by a lack of past training, academic accomplishments, test results, or socioeconomic status of the applicants. Nor was it explained by an overt bias by the institution in favour of similarly qualified urban applicants [<xref rid="TO_LINK" ref-type="bibr" id="ID10e0cc6d-6b8b-42c1-bd5a-65f53624815d">8</xref>,<xref rid="TO_LINK" ref-type="bibr" id="ID1f7d21cd-223d-42c2-9046-f18b44da5b1a">18</xref>]. Instead, we discovered that a large factor was an applicant's reluctance to accept the offer of admission. This personal choice, in turn, was not easily traced to available socioeconomic or academic characteristics.</p>
+        <p>A limitation of our research is that we cannot identify the reasons why rural applicants declined offers despite having appeared positive at the time of their direct personal interview.  Ontario has other medical schools, although tuition fees are similar throughout (for <xref rid="TO_LINK" ref-type="bibr" id="ID6a48e36f-ee57-44d7-a30c-b7897bcc2e10">20</xref>05, University of Toronto $16,<xref rid="TO_LINK" ref-type="bibr" id="ID2717b730-e836-4195-aa12-080a9d105f7a">20</xref>7 whereas Northern Ontario School of Medicine $14,600) [<xref rid="TO_LINK" ref-type="bibr" id="IDde843a33-812a-437a-980b-9cfba98df256">19</xref>,<xref rid="TO_LINK" ref-type="bibr" id="IDea7bd77d-9aff-4eba-97c7-00e584a7ce09">20</xref>].  The fees outside of Ontario would be much higher by comparison (since the applicant would pay an out-of-province surcharge) and the fees in Toronto would, arguably, be much lower in some cases (due to bursary programs).  Moreover, our analysis according to the applicant's socioeconomic status does not suggest that financing was the major cause for applicants' choices.  </p>
+        <p>Rural applicants may decline urban medical schools because of social rather than financial preferences.  Specifically, the unfamiliar population size of a city may be a deterrent given that rural students grew up in small towns and possibly attended university in smaller cities as well.  As noted in Australia, the structure of a city and the downtown location of a campus can be further aversive to a rural student [<xref rid="TO_LINK" ref-type="bibr" id="ID2961546f-f356-41b9-a9df-76989e21c286">21</xref>].  The perceived academic image of the institution and the relative lack of emphasis on rural training may not appeal to those who desire to practice as rural physicians and want exposure to medical practice in remote regions [<xref rid="TO_LINK" ref-type="bibr" id="ID1282ab8a-d7aa-4216-9276-f329be1802f0">22</xref>].  The full set of reasons is unknown because so many unmeasured factors influence an individual&#8217;s decisions and people are entitled to privacy.  </p>
+        <p>Our study has other limitations since the data stem from a single medical school that may not match other settings.  Moreover, even a single medical school can change over time, as illustrated by the Prince George program now linked with the University of British Columbia that promotes rural and remote training [<xref rid="TO_LINK" ref-type="bibr" id="ID263683a8-f210-4241-84d3-dc33c9b2b13d">23</xref>].  However, aggregate reports from different Ontario medical schools have shown widespread difficulties in recruiting rural applicants [<xref rid="TO_LINK" ref-type="bibr" id="IDd1409a03-eb72-416a-b851-d3bf54c89597">24</xref>].  For example, the Northern Ontario School of Medicine (which preferentially selects rural applicants [<xref rid="TO_LINK" ref-type="bibr" id="ID1e73e146-cb35-4f59-8e48-eb17f29faa23">25</xref>]) had about 26% of offers of admission declined in 2005.  The situation was no different in 2006 when the Northern Ontario School of Medicine had about 28% of offers admission declined (compared to 17% for the entire province).  </p>
+        <p>Whether urban institutions should increase the number of rural students accepted to medical school remains controversial.  In theory, accepting more rural students to any medical school could contribute to more potential rural physicians being trained to bridge the geographic maldistribution of healthcare.  In addition, rural students have been shown to be more likely to enter family practice [<xref rid="TO_LINK" ref-type="bibr" id="ID9dff07cc-5592-4cb5-b213-93e361480caa">10</xref>,<xref rid="TO_LINK" ref-type="bibr" id="IDd81355a9-5fff-4df4-8a1d-968f14231d15">14</xref>], another area that is experiencing shortages across most industrialized countries .  Yet these two workforce concerns are not the only current issues in health care, immediate clinical care is not the only priority for all medical schools, and increasing diversity requires addressing many underrepresented groups. </p>
+        <p>This study confirms the importance of increasing the pool of rural applicants in order to achieve more representation of rural students in medical school.  Some rural applicants may dismiss the idea of medical school because of misinformation or a lack of awareness over financial aid; hence, information regarding these options should be publicized early.  This study also suggests a need to bolster the acceptance rate of rural applicants by offering some counsel to ease the transition to the big city, emphasizing rural training in the curriculum, and highlighting rural practice incentives [<xref rid="TO_LINK" ref-type="bibr" id="IDec8a57cc-e4a3-4998-9713-bb12e74ac68b">26</xref>].  In the interim, the data do not suggest an immediate call for revolutionary changes to the admission committee practices at large old urban medical schools. </p>
+      </sec>
+      <sec>
+        <title>ACKNOWLEDGMENTS</title>
+        <p>Jennifer Hensel was supported by the Determinants of Community Health Course of the University of Toronto Medical School. Donald Redelmeier was supported by the Canada Research Chair in Medical Decision Sciences. Maureen Shandling was supported as Associate Dean, Admissions and Student Financial Services of the University of Toronto Medical School.  We are thankful to Deva Thiruchelvam and Radu Vestamean for data programming.  We are also grateful to Dan Hackam, Leslie Nickell, Jeff Kwong, and Ian Johnson for helpful comments on specific points.  </p>
+        <table-wrap specific-use="rules" position="float" orientation="portrait">
+          <table>
+            <tr>
+              <td rowspan="1" colspan="1">&#160;</td>
+              <td rowspan="1" colspan="1">Rural</td>
+              <td rowspan="1" colspan="1">Urban</td>
+              <td rowspan="1" colspan="1">P &lt; 0.05</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Applicants</td>
+              <td rowspan="1" colspan="1">(<xref rid="TO_LINK" ref-type="bibr" id="ID5a54e790-3af3-480c-9dc5-818a2a213fab">n = 93</xref>)</td>
+              <td rowspan="1" colspan="1">(<xref rid="TO_LINK" ref-type="bibr" id="ID15104b27-6fd2-45d9-b5c9-314a32388e43">n = 1959</xref>)</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Mean age</td>
+              <td rowspan="1" colspan="1">24.4</td>
+              <td rowspan="1" colspan="1">23.7</td>
+              <td rowspan="1" colspan="1">*</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">% Female</td>
+              <td rowspan="1" colspan="1">51.6</td>
+              <td rowspan="1" colspan="1">52.8</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">% SES top quintile</td>
+              <td rowspan="1" colspan="1">26</td>
+              <td rowspan="1" colspan="1">41</td>
+              <td rowspan="1" colspan="1">*</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">% SES above middle quintile</td>
+              <td rowspan="1" colspan="1">20</td>
+              <td rowspan="1" colspan="1">22</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">% SES middle quintile</td>
+              <td rowspan="1" colspan="1">12</td>
+              <td rowspan="1" colspan="1">16</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">% SES below middle quntile</td>
+              <td rowspan="1" colspan="1">17</td>
+              <td rowspan="1" colspan="1">12</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">% SES bottom quintile</td>
+              <td rowspan="1" colspan="1">18</td>
+              <td rowspan="1" colspan="1">7</td>
+              <td rowspan="1" colspan="1">*</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">% SES unknown</td>
+              <td rowspan="1" colspan="1">6</td>
+              <td rowspan="1" colspan="1">2</td>
+              <td rowspan="1" colspan="1">*</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">% Advanced Degree</td>
+              <td rowspan="1" colspan="1">20</td>
+              <td rowspan="1" colspan="1">18</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">GPA (<xref rid="TO_LINK" ref-type="bibr" id="IDdec5689c-93c3-4afb-9069-ecc44b80b53b">out of 4.0</xref>)</td>
+              <td rowspan="1" colspan="1">3.5</td>
+              <td rowspan="1" colspan="1">3.6</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">MCAT- mean VR (<xref rid="TO_LINK" ref-type="bibr" id="ID0f965622-2771-4163-ab20-801a7efbe4ea">max 15</xref>)</td>
+              <td rowspan="1" colspan="1">8.9</td>
+              <td rowspan="1" colspan="1">8.9</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">MCAT- mean PS (<xref rid="TO_LINK" ref-type="bibr" id="ID2df4dd27-96da-4bab-ae69-34f805edb6bf">max 15</xref>)</td>
+              <td rowspan="1" colspan="1">9.6</td>
+              <td rowspan="1" colspan="1">10.1</td>
+              <td rowspan="1" colspan="1">*</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">MCAT-mean BS (<xref rid="TO_LINK" ref-type="bibr" id="IDefba6177-07dd-4307-bbb8-879f18e479e7">max 15</xref>)</td>
+              <td rowspan="1" colspan="1">10.0</td>
+              <td rowspan="1" colspan="1">10.5</td>
+              <td rowspan="1" colspan="1">*</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">MCAT-% excellent WS</td>
+              <td rowspan="1" colspan="1">29</td>
+              <td rowspan="1" colspan="1">31</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Academic Score (<xref rid="TO_LINK" ref-type="bibr" id="ID1d71ef14-96a1-41dd-b809-aa467bce8e3f">out of 60</xref>)</td>
+              <td rowspan="1" colspan="1">48.6</td>
+              <td rowspan="1" colspan="1">48.2</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Non-academic Score (<xref rid="TO_LINK" ref-type="bibr" id="ID35611086-5220-4581-9e61-a31ad2374c27">out of 40</xref>)</td>
+              <td rowspan="1" colspan="1">31.5</td>
+              <td rowspan="1" colspan="1">30.8</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Interview Score (<xref rid="TO_LINK" ref-type="bibr" id="IDd1d486e0-0ae6-4f2a-8bc3-6c3626d81d3e">out of 20</xref>)</td>
+              <td rowspan="1" colspan="1">15.7</td>
+              <td rowspan="1" colspan="1">16.4</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Total Score (<xref rid="TO_LINK" ref-type="bibr" id="ID0e2b6253-639a-4da5-8d50-9d43cc325f59">out of 100</xref>)</td>
+              <td rowspan="1" colspan="1">84.6</td>
+              <td rowspan="1" colspan="1">84.6</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+          </table>
+        </table-wrap>
+        <p>Table.  Baseline characteristics of rural and urban applicants. SES denotes socioeconomic status.  Advanced Degree denotes Masters, PhD or other professional degree.  GPA denotes grade point average after U of T conversion translation.  MCAT denotes medical college admissions test with it&#8217;s included components VR for verbal reasoning, PS for physical sciences, BS for biological sciences, and WS for writing sample (excellent WS classified as writing sample score of R, S, or T).  Total Score (derived from Academic Score, Non-academic Score, and Interview Score) is the basis for final decision to offer or not offer admission to the candidate.  </p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Rourke, J. Strategies to increase the enrolment of students of rural origin in medical school: recommendations from the Society of Rural Physicians of Canada.  <italic>JAMC</italic> 2005;172(1):62-65.</title>
+      <sec>
+        <title>Hutten-Czapski, P., Pitblado, R., Rourke, J.  Who gets into medical school?  Comparison of students from rural and urban backgrounds.  <italic>Can Fam Physician</italic> 2005;51:1240-1241.</title>
+        <p>Rourke, J., Incitti, F., Rourke, LL., Kennard, M.  Relationship between practice location of Ontario family physicians and their rural background or amount of rural medical education experience.  <italic>CJRM</italic> 2005;10(<xref rid="TO_LINK" ref-type="bibr" id="IDd3b50453-a1df-4dc5-9c17-c01682bba4bc">4</xref>):231-239.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Kwong, JC., Dhalla, IA., Streiner, DL., Baddour, RE., Waddell, AE., Johnson, IL.  A comparison of Canadian medical students from rural and non-rural backgrounds.  <italic>CJRM</italic> 2005;10(1):36-42.</title>
+    </sec>
+    <sec>
+      <title>Woloschuk, W., Tarrant, M. Do students from rural backgrounds engage in rural family practice more than their urban-raised peers?  <italic>Medical Education</italic> 2004;38:259-261.</title>
+    </sec>
+    <sec>
+      <title>Curran, V., Rourke, J.  The role of medical education in the recruitment and retention of rural physicians.  <italic>Medical Teacher</italic> 2004;26(3):265-272.</title>
+    </sec>
+    <sec>
+      <title>Laven, G., Wilkinson, D. Rural doctors and rural backgrounds: How strong is the evidence?  A systematic review. <italic> Aust. J. Rural Health</italic> 2003;11:277-284.</title>
+    </sec>
+    <sec>
+      <title>Dhalla, IA., Kwong, JC., Streiner, DL., Baddour, RE., Waddell, AE., Johnson, IL.  Characteristics of first-year students in Canadian medical schools.  <italic>CMAJ</italic> 2002;166(8):1029-1035.</title>
+      <sec>
+        <title>Orpin, P., Gabriel, M.  Recruiting undergraduates to rural practice: What the students can tell us.  <italic>Rural and Remote Health</italic> 2005;5(4):412 (online).</title>
+        <p>CC Longo, D.R., Gorman, R.J., Ge, B.  Rural medical school applicants: Do their academic credentials and admission decisions differ from those of nonrural applicants?  <italic>J Rural Health</italic> 2005 21(<xref rid="TO_LINK" ref-type="bibr" id="ID784c4c10-4bec-4bb4-89cd-ea048a99a680">4</xref>):346-350.</p>
+        <p>EE Rabinowitz, H.K., Diamond, J.J., Markham, F.W., Paynter, N.P.  Critical factors for designing programs to increase the supply and retention of rural primary care physicians.  <italic>JAMA</italic> 286(<xref rid="TO_LINK" ref-type="bibr" id="IDeb3737e3-3683-448a-a958-cca983a414c3">9</xref>):1041-1048.</p>
+        <p>Basco, W.T.Jr., Gilbert, G.E., Blue, A.V.  Determining the consequences for rural applicants when additional consideration is discontinued in a medical school admission process.  <italic>Acad Med</italic> 2002 77(<xref rid="ID5bd001b9-76dd-4dee-b4ca-fb3b8dd6de95" ref-type="bibr" id="ID15801a4b-9215-47ca-9c99-d5c8df348195">S10</xref>):S20-22.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>
+        <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.provost.utoronto.ca/English/Content-Page-42.html" ext-link-type="uri" xlink:type="simple">http://www.provost.utoronto.ca/English/Content-Page-42.html</ext-link>
+      </title>
+      <sec>
+        <title>
+          <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://calendar.lakeheadu.ca/current/programs/Faculty_of_Medicine/medsprog.html" ext-link-type="uri" xlink:type="simple">http://calendar.lakeheadu.ca/current/programs/Faculty_of_Medicine/medsprog.html</ext-link>
+        </title>
+      </sec>
+      <sec>
+        <title>Durkin, S.R., Bascomb, A., Turnbull, D., Marley, J.  Rural origin medical students: How do they cope with the medical school environment?  <italic>Aust J Rural Health</italic> 2003 11:89-95.</title>
+      </sec>
+      <sec>
+        <title>Australian Medical Workforce Advisory Committee (AMWAC).  Doctors in vocational training:  rural background and rural practice intentions.  <italic>Aust J Rural Health</italic> 2005 13:14-20. </title>
+      </sec>
+      <sec>
+        <title>Kondro, W.  Eleven satellite campuses enter orbit of Canadian medical education. <italic>CMAJ</italic> 2006;175(5) 461-462.</title>
+      </sec>
+    </sec>
+    <sec>
+      <title> Ontario Medical Schoolppn Servier3, 200)</title>
+    </sec>
+    <sec>
+      <title>Tesson, G., Curran, V., Pong, RW., Strasser, R.  Advances in rural medical education in three countries: Canada, the United States and Australia.  <italic>Rural and Remote Health</italic> 2005;5(4):397 (online).</title>
+    </sec>
+    <sec>
+      <title>Rabinowitz HK, Diamond JJ, Markham FW, Paynter NP. Critical Factors for Designing Programs to Increase the Supply and Retention of Rural Primary Care Physicians <italic>JAMA</italic> 2001;286:1041-1048</title>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ID63523481-61b8-4d6c-8c00-a9e62811dda6">
+        <mixed-citation>Nagarajan, KV. Rural and remote community health care in Canada: Beyond the Kirby Panel Report, the Romanow Report and the federal budget of 2003.  <italic>CJRM</italic> 2004;9(4):245-25.</mixed-citation>
+      </ref>
+      <ref id="ID4f2eae6c-356a-4fd9-ae70-15e7d310786a">
+        <mixed-citation><bold>	</bold>Rural family doctors offer wider range of services to meet their patients&#8217; needs.  CIHI release, January 11, 2006. http://secure.cihi.ca/cihiweb/dispPage.jsp?cw_page=media_11jan2006_e</mixed-citation>
+      </ref>
+      <ref id="ID609cce07-99a4-4ec3-ad3e-504187e7f5c8">
+        <mixed-citation>Thompson R, Miller N, Witter S. Health-seeking behaviour and rural/urban variation in Kazakhstan. Health Econ. 2003;12(7):553-64.</mixed-citation>
+      </ref>
+      <ref id="ID5bd001b9-76dd-4dee-b4ca-fb3b8dd6de95">
+        <mixed-citation>Richards HM, Farmer J, Selvaraj S. Sustaining the rural primary healthcare workforce: survey of healthcare professionals in the Scottish Highlands. Rural Remote Health. 2005;5(1):365.</mixed-citation>
+      </ref>
+      <ref id="IDaa8c5445-76d2-43b4-8a76-35f330f8a53d">
+        <mixed-citation>Onwujekwe O, Uzochukwu B. Socio-economic and geographic differentials in costs and payment strategies for primary healthcare services in Southeast Nigeria. Health Policy. 2005;71:383-97.</mixed-citation>
+      </ref>
+      <ref id="IDe1e224de-5164-49d6-8ed7-0874fe914efb">
+        <mixed-citation>Mackey, P.  Stats Can under-represents rural shortage [comment]. <italic>CMAJ</italic> 2005;172(3):311-312.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

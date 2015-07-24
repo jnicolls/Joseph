@@ -1,0 +1,222 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">The Journal Title</journal-id>
+      <issn pub-type="epub">0000-000X</issn>
+      <publisher>
+        <publisher-name>The Publisher Name</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1000/123456</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Sample Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A Sample Article Title</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Eve</surname>
+            <given-names>Martin Paul</given-names>
+          </name>
+          <xref ref-type="aff" rid="lincoln"/>
+        </contrib>
+        <aff id="lincoln">
+          <institution>University of Lincoln</institution>
+        </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <year>2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <issue>1</issue>
+      <fpage>1</fpage>
+      <lpage>2</lpage>
+      <permissions>
+        <copyright-statement>Copyright &#169; 2014, Martin Paul Eve</copyright-statement>
+        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The citation of this article must include: the name(s) of the authors, the name of the journal, the full URL of the article (in a hyperlinked format if distributed online) and the DOI number of the article.</license-p>
+        </license>
+      </permissions>
+      <self-uri>https://www.martineve.com/</self-uri>
+      <abstract>
+        <p>This is a sample abstract that forms part of the metadataSample.xml file in meTypeset.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title/>
+      <p>Breast Cancer Prevention in Women with a BRCA1 or BRCA2 Mutation</p>
+      <p>Kelly A. Metcalfe1,2 &amp; Steven A. Narod2</p>
+      <p>1Faculty of Nursing, University of Toronto; 2Women&#8217;s College Hospital, Toronto, Ontario</p>
+    </sec>
+    <sec>
+      <title>Introduction</title>
+      <p>Genetic testing for BRCA<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID48e4a609-4b50-4616-8ba7-5a3daaf5ece9">1</xref> and BRCA<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID7f66ff07-cc6c-4000-a837-1fdcfebdf387">2</xref> mutations has been available for over ten years.  Using this technology, we are able to identify women who are at significantly increased risk of developing breast and ovarian cancer.  Over the past decade, several advances have been made in the area of cancer prevention. Ultimately, the value of genetic testing for BRCA<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID789b259b-4d80-4b85-b258-35c6eddbd86c">1</xref> and BRCA<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID47e7a5c4-9f89-4da8-8978-a795158f2415">2</xref> mutations comes from reducing the number of women who develop breast cancer and the number of women dying of the disease.  For BRCA1 carriers, the estimated cumulative risks to age <xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID8b854484-758e-4779-9bc7-1cba5b3d0d7e">7</xref>0 years are <xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID65aa6efb-f2e8-4582-9638-17384f302d23">6</xref>
+            <xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID67b36e8e-8fb9-4bb3-a400-96f00e1ba5b2">5</xref>% for breast cancer and <xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID64b67786-2218-499b-8527-e950c10d6138">3</xref>
+            <xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDd7e2f9c1-2617-4902-a59a-336f8b069ef5">9</xref>% for ovarian cancer.  The corresponding risks for BRCA2 carriers are <xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDaccb5bc3-93bb-4b73-98ff-74728ab3124a">4</xref>
+            <xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID5acc059b-b010-455c-bed0-ba61f4695f87">5</xref>% for breast cancer and 11% for ovarian cancer [1] (in comparison, the average woman in the general population has an 11 percent lifetime risk of developing breast cancer and a 1.5 percent risk of developing ovarian cancer).  After the initial diagnosis of breast cancer in a <italic>BRCA<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID99773164-1ee7-4848-9014-3f5f41b875e5">1</xref>
+            </italic> or <italic>BRCA<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDe8fbdd8c-cbf8-45bd-972a-98ad1ee2c6b2">2</xref>
+            </italic> carrier, the risk of cancer in the opposite breast is approximately <xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDd305fb6f-c6a6-4e24-add1-d61be0cd5d5d">3</xref>% per year.[2,3,<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID407a3b73-d738-4f82-9f8a-18f30284a9c9">4</xref>].   About one in 200 women in North America carries a BRCA<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID687c6809-93ed-4c63-9278-5c57c1d9f8b6">1</xref> or BRCA<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID216bd494-17ef-48b3-a115-91aa43d309e8">2</xref> mutation [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID37df420b-b8be-4368-998f-fbcf746d2bce">5</xref>,<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID53a15b12-4bbc-4db5-916f-63d52d9289b5">6</xref>,<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID7931e429-08e5-4bed-94a7-4622f9a329ef">7</xref>], but among several ethnic groups the prevalence is considerably higher.   Notably, the frequency in those of Ashkenazi Jewish ancestry is one in 50 [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDaf4e006b-c178-4080-8646-e93470e76e25">7</xref>, <xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDd2ba2806-7f81-4992-9924-88eeb986f2d1">8</xref>].  Other groups with high frequencies of mutations include women from Iceland [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID5eb937cc-bb3a-45f3-8ed5-a26deb6b8976">9</xref>] and Poland [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDe42b7ec1-0d5e-4e49-9db1-13286fcf05e8">10</xref>].    These high prevalence rates are due to the presence of founder mutations (founder mutations are one or more specific mutations in a population which have been inherited from a common ancestor, and which have become amplified through chance effects, often aided by geographical isolation of the population). </p>
+    </sec>
+    <sec>
+      <title>Cancer Prevention Options</title>
+      <p>Women with a BRCA1 or BRCA2 mutation may consider several options for breast cancer prevention. The three main options are prophylactic mastectomy, prophylactic oophorectomy, and chemoprevention (<xref rid="TO_LINK" ref-type="bibr" id="ID0f5ca58e-cf11-4fa9-af48-4b85bd395337">tamoxifen or raloxifene</xref>). In addition, a woman may elect to undergo screening (<xref rid="TO_LINK" ref-type="bibr" id="ID06052b8f-0da0-436b-a18e-0fb53d1d93f7">secondary prevention</xref>). However, the goal of screening is to detect cancers at an early treatable stage, not to prevent cancer.</p>
+      <p>
+        <italic>Prophylactic Mastectomy</italic>
+      </p>
+      <p>A prophylactic mastectomy involves the removal of both breasts in the absence of disease.  The goal of prophylactic mastectomy is to prevent breast cancer, thereby eliminating the potential for metastatic spread and death from breast cancer.   The effectiveness of prophylactic mastectomy in preventing breast cancer has been established in a small prospective study, and in historical cohort studies of primary and contralateral breast cancers.  Meijers-Heijboer and colleagues observed no cases of breast cancer after three years among 76 women who underwent prophylactic mastectomy [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID5f75f35d-1193-4de6-9adc-a7777f79fe62">11</xref>].  Rebbeck and colleagues observed two cases of breast cancer in 191 women after mastectomy, compared to 184 of 378 women who retained their breasts [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDcfda45e4-5d6f-44da-9238-3cfa9fbe00f1">12</xref>].  Metcalfe and colleagues studied contralateral breast cancer in 491 women treated for hereditary breast cancer [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDbb7dae30-2731-4ae5-be44-30f6539326e0">2</xref>].  Only one contralateral breast cancer was observed among <xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDd6632624-610b-46e7-a3ef-4ce16265a8c1">14</xref>6 women who had undergone a contralateral mastectomy, versus 33 expected (P &lt; 0.0001).   These studies suggest that the residual breast cancer risk following mastectomy approaches zero.  Currently, total mastectomy is generally recommended over subcutaneous, or nipple-sparing mastectomy, but there are few data about failures of subcutaneous mastectomy and these reports are based on old literature [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDb36b3d0c-0fd1-4d2f-bb0d-d32919752223">13</xref>]. Technical advances in skin-sparing techniques and the availability of  approaches such as muscle-containing flaps or implantable prostheses have broadened the surgical options available to women [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDa7c1841b-efc2-4764-8f60-882e0faeb2cb">14</xref>]. </p>
+      <p>
+        <italic>Prophylactic Oophorectomy</italic>
+      </p>
+      <p>To date, most of the established cofactors for <italic>BRCA1</italic>- associated breast cancers are hormonally-associated [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID16148136-f842-487d-9dc8-a2e8966e4905">15</xref>].  The purpose of an anti-hormonal therapy is to eliminate, or to block the effect of ovarian estrogen, and probably progesterone, or to prevent aromatization of androgen to estrogen.   Anti-hormonal approaches include tamoxifen, raloxifene and other SERM&#8217;s, ovarian ablation (oophorectomy, radiation or chemical ablation) and aromatase inhibition.  Of these, only tamoxifen and oophorectomy have been well studied in women with <italic>BRCA1</italic> or <italic>BRCA2</italic> mutations. </p>
+      <p>The rationale for the anti-hormonal approach comes from the observation that oophorectomy prevents breast cancer in <italic>BRCA1</italic> and <italic>BRCA2</italic> carriers.  Cohort studies estimate the reduction in hereditary breast cancer risk associated with a pre-menopausal oophorectomy to be about 50% [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID4ac44635-6850-424f-a991-25e3d4108048">16</xref>,<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDd67e6159-639c-484e-ae0e-8a61e27ad3cf">17</xref>,<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDfa7472e4-3089-4f11-8d87-c2fa3a61acf4">18</xref>].  A recent case-control study reported that the risk reduction might be even greater if the oophorectomy is performed before age 40 and that the duration of protection is approximately 15 years [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDe80de820-8c3f-4147-80d8-bf7c08112607">19</xref>].  Short-term use of estrogen in young women following oophorectomy might abrogate some of the breast cancer protection associated with oophorectomy; however, such interventions in symptomatic young women may be of benefit in improving quality of life.  In one study the effectiveness of prophylactic oophorectomy was not reduced by the addition of hormone replacement therapy [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDf9e35cdf-7e9e-46c1-8a85-f27f6d42fccc">18</xref>].  There are no comparable data on the degree of protection against breast cancer offered by other forms of ovarian ablation such as radiation or GNRH agonists.   A GNRH agonist may be preferred by a woman who wishes to preserve her fertility, but the use of these drugs in <italic>BRCA</italic> carriers is not widespread and their effectiveness in reducing breast cancer risk is unknown.  There remains the concern that these non-surgical approaches to ovarian ablation do not address risk for ovarian of fallopian tube cancers. </p>
+      <p>
+        <italic>Tamoxifen</italic>
+      </p>
+      <p>Tamoxifen is a selective estrogen receptor modulator (SERM) that competes with estrogen for binding to the estrogen receptor.  In humans, tamoxifen acts as an estrogen antagonist in breast tissue, inhibiting the growth of estrogen-dependent breast tumors [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDda12211c-dd36-46b4-9ea8-526d19592e23">20</xref>].  On theoretical grounds, tamoxifen should not reduce the incidence of estrogen-receptor negative breast cancers &#8211; and most breast cancers which occur in <italic>BRCA1 </italic> (but not <italic>BRCA2</italic>) carriers are estrogen-receptor negative. An attempt to address this issue was made in the NSABP P1 trial; however only eight <italic>BRCA1</italic> carriers with breast cancer were identified in the follow-up period [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID93e8d06b-409c-4583-ba0f-024cf56de3c3">21</xref>].  No protective effect was seen with tamoxifen for BRCA1 carriers, but the number of cases is too small for the study to be definitive.  In a large case-control study tamoxifen was found to reduce the incidence of contralateral breast cancer in affected <italic>BRCA1</italic> and <italic>BRCA2</italic> carriers by about one-half (OR = 0.5; 95% CI 0.30-0.85)[<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID1d469fb1-d121-42bf-a7ba-2a4e310f9248">22</xref>].  To the extent that contralateral cancers in carriers are representative of all new primary breast cancers, the results of this study might be extrapolated to the prevention of first primary breast cancers. But this conclusion would be invalid if the two primary cancers were not independent; for example if tamoxifen were given only to ER-positive patients, and if the ER status of bilateral cancers were highly correlated.  In a recent study by Weitzel et al, the majority of contralateral breast cancers following ER-positive breast cancer were in fact, ER-negative, suggesting that tamoxifen prevents ER-negative contralateral breast cancers [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID8131f894-570b-4a25-9ffd-f627edb27190">23</xref>]. </p>
+      <p>Recent research with the drug raloxifene has demonstrated that this drug reduces the risk of developing breast cancer in post-menopausal women (<xref rid="TO_LINK" ref-type="bibr" id="ID80861455-e5f9-4761-b5f0-08cb93b80075">NSABP</xref>). However, it has not been tested in women with a BRCA1 or BRCA2 mutation. This form of chemoprevention may become an option for post-menopausal women with a BRCA1 or BRCA2 mutation.</p>
+      <p>
+        <italic>Screening</italic>
+      </p>
+      <p>The goal of screening is to identify a breast cancer at a stage when surgical cure is likely.  Traditionally, this includes small breast cancers (&lt;1 cm) that are node-negative and with no evidence of distant spread.  Cure can be expected for the great majority of these cases.  But <italic>BRCA1</italic>-associated breast cancers are typically of high grade and are estrogen-receptor negative and so prognosis might be expected to be worse than average.  Among <italic>BRCA1</italic> carriers there was little correlation between tumor size and lymph-node positivity in one study; about one-third of <italic>BRCA1</italic> carriers had lymph node metastases detected at diagnosis, regardless of tumor size [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID5c7d116e-5391-4dd0-8f1c-3757d72fa0f6">24</xref>].  Therefore it may be problematic to predict the benefits of screening using survival data generated from a comparison group of non-carriers.  </p>
+      <p>	A number of advisory groups in the U.S. and Europe have published recommendations for surveillance for women at hereditary risk for breast cancer and ovarian cancer [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDdc980cbb-0b41-4834-9b39-36d65e4aa421">25</xref>,<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID569c5dcb-21b9-4556-8ff7-31e269fd922a">26</xref>,<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID599a7cab-e47e-43b6-b01c-28a97ef83ca6">27</xref>].  In general, these guidelines called for annual mammography beginning around age <xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID28635972-c781-433b-8861-223a708500c9">25</xref>, as well as monthly breast self-examinations (BSE) and clinical breast examination (CBE) once to twice a year.  </p>
+      <p><italic>BRCA</italic>-associated tumors may be particularly hard to detect mammographically. Pushing margins, breast density, and mutation status contribute independently to false-negative mammograms in <italic>BRCA </italic>heterozygotes [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID5906ae49-5dfc-401c-853c-2be11a1e24a3">28</xref>].  U.S and U.K studies of women under 50 with a family history of breast cancer reported  sensitivities of 63-70% [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDfdc8f552-b4fe-47d9-9edf-120382b1014f">29</xref>] and 44% [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDff623c7e-f7bc-4251-9262-1dfef87d875f">30</xref>], respectively.  Goffin and colleagues [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID0fbf2309-e1a9-4c00-94de-0c5a21f73e88">31</xref>] found that only 2 of 8 breast cancers (25%) in <italic>BRCA1</italic> carriers were detectable by mammogram at diagnosis, versus 27 of <xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID80574f32-a280-4325-8197-42f3ccf87f5d">35</xref> (77%) from non-carrier controls ( p = 0.01).  In a large cohort at a single center, of 12 breast tumors diagnosed in <italic>BRCA</italic> mutation carriers, less than half were found by mammogram [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDb9270098-0e87-45d4-b81d-1b237bc589b6">32</xref>].   Breast magnetic resonance imaging (MRI) offers the promise of a greatly improved sensitivity of detection of breast cancers in those at high risk.  Early studies reported sensitivities in the range of 100% for invasive breast cancer, but later studies which included DCIS reported lower sensitivities [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID92faa03e-bfa6-4bdb-87d1-73c1b331556f">32</xref>,<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID534d69b1-db94-465e-90ca-a110843fd155">33</xref>,<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID772a95d8-8869-4860-9cd8-db43488eb773">34</xref>,<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDc2d6d3a0-2d50-436f-a037-f4464e091bfa">35</xref>,<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID4af9cfa5-112f-4bba-b18c-cd6aaf195e1a">36</xref>,<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID3fe4f76b-d03a-40ea-a8de-0e95cb986126">37</xref>,<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID1ebcc57b-cae7-4723-b8fb-9b96b835d217">38</xref>,<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID362a8bad-6da0-48f7-a981-1828a15e4f05">39</xref>].  In the largest series reported to date, the sensitivity of MRI was 83% for invasive disease, but was only 71% overall [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="ID26719df0-e291-4534-a03b-0c8d62eab8cb">40</xref>].   However, the benefit attributable to finding cases of DCIS (versus early invasive cancers) has not been established.  In a study with longitudinal follow-up, MRI detected nine breast tumors that were missed by the other screening modalities [<xref rid="TO_LINK_NUMBER" ref-type="bibr" id="IDb8b9e4de-8234-4449-90af-4828988f7455">41</xref>] .   Of note, only two of the 22 women with breast cancer (9%) detected in this Canadian trial had lymph node metastases.  Thus, we feel that MRI has a role in screening <italic>BRCA</italic> mutations carriers.  It is not clear if the addition of mammography to MRI improves the sensitivity of screening. </p>
+    </sec>
+    <sec>
+      <title>Conclusions</title>
+      <p>	Women with a BRCA1 or BRCA2 mutation represent the highest risks group for the development of breast cancer.  Fortunately, several options are available for women - each option has varying levels of breast cancer risk reduction, in addition to various risks. Prophylactic mastectomy offers the best protection against developing breast cancer, but the majority of women in Canada are unwilling to exercise this option.   The extent of risk reduction associated with tamoxifen and prophylactic oophorectomy are less (<xref rid="TO_LINK" ref-type="bibr" id="ID66fa2b3f-8bb7-49ca-8943-bcd8b248870a">approximately 50% risk reduction for each</xref>) and are associated with the side effects of hormone withdrawal.   For these reasons, for many women screening is the preferred option.  Screening will not prevent breast cancer from developing; the intention is to detect a tumour at a treatable stage.  Women identified as having a BRCA1 or BRCA2 mutation should be made aware of all of their breast cancer prevention options.  Ultimately, the goal of genetic testing for BRCA1 and BRCA2 is to identify high-risk women so that cancer can be prevented.  </p>
+      <p>References</p>
+      <disp-quote>
+        <p>2.	Metcalfe, K., et al., <italic>Contralateral breast cancer in BRCA1 and BRCA2 mutation carriers.</italic> J Clin Oncol, 2004. <bold>22</bold>(<xref rid="TO_LINK" ref-type="bibr" id="ID249dd2cd-20ad-47f3-bcf7-3fff5de2ffd1">12</xref>): p. 2328-35.</p>
+      </disp-quote>
+      <disp-quote>
+        <p><xref rid="TO_LINK" ref-type="bibr" id="ID326b3ec5-e4f6-421f-ac5e-66fb330e428f">3</xref>.	Verhoog, L.C., et al., <italic>Contralateral breast cancer risk is influenced by the age at onset in BRCA1-associated breast cancer.</italic> Br J Cancer, 2000. <bold>8<xref rid="TO_LINK" ref-type="bibr" id="ID66fcef3c-e95f-4db6-a006-d89dd5a06584">3</xref>
+               </bold>(3): p. 384-6.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>4.	Robson, M., et al., <italic>BRCA-associated breast cancer in young women.</italic> J Clin Oncol, 1998. <bold>16</bold>(<xref rid="TO_LINK" ref-type="bibr" id="ID59fd7b83-99df-44b9-a107-dec6a72bba87">5</xref>): p. 1642-9.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>5.	Claus, E.B., N. Risch, and W.D. Thompson, <italic>Genetic analysis of breast cancer in the cancer and steroid hormone study.</italic> Am J Hum Genet, 1991. <bold>48</bold>(<xref rid="TO_LINK" ref-type="bibr" id="ID10c2913c-28d0-4d12-bc7d-5ecba05b5941">2</xref>): p. 232-42.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>6.	Whittemore, A.S., G. Gong, and J. Itnyre, <italic>Prevalence and contribution of BRCA1 mutations in breast cancer and ovarian cancer: results from three U.S. population-based case-control studies of ovarian cancer.</italic> Am J Hum Genet, 1997. <bold>60</bold>(<xref rid="TO_LINK" ref-type="bibr" id="IDcb045f16-0d2f-49e9-b898-df2917263e19">3</xref>): p. 496-504.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>7.	Struewing, J.P., et al., <italic>The risk of cancer associated with specific mutations of BRCA1 and BRCA2 among Ashkenazi Jews.</italic> New England Journal of Medicine, 1997. <bold>336</bold>(<xref rid="TO_LINK" ref-type="bibr" id="IDbc422424-30af-42a5-ac54-e431c00d61e0">20</xref>): p. 1401-1408.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>8.	Oddoux, C., et al., <italic>The carrier frequency of the BRCA2 6174delT mutation among Ashkenazi Jewish individuals is approximately 1%.</italic> Nature Genetics, 1996. <bold>14</bold>: p. 188-190.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>9.	Thorlacius, S., et al., <italic>Population-based study of risk of breast cancer in carriers of BRCA2 mutation.</italic> Lancet, 1998. <bold>352</bold>(<xref rid="TO_LINK" ref-type="bibr" id="ID0f9bc420-361e-4fb0-a9a0-467a02b20073">9137</xref>): p. 1337-9.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>10.	Gorski, B., et al., <italic>A high proportion of founder BRCA1 mutations in Polish breast cancer families.</italic> Int J Cancer, 2004. <bold>110</bold>(<xref rid="TO_LINK" ref-type="bibr" id="ID93702417-ca4e-4659-8b2a-5f3dad9c4ebf">5</xref>): p. 683-6.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>11.	Meijers-Heijboer, M., et al., <italic>Breast cancer after prophylactic bilateral mastectomy in women with a BRCA1 or BRCA2 mutation.</italic> The New England Journal of Medicine, 2001. <bold><xref rid="TO_LINK" ref-type="bibr" id="ID0d8389c9-bbaa-4c14-bec0-14bb6fe65c15">3</xref>45</bold>(3): p. 158-164.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>12.	Rebbeck, T.R., et al., <italic>Bilateral prophylactic mastectomy reduces breast cancer risk in BRCA1 and BRCA2 mutation carriers: the PROSE Study Group.</italic> J Clin Oncol, 2004. <bold>22</bold>(<xref rid="TO_LINK" ref-type="bibr" id="ID0a1bf129-ec81-46e2-a0e5-aaa21907a89d">6</xref>): p. 1055-62.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>13.	Metcalfe, K.A., J.L. Semple, and S.A. Narod, <italic>Time to reconsider subcutaneous mastectomy for breast-cancer prevention?</italic> Lancet Oncol, 2005. <bold><xref rid="TO_LINK" ref-type="bibr" id="ID8ddc2338-8a8f-4402-b563-d0c629997426">6</xref></bold>(6): p. 431-4.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>14.	Levine, D.A. and M.L. Gemignani, <italic>Prophylactic surgery in hereditary breast/ovarian cancer syndrome.</italic> Oncology (<xref rid="TO_LINK" ref-type="bibr" id="IDf2f8ce9d-b872-4445-b9d4-6c3d139502bf">Williston Park</xref>), 2003. <bold>1<xref rid="TO_LINK" ref-type="bibr" id="ID6e72580e-985c-40fb-8688-7d074bb716be">7</xref>
+               </bold>(7): p. 932-41; discussion 946-8, 950-2.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>15.	Narod, S.A., <italic>Modifiers of risk of hereditary breast and ovarian cancer.</italic> Nat Rev Cancer, <xref rid="TO_LINK" ref-type="bibr" id="ID6917b007-8d9f-4390-ab43-e66a481e5831">2</xref>002. <bold><xref rid="TO_LINK" ref-type="bibr" id="IDfdb319cf-ef3a-4ab8-b675-ba89141ebab8">2</xref></bold>(2): p. 113-23.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>16.	Kauff, N.D., et al., <italic>Risk-reducing salpingo-oophorectomy in women with a BRCA1 or BRCA2 mutation.</italic> N Engl J Med, 2002. <bold>346</bold>(<xref rid="TO_LINK" ref-type="bibr" id="IDeded2464-d2e6-4c25-b6f1-63d132bcb654">21</xref>): p. 1609-15.</p>
+      </disp-quote>
+      <disp-quote>
+        <p><xref rid="TO_LINK" ref-type="bibr" id="IDeb0a4374-9f7e-463e-bd8c-f1a926850d91">17</xref>.	Rebbeck, T.R., et al., <italic>Breast cancer risk after bilateral prophylactic oophorectomy in BRCA1 mutation carriers.</italic> J Natl Cancer Inst, 1999. <bold>91</bold>(<xref rid="TO_LINK" ref-type="bibr" id="IDbdcf22b1-6c08-40d8-bede-f7f10c261784">17</xref>): p. 1475-9.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>18.	Rebbeck, T.R., et al., <italic>Prophylactic oophorectomy in carriers of BRCA1 or BRCA2 mutations.</italic> N Engl J Med, 2002. <bold>346</bold>(<xref rid="TO_LINK" ref-type="bibr" id="IDa343453d-95d6-4284-8dfa-658e40e80b72">21</xref>): p. 1616-22.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>19.	Eisen, A., et al., <italic>Breast cancer risk following bilateral oophorectomy in BRCA1 and BRCA2 mutation carriers: an international case-control study.</italic> J Clin Oncol, 2005. <bold>23</bold>(<xref rid="TO_LINK" ref-type="bibr" id="ID43685006-8eeb-4d0c-81e1-f51f589e9042">30</xref>): p. 7491-6.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>20.	Pritchard, K.I., <italic>Breast cancer prevention with selective estrogen receptor modulators: a perspective.</italic> Ann N Y Acad Sci, 2001. <bold>949</bold>: p. 89-98.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>21.	King, M.C., et al., <italic>Tamoxifen and breast cancer incidence among women with inherited mutations in BRCA1 and BRCA2: National Surgical Adjuvant Breast and Bowel Project (<xref rid="TO_LINK" ref-type="bibr" id="ID99632703-b0bc-449f-9793-cffb97ffe768">NSABP-P1</xref>) Breast Cancer Prevention Trial.</italic> Jama, 2001. <bold>286</bold>(<xref rid="TO_LINK" ref-type="bibr" id="ID0489ed8c-0342-4b03-80a7-afcee54ce1a7">18</xref>): p. 2251-6.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>22.	Gronwald, J., et al., <italic>Tamoxifen and contralateral breast cancer in BRCA1 and BRCA2 carriers: an update.</italic> Int J Cancer, 2006. <bold>118</bold>(<xref rid="TO_LINK" ref-type="bibr" id="IDa43b5e97-6710-4647-a7cf-0e264ec2ef7f">9</xref>): p. 2281-4.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>23.	Weitzel, J.N., et al., <italic>A comparison of bilateral breast cancers in BRCA carriers.</italic> Cancer Epidemiol Biomarkers Prev, 2005. <bold>14</bold>(<xref rid="TO_LINK" ref-type="bibr" id="IDb37dd522-c13f-4f5b-9581-1d74e9c4a25f">6</xref>): p. 1534-8.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>24.	Foulkes, W.D., et al., <italic>Disruption of the expected positive correlation between breast tumor size and lymph node status in BRCA1-related breast carcinoma.</italic> Cancer, 2003. <bold>9<xref rid="TO_LINK" ref-type="bibr" id="ID5704a50e-e87d-4a91-8b20-0b158d84bfa9">8</xref>
+               </bold>(8): p. 1569-1577.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>25.	Burke, W., et al., <italic>Recommendations for follow-up care of individuals with an inherited predisposition to cancer.</italic> JAMA, 1997. <bold>277</bold>(<xref rid="TO_LINK" ref-type="bibr" id="ID98c69031-de4e-4292-91af-dc1002549de5">12</xref>): p. 997-1003.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>26.	Eisinger, F., et al., <italic>Recommendations for medical management of hereditary breast and ovarian cancer: the French National Ad Hoc Committee.</italic> Ann Oncol, 1<xref rid="TO_LINK" ref-type="bibr" id="IDe65bc99f-2923-4e60-af1e-b32923dd4a6c">9</xref>98. <bold><xref rid="TO_LINK" ref-type="bibr" id="IDe0d28e33-a606-4b8f-a025-a5ae1175fc4f">9</xref></bold>(9): p. 939-50.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>27.	Pichert, G., et al., <italic>Evidence-based management options for women at increased breast/ovarian cancer risk.</italic> Ann Oncol, 2003. <bold><xref rid="TO_LINK" ref-type="bibr" id="ID9ddecd19-80af-469a-944a-661bbe0e1af3">1</xref>4</bold>(1): p. 9-19.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>28.	Tilanus-Linthorst, M., et al., <italic>A BRCA<xref rid="TO_LINK" ref-type="bibr" id="IDde23b7f9-679d-44e4-bfea-379d0e290abb">1</xref>/2 mutation, high breast density and prominent pushing margins of a tumor independently contribute to a frequent false-negative mammography.</italic> Int J Cancer, 2002. <bold><xref rid="TO_LINK" ref-type="bibr" id="ID89bf519d-7d3f-4ff8-97a7-432000720c04">1</xref>02</bold>(1): p. 91-5.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>29.	Kerlikowske, K., et al., <italic>Performance of screening mammography among women with and without a first-degree relative with breast cancer.</italic> Ann Intern Med, 2000. <bold>133</bold>(<xref rid="TO_LINK" ref-type="bibr" id="ID9a910321-d552-4075-aeb2-11bf4874a799">11</xref>): p. 855-63.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>30.	Kollias, J., et al., <italic>Screening women aged less than 50 years with a family history of breast cancer.</italic> Eur J Cancer, 1998. <bold>34</bold>(<xref rid="TO_LINK" ref-type="bibr" id="IDf82fb730-4fdf-4010-a28f-bdfec8efac67">6</xref>): p. 878-83.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>31.	Goffin, J., et al., <italic>Re: Magnetic resonance imaging and mammography in women with a hereditary risk of breast cancer.</italic> J Natl Cancer Inst, 2001. <bold>93</bold>(<xref rid="TO_LINK" ref-type="bibr" id="ID988953bb-a83c-4705-aba1-ec349b242501">22</xref>): p. 1754-5.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>32.	Scheuer, L., et al., <italic>Outcome of preventive surgery and screening for breast and ovarian cancer in BRCA mutation carriers.</italic> J Clin Oncol, 2002. <bold>20</bold>(<xref rid="TO_LINK" ref-type="bibr" id="ID7c71eb51-4060-48b8-a179-6d0c19265d8d">5</xref>): p. 1260-8.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>33.	Brekelmans, C.T., et al., <italic>Effectiveness of breast cancer surveillance in BRCA1/2 gene mutation carriers and women with high familial risk.</italic> J Clin Oncol, 2001. <bold>19</bold>(<xref rid="TO_LINK" ref-type="bibr" id="IDc4484930-8b70-4ad7-b7e9-9b0d62faa44f">4</xref>): p. 924-30.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>34.	Tilanus-Linthorst, M.M., et al., <italic>First experiences in screening women at high risk for breast cancer with MR imaging.</italic> Breast Cancer Res Treat, 2000. <bold>63</bold>(<xref rid="TO_LINK" ref-type="bibr" id="ID80e5cffc-4f7c-433f-a4f3-d563536a34c7">1</xref>): p. 53-60.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>35.	Stoutjesdijk, M.J., et al., <italic>Magnetic resonance imaging and mammography in women with a hereditary risk of breast cancer.</italic> J Natl Cancer Inst, 2001. <bold>93</bold>(<xref rid="TO_LINK" ref-type="bibr" id="IDa798ff74-97b1-4d41-b7c9-0934c5ed42ab">14</xref>): p. 1095-102.</p>
+      </disp-quote>
+      <disp-quote>
+        <p><xref rid="TO_LINK" ref-type="bibr" id="ID429b6c68-5954-4b1a-85f8-9c17249c8182">3</xref>6.	Morris, E.A., et al., <italic>MRI of occult breast carcinoma in a high-risk population.</italic> AJR Am J Roentgenol, 200<xref rid="TO_LINK" ref-type="bibr" id="IDa766a7b2-800d-4a3c-92e6-285b3238314a">3</xref>. <bold>181</bold>(<xref rid="TO_LINK" ref-type="bibr" id="ID6914663e-5117-4453-8de5-e30062849dce">3</xref>): p. 619-26.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>37.	Kriege, M., et al., <italic>Efficacy of MRI and mammography for breast-cancer screening in women with a familial or genetic predisposition.</italic> N Engl J Med, 2004. <bold>3<xref rid="TO_LINK" ref-type="bibr" id="ID79ffca24-d99b-4679-8cff-e11d7963e293">5</xref>1</bold>(5): p. 427-37.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>38.	Liberman, L., et al., <italic>Probably benign lesions at breast magnetic resonance imaging: preliminary experience in high-risk women.</italic> Cancer, <xref rid="TO_LINK" ref-type="bibr" id="IDe36f5ed0-676e-4d0c-9ff3-1b9fdda4383c">2</xref>003. <bold>98</bold>(<xref rid="TO_LINK" ref-type="bibr" id="ID3af6f7d6-7c6b-4cd6-b7e6-fc63e62d29d1">2</xref>): p. 377-88.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>39.	Robson, M.E. and K. Offit, <italic>Breast MRI for women with hereditary cancer risk.</italic> Jama, 2004. <bold>292</bold>(<xref rid="TO_LINK" ref-type="bibr" id="IDb1592d87-6112-40eb-a974-5ccc079af729">11</xref>): p. 1368-70.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>40.	Gui, G.P., et al., <italic>The incidence of breast cancer from screening women according to predicted family history risk: Does annual clinical examination add to mammography?</italic> Eur J Cancer, 2001. <bold>37</bold>(<xref rid="TO_LINK" ref-type="bibr" id="IDd8921bf2-77c4-4bea-96a0-e3a4382d7469">13</xref>): p. 1668-73.</p>
+      </disp-quote>
+      <disp-quote>
+        <p>41.	Warner, E., et al., <italic>Surveillance of BRCA1 and BRCA2 mutation carriers with magnetic resonance imaging, ultrasound, mammography, and clinical breast examination.</italic> Jama, 2004. <bold>292</bold>(<xref rid="TO_LINK" ref-type="bibr" id="ID2c806b91-3fea-4252-85cc-d3c2b714ee97">11</xref>): p. 1317-25.</p>
+      </disp-quote>
+    </sec>
+  </body>
+  <back/>
+</article>

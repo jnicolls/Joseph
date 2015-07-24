@@ -1,0 +1,98 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">The Journal Title</journal-id>
+      <issn pub-type="epub">0000-000X</issn>
+      <publisher>
+        <publisher-name>The Publisher Name</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1000/123456</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Sample Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A Sample Article Title</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Eve</surname>
+            <given-names>Martin Paul</given-names>
+          </name>
+          <xref ref-type="aff" rid="lincoln"/>
+        </contrib>
+        <aff id="lincoln">
+          <institution>University of Lincoln</institution>
+        </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <year>2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <issue>1</issue>
+      <fpage>1</fpage>
+      <lpage>2</lpage>
+      <permissions>
+        <copyright-statement>Copyright &#169; 2014, Martin Paul Eve</copyright-statement>
+        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The citation of this article must include: the name(s) of the authors, the name of the journal, the full URL of the article (in a hyperlinked format if distributed online) and the DOI number of the article.</license-p>
+        </license>
+      </permissions>
+      <self-uri>https://www.martineve.com/</self-uri>
+      <abstract>
+        <p>This is a sample abstract that forms part of the metadataSample.xml file in meTypeset.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title/>
+      <p>Commentary: Mandatory Reporting by Physicians of Patients Potentially Unfit to Drive [We would like to publish this under another title &#8211; what about something like &#8220;Determining medical fitness to drive: physicians needs support&#8221; ? Suggestions welcome.]</p>
+      <p>Determining medical fitness to drive remains a challenge to physicians and administrators alike. While society generally acknowledges that driving is essential for day-to-day functioning, safety of the individual and the public remain paramount.  Impairments resulting from medical conditions can affect driving ability. </p>
+      <p>In Ontario, as well as 6 other Canadian provinces, mandatory reporting of patients considered to be potentially medically unfit to drive has been introduced as one solution to address this issue. In their case series analysis of drivers involved in a motor vehicle collision and subsequently admitted to an Ontario trauma unit for treatment, Redelmeier et al demonstrate that despite these laws, only 3% of potentially medically unfit drivers had been reported to licensing authorities (<xref rid="TO_LINK" ref-type="bibr" id="IDb214599b-b289-4a5d-be43-6cb799411f07">1</xref>). The authors conclude that despite having been seen by physicians, medically unsafe drivers are rarely reported to licensing authorities.</p>
+      <p>Clearly, this under reporting is a concern: these drivers with reportable conditions were involved in collisions causing injury and death. Multiple medical conditions such as alcohol abuse and dependence, cardiovascular disease, cerebrovascular disease, psychiatric disorders, dementia, diabetes mellitus, epilepsy, obstructive sleep apnoea and vision disorders have an overall increased collision risk (<xref rid="ID1e119b9b-64c1-43cd-a2c9-f369cf273ecf" ref-type="bibr" id="ID2d3e0d75-065c-4817-91ee-13b8b9311bc7">2</xref>) However, these conditions are only one factor contributing to a relative increased risk of collision and determination of the variable impact of the condition on driving ability at the individual level remains challenging. <bold>[IS THIS CHANGE CORRECT?} </bold>And research has generally demonstrated that physicians have limited training and knowledge with regards to assessing medical fitness to drive (<xref rid="IDf7a9c52b-5b88-41e0-a776-a33221ff524c" ref-type="bibr" id="IDc9e71877-2377-4533-9b12-44eb4ff6ea8f">3, 4</xref>).    For instance, the spectrum of disease for a condition such as diabetes mellitus can range from a newly diagnosed condition controlled by diet to a long standing condition requiring medication as well as complications such as neuropathy, retinopathy and vascular disease.  At some point the impairments associated with diabetes mellitus may impact driving ability, but the challenge for the physician is determining when to intervene or report.  </p>
+      <p>This study by Redelmeier et al indicates a particular challenge for physicians in that the primary reportable conditions of alcohol abuse and cardiac disease (<xref rid="TO_LINK" ref-type="bibr" id="IDab56de69-d25f-49c7-af58-30f2f4034a1d">95% of reportable conditions identified</xref>) are conditions that Dobbs refers to as acute conditions where the effect on driving is sporadic or unpredictable (<xref rid="TO_LINK" ref-type="bibr" id="IDb2dfd5be-f0bf-42f4-98cd-f770b0d15bfb">5</xref>).  For example, the typical concern with cardiac conditions on driving would be loss of consciousness.  In contrast, neurological conditions (<xref rid="TO_LINK" ref-type="bibr" id="IDd0fca57c-18a4-41de-8295-1a0921fd0f91">21% reported in the Redelmeier study</xref>) tend to have chronic, continuous effects that could affect driving ability and are often best assessed with direct evaluation of driving ability by an on-road evaluation. These chronic conditions may be more likely to be considered by physicians in the primary clinic setting, since the potential impact on driving ability may be more evident. As pointed out by Redelmeier and others, barriers continue to exist for physician reporting including the lack of valid tools for physicians to use in determining medical fitness to drive ((6).</p>
+      <p>Although this study demonstrates that there is clear under reporting by physicians of relevant medical conditions, this does not mean that it should necessarily be abandoned.  By identifying the ineffectiveness of mandatory reporting, this allows for review of strategies to improve identification of persons who may be medically unfit to drive.  Clearly, this research reveals that the most prevalent condition is alcohol abuse and dependence and strategies to address this condition specifically are warranted.  Changes in public policy have occurred nationally and internationally since 2001 that may influence physician reporting of alcohol abuse. For instance the province of Quebec has recently lowered the maximum allowable blood alcohol concentration <bold>[from x to y &#8211; interesting for non-Canadian readers].</bold>
+         </p>
+      <p>On an optimistic note, resources to support physicians determining medical fitness to drive are increasingly available.  These include the Physician&#8217;s Guide to Assessing and Counseling Older Drivers (<xref rid="TO_LINK" ref-type="bibr" id="ID7da7a60f-4737-4082-ab1e-527635bdb6fb">7</xref>) as well as other tools such as the Driving and Dementia Toolkit (<xref rid="TO_LINK" ref-type="bibr" id="ID3f5ab291-a5a4-4f35-909a-1bf9f3bdb61e">8</xref>) and a significantly expanded and revised Canadian guide for determining medical fitness to drive (<xref rid="TO_LINK" ref-type="bibr" id="ID1355f5c2-ee13-492a-b535-d12359fe50a3">9</xref>).  Other recent changes in Ontario include the availability of reporting forms on the internet as well as the introduction of a fee code to allow physicians to bill for reporting potentially medically unfit drivers.  The impact of these changes are not known, but hopefully these and other resources can be developed to assist physicians in assessing medical fitness to drive and meeting their legal responsibilities.</p>
+      <p>References</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ID5e6ca587-2cd3-4959-9ea5-946493dbf32f">
+        <mixed-citation>Redelmeier et al - Open Medicine 2008</mixed-citation>
+      </ref>
+      <ref id="ID1e119b9b-64c1-43cd-a2c9-f369cf273ecf">
+        <mixed-citation> Charlton J, Koppel S, O&#8217;Hare M, Andrea D, Smith G, Khodr B, Langford J, Odell M, Fildes B. (2004) Influence of Chronic Illness on Crash Involvement of Motor Vehicle Drivers, Report No. 213, Monash University Accident Research Centre, Clayton, Australia.<bold>2. </bold>Charlton J, Koppel S, O&#8217;Hare M, Andrea D, Smith G, Khodr B, Langford J, Odell M, Fildes B. (2004) Influence of Chronic Illness on Crash Involvement of Motor Vehicle Drivers, Report No. 213, Monash University Accident Research Centre, Clayton, Australia.</mixed-citation>
+      </ref>
+      <ref id="ID06d9e45f-7879-4387-a8da-8d10f1a81f05">
+        <mixed-citation>Marshall SC, Gilbert N. Saskatchewan physicians&#8217; attitudes and knowledge regarding assessment of medical fitness to drive. Canadian Medical Association Journal. 1999. 160(12)1701-1704.</mixed-citation>
+      </ref>
+      <ref id="IDeed3e977-1d9e-4a8e-b673-edf9bba50c53">
+        <mixed-citation> Jang RW, Man-Son-Hing M, Molnar FJ, Hogan DB,  Marshall SC , Auger J, Graham ID, Korner-Bitensky N, Tomlinson G, Naglie G. Family Physicians&#8217; Attitudes and Practices Regarding Assessments of Medical Fitness to Drive in Older Persons. Journal of General Internal Medicine. 2007; 22: 531&#8211;543.4. Jang RW, Man-Son-Hing M, Molnar FJ, Hogan DB, Marshall SC, Auger J, Graham ID, Korner-Bitensky N, Tomlinson G, Naglie G. Family Physicians&#8217; Attitudes and Practices Regarding Assessments of Medical Fitness to Drive in Older Persons. Journal of General Internal Medicine. 2007; 22: 531&#8211;543.</mixed-citation>
+      </ref>
+      <ref id="IDf2ba8ab3-396f-4a64-8e70-8f32ffc78a6d">
+        <mixed-citation> Dobbs BM. (2005) Medical Conditions and Driving: A Review of the Scientific Literature (1960&#8211;2000), Technical report for the National Highway and Traffic Safety Administration and the Association for the Advancement of Automotive Medicine Project, Washington, DC.5. Dobbs BM. (2005) Medical Conditions and Driving: A Review of the Scientific Literature (1960&#8211;2000), Technical report for the National Highway and Traffic Safety Administration and the Association for the Advancement of Automotive Medicine Project, Washington, DC.</mixed-citation>
+      </ref>
+      <ref id="ID96ee93ea-92c6-4de6-98c5-221f4ef6475e">
+        <mixed-citation> Molnar FJ, Byszewski AM, Marshall SC, Man-Son-Hing M. (2005) In-Office Evaluation of Medical Fitness to Drive: Practical Approaches for Assessing Older People,  Can. Fam. Physician , Vol. 51, pp. 372-379.6. Molnar FJ, Byszewski AM, Marshall SC, Man-Son-Hing M. (2005) In-Office Evaluation of Medical Fitness to Drive: Practical Approaches for Assessing Older People, <italic>Can. Fam. Physician</italic>, Vol. 51, pp. 372-379.</mixed-citation>
+      </ref>
+      <ref id="ID1974b23e-2bdb-4ea7-881e-26eeceac0b28">
+        <mixed-citation> Wang CC, Kosinski CJ, Schwartzberg JG, Shanklin AV.  Physician&#8217;s Guide to Assessing and Counseling Older Drivers. Washington, DC: National Highway Traffic Safety Administration; 2003, available at:   http://www.nhtsa.dot.gov/people/injury/olddrive/OlderDriversBook/pages/Chapter7.html7. Wang CC, Kosinski CJ, Schwartzberg JG, Shanklin AV.  Physician&#8217;s Guide to Assessing and Counseling Older Drivers. Washington, DC: National Highway Traffic Safety Administration; 2003, available at: http://www.nhtsa.dot.gov/people/injury/olddrive/OlderDriversBook/pages/Chapter7.html
+         </mixed-citation>
+      </ref>
+      <ref id="IDf7a9c52b-5b88-41e0-a776-a33221ff524c">
+        <mixed-citation>Anna Byszewski, M.D, Ian D Graham, PhD*, Stephanie Amos PhD , Malcolm Man-Son-Hing, MD MSc,; William Dalziel MD; Shawn Marshall MD MSc; Lynn Hunt OT; Clarissa Bush PhD, C Psych; Danilo Guzman MD. A continuing medical education initiative for Canadian Primary Care Physicians: The Driving and Dementia toolkit: A pre and post evaluation of knowledge, confidence gained and satisfaction. J Amer Geriatri Soc. 51:1484-1489. 2003.</mixed-citation>
+      </ref>
+      <ref>
+        <mixed-citation> Canadian Medical Association. (2006) Determining Medical Fitness to Operate Motor Vehicles, 7th ed., Canadian Medical Association, Ottawa, ON.9. Canadian Medical Association. (2006) Determining Medical Fitness to Operate Motor Vehicles, 7th ed., Canadian Medical Association, Ottawa, ON.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

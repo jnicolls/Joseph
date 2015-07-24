@@ -1,0 +1,803 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">The Journal Title</journal-id>
+      <issn pub-type="epub">0000-000X</issn>
+      <publisher>
+        <publisher-name>The Publisher Name</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1000/123456</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Sample Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A Sample Article Title</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Eve</surname>
+            <given-names>Martin Paul</given-names>
+          </name>
+          <xref ref-type="aff" rid="lincoln"/>
+        </contrib>
+        <aff id="lincoln">
+          <institution>University of Lincoln</institution>
+        </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <year>2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <issue>1</issue>
+      <fpage>1</fpage>
+      <lpage>2</lpage>
+      <permissions>
+        <copyright-statement>Copyright &#169; 2014, Martin Paul Eve</copyright-statement>
+        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The citation of this article must include: the name(s) of the authors, the name of the journal, the full URL of the article (in a hyperlinked format if distributed online) and the DOI number of the article.</license-p>
+        </license>
+      </permissions>
+      <self-uri>https://www.martineve.com/</self-uri>
+      <abstract>
+        <p>This is a sample abstract that forms part of the metadataSample.xml file in meTypeset.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>LABORATORY TESTING IN NEWLY TREATED ELDERLY HYPERTENSIVES: A POPULATION-BASED COHORT STUDY</title>
+      <p>Finlay A. McAlister<xref ref-type="fn" rid="bibd2e39"/>, Karen Tu2,3, Sumit R. Majumdar<xref ref-type="fn" rid="bibd2e46"/>, </p>
+      <p>Rajdeep Padwal<xref ref-type="fn" rid="bibd2e52"/>, Zhongliang Chen<xref ref-type="fn" rid="bibd2e56"/>, Norman R.C. Campbell<xref ref-type="fn" rid="bibd2e60"/>
+         </p>
+      <p><bold>Affiliations:		</bold><xref ref-type="fn" rid="bibd2e66"/>Division of General Internal Medicine, University of Alberta, Edmonton, Canada;<xref ref-type="fn" rid="bibd2e70"/>Department of Family and Community Medicine, University of Toronto, Toronto, Canada; <xref ref-type="fn" rid="bibd2e77"/>Institute For Clinical Evaluative Sciences (<xref rid="ID58d3ec53-ce1a-476b-9fd6-dde145cb8dc7" ref-type="bibr" id="ID6d229763-3bea-4e5f-a531-ec9179974053">ICES</xref>), Toronto, Canada; and <xref ref-type="fn" rid="bibd2e84"/>Departments of Medicine and Pharmacology and Therapeutics, University of Calgary, Calgary, Canada </p>
+      <p><bold>Support:	</bold>This research was supported by a Grant-in-Aid from the Heart and Stroke Foundation of Ontario Grant #NA 5459. This organization was not involved in the design/conduct of the study, collection of the data, analysis/interpretation, or preparation/review/approval of the manuscript. KT is supported by a Canadian Institutes of Health Research (<xref rid="TO_LINK" ref-type="bibr" id="ID9695b673-bb8c-4af4-a3e6-e90fa7a431ae">CIHR</xref>) Short-Term Clinician Investigator Award. FM and SM are supported by Alberta Heritage Foundation for Medical Research Population Health Scholar Awards and CIHR New Investigator Awards, and FM also holds the University of Alberta/Merck Frosst/Aventis Chair in Patient Health Management.</p>
+      <p><bold>Word Count:</bold>	2698 text, 32 references, 3 tables, 1 figure</p>
+      <p><bold>Running Title:	</bold>Antihypertensive prescribing and testing</p>
+    </sec>
+    <sec>
+      <title>Corresponding Author: </title>
+      <p>Finlay McAlister. 2E3.24 Walter Mackenzie Centre, University of Alberta Hospital, 8440 112 Street, Edmonton, Alberta T6G 2R7; Tele: 780-407-1399; Fax: 780-407-2680</p>
+      <p>e-mail: Finlay.McAlister@ualberta.ca</p>
+    </sec>
+    <sec>
+      <title>ABSTRACT </title>
+      <p><bold>Background:</bold>	A purported advantage of newer antihypertensive drug classes is a reduced need for laboratory testing, but little is known about the frequency of laboratory monitoring in clinical practice and whether this differs across drug classes.  </p>
+      <p><bold>Methods:</bold> 	A population-based cohort study using linked administrative databases in Ontario, Canada. All elderly residents of Ontario who were newly treated for uncomplicated hypertension between 1994 and 2002 were followed for 24 months or until they were hospitalized, died, or were no longer on their initially prescribed monotherapy.  We examined the frequency and type of laboratory tests performed while patients were treated with antihypertensive monotherapy. </p>
+      <p><bold>Results:</bold>	In this cohort of 164,413 patients, 39% were treated with thiazides and 46% were prescribed &#8220;newer&#8221; drug classes as initial therapy. At baseline, 96,534 individuals (<xref rid="TO_LINK" ref-type="bibr" id="ID26562500-73e1-42dc-b079-83c259dbc2a8">59%</xref>) did not have any laboratory testing done and during 1,701,520 months of monotherapy (<xref rid="TO_LINK" ref-type="bibr" id="IDee5138f3-20f9-40e4-bda0-e8110f695fcd">mean time on initial agent 10.3 months</xref>) only 79,985 (<xref rid="TO_LINK" ref-type="bibr" id="ID53a21552-b126-4a7d-ac72-63b346194358">49%</xref>) had any tests done. Laboratory testing was significantly more frequent in patients prescribed thiazides than newer drug classes: the adjusted rate ratios [aRR]) for laboratory testing were 0.94 (<xref rid="TO_LINK" ref-type="bibr" id="IDf2553cbf-3457-45a3-b0ce-7665f01152e3">95%CI 0.93-0.95</xref>) with ACE-inhibitors, 0.80 (<xref rid="TO_LINK" ref-type="bibr" id="IDa39cc71b-b062-4405-a53d-2c0b0800c404">95%CI 0.79-0.81</xref>) with calcium channel blockers, and 0.79 (<xref rid="TO_LINK" ref-type="bibr" id="IDcd392dbc-1b72-45b0-88be-bb8d4c8c09cf">95%CI 0.76-0.82</xref>) with angiotensin-receptor blockers. However, the absolute increase in testing was small (16 extra electrolyte tests, 6 extra renal function tests, 4 extra glucose tests, and 6 less serum cholesterol tests per 100 patients every 6 months) such that the extra laboratory testing observed with thiazides resulted in an additional cost of only $0.63 CDN per patient every 6 months compared to the newer drug classes.</p>
+      <p><bold>Conclusions:</bold> 	Laboratory monitoring is infrequent in hypertension and although initial choice of antihypertensive agent is associated with subsequent frequency of laboratory testing in clinical practice, the magnitude of these differences is small. </p>
+      <p>Thiazide diuretics, angiotensin converting enzyme (ACE) inhibitors, calcium channel blockers and angiotensin receptor blockers (hereafter, the latter <xref rid="ID58d3ec53-ce1a-476b-9fd6-dde145cb8dc7" ref-type="bibr" id="IDd67af1a9-f03b-4b07-9236-63c710e52a9a">3</xref> are referred to as &#8220;newer agents&#8221;) prevent cardiovascular morbidity and mortality in elderly patients with uncomplicated hypertension,[<xref rid="IDe7499b46-b621-4b90-a9e9-8f31749de05c" ref-type="bibr" id="ID5893cc9f-b70f-4c4f-b218-baa454072ccc">1</xref>,<xref rid="ID29181d65-7c94-4085-90d4-bec4462a7a05" ref-type="bibr" id="IDab443e3c-e45e-4c8e-8fb8-dfe3f30a8da9">2</xref>] and the reduction in events is directly related to the reduction in blood pressure.[<xref rid="ID29181d65-7c94-4085-90d4-bec4462a7a05" ref-type="bibr" id="IDec8bf4f6-1ca7-4984-98c4-7cc9518e21b5">2</xref>,<xref rid="ID58d3ec53-ce1a-476b-9fd6-dde145cb8dc7" ref-type="bibr" id="IDdadb55fb-eec3-4bc1-85ce-9282e49cc812">3</xref>]  Thus, debates over which drug class should be recommended for initial therapy in hypertension frequently revolve around issues of costs, adherence, and tolerability.  While defining the predictors of long-term adherence with antihypertensive agents is an area of active research, differences in tolerability between drug classes are best judged in randomised trials, several of which have reported similar adherence and tolerability with each of the major drug classes.[<xref rid="ID431a398a-84eb-4a3c-9cf2-a84aaa29a339" ref-type="bibr" id="ID8830d517-a8b6-4462-bbea-068d804a88c6">4</xref>,<xref rid="ID5d68ec89-d765-4598-99e4-efd75ecac99f" ref-type="bibr" id="ID812c16aa-07e7-42be-9887-859f9acfa940">5</xref>,<xref rid="ID71827537-c31b-4170-a078-4d9d90321948" ref-type="bibr" id="IDad5a701b-13b2-4d3e-a47f-2410a4a266e6">6</xref>,<xref rid="ID5ef73243-c9ce-4370-a599-d3152748f240" ref-type="bibr" id="ID709420d3-6d1c-44a0-9304-d360c644750f">7</xref>]  Thus, cost is increasingly cited as the key factor in choosing between drug classes for initial therapy in patients with uncomplicated hypertension.[<xref rid="ID51cc1c91-8a6d-4a9a-980d-4a483accdef4" ref-type="bibr" id="ID6e50d025-9f52-4e66-8e72-04651a011f04">8</xref>]  </p>
+      <p>Advocates of the use of thiazides as first-line treatment for elderly hypertensives cite their cheaper acquisition costs,[<xref rid="ID81064079-dbab-40da-9a16-a69bacd19409" ref-type="bibr" id="ID692556c2-357b-4790-9bf6-c916712c4652">9</xref>] while opponents counter that there is less need for (and thus less cost associated with) laboratory testing with newer agents. However, there is little published evidence on the frequency of laboratory monitoring in hypertensive individuals (and none examining differences between drug classes) and without such data one can only speculate as to whether the cheaper acquisition costs of thiazides are offset by increased costs for laboratory monitoring. Indeed, attempts to model the economic implications of using thiazides versus newer drug classes have been forced to make assumptions about the frequency of laboratory testing with different drug classes based on the frequency of testing recommended in clinical practice guidelines given the paucity of data.[<xref rid="ID81064079-dbab-40da-9a16-a69bacd19409" ref-type="bibr" id="ID6bec216d-50c7-4171-81d0-d082d1be9712">9</xref>,<xref rid="IDff9a09a2-dde7-4b16-b6cd-7b7934324ce1" ref-type="bibr" id="ID5875560d-2b78-47c1-aa2e-4bbef2296f4d">10</xref>]</p>
+      <p>As randomised trial protocols specify type and frequency of laboratory tests and standardize these across treatment arms, none of the antihypertensive randomised trials can be used to answer this question.  Thus, a cohort study is the strongest study design to explore antihypertensive prescribing practices and the impact of initial drug choice on subsequent laboratory testing practices.  </p>
+    </sec>
+    <sec>
+      <title>Methods</title>
+    </sec>
+    <sec>
+      <title>Assembly of Cohort:</title>
+      <p>As previously described in detail,[<xref rid="IDba8ccf6c-c7b2-4009-9e4f-9905463a247c" ref-type="bibr" id="IDaf07dc24-b299-4f00-ac0c-fa7fe5ee96da">11</xref>] we cross-linked the Ontario Drug Benefit database with the Ontario Health Insurance Plan physician claims database (which records all fee-for-service billings and the most responsible diagnoses at each visit), the Canadian Institute for Health Information hospitalization database (which records the primary diagnosis and up to 15 secondary diagnoses for all discharges from acute care hospitals), and the Registered Persons Database (which records dates of death or emigration from Ontario) to identify a cohort of all Ontario residents aged 66 years or older who received a new outpatient prescription for an antihypertensive agent between July 1, 1994 and March 31, 2002.  These databases record information for all Ontario residents aged 65 and older and the comprehensiveness and validity of these administrative databases in Ontario has been validated.[<xref rid="ID8b1139d2-30b2-456b-b8d9-23f7d98ee389" ref-type="bibr" id="ID3ed4bfc6-4031-4c9b-8db3-a921a13c14d3">12</xref>]  </p>
+      <p>In order to ensure that these prescriptions were for hypertension, we excluded any patients with diabetes mellitus (by cross-linking with the Ontario Diabetes Database)[<xref rid="IDc654f248-3458-4850-801b-68c32a22fca0" ref-type="bibr" id="ID57252a85-63bd-4a67-98e2-45349045411a">13</xref>] or a non-blood pressure lowering indication for antihypertensive agents by excluding any patients with (i) physician billing claims within 3 years or (ii) hospitalization discharge codes within 4 years or (iii) prescriptions for marker medications in the Ontario Drug Benefit database within one year for any of the following conditions: myocardial infarction or angina, heart failure, arrhythmias, renal disease (including nephropathy), stroke or transient ischemic attack, liver disease, oesophageal varices, hyperthyroidism, or migraine headaches.  In order to identify incident cases of treated hypertension in our cohort, we included only patients age 66 and over (the Ontario Drug Benefit database starts at age 65) and excluded any patients with a claim date for an antihypertensive drug in the 12 months prior to the start of the study to exclude prevalent hypertensives getting medication refills.  Finally, in order to examine laboratory testing by drug class, we excluded any patients who were started on more than one antihypertensive agent concurrently at the time of initial treatment.</p>
+      <p>We followed our cohort of newly treated hypertensive patients for 2 years or until they died, were hospitalised, discontinued the initially prescribed drug class, or had another antihypertensive added for concurrent therapy.[<xref rid="IDba8ccf6c-c7b2-4009-9e4f-9905463a247c" ref-type="bibr" id="ID5da6c60a-3d7e-421c-9f94-b57e61cf723c">11</xref>]  </p>
+    </sec>
+    <sec>
+      <title>Proportion of patients having tests done at least once: </title>
+      <p>We linked our cohort to the Ontario Health Insurance database to examine laboratory testing patterns in the 6 months immediately preceding their first antihypertensive prescription (to define baseline testing patterns) and in the first 24 months after the initial antihypertensive dispensation (to define testing patterns during follow-up).  The Ontario Health Insurance database includes billing claims data for laboratory tests performed in laboratories outside the hospital setting.[<xref rid="ID50642667-7fb3-4e9b-9f01-b5a8c507d886" ref-type="bibr" id="ID4aefbce0-402c-4f53-a337-c269511668fe">14</xref>,<xref rid="IDd32bc4b3-8793-4a57-87aa-deb91d431f1b" ref-type="bibr" id="IDe6d53780-38e1-4ab8-92da-8d6bd6257426">15</xref>,<xref rid="IDcb2e2e05-ee95-450a-9e20-77bfe37dead9" ref-type="bibr" id="IDdce79d2b-2d1b-43e9-9615-d027721c9812">16</xref>]  We defined &#8220;electrolyte tests&#8221; as a measurement of serum sodium or potassium; &#8220;cholesterol tests&#8221; as having a total cholesterol, high density lipoprotein cholesterol, and/or triglycerides measured; &#8220;glucose test&#8221; as having a fasting or random blood glucose measured; and &#8220;renal function tests&#8221; as having a serum creatinine or creatinine clearance measured.  </p>
+      <p>We calculated the proportion of patients prescribed each drug class who had each test done at least once while they were taking monotherapy.  Associations between drug class and whether laboratory tests were done at least once were assessed in logistic regression models comparing thiazides to newer agents with adjustment for patient age, gender, Charlson co-morbidity score,[<xref rid="ID244dd7dd-f154-4c07-9ada-50e17e6469f3" ref-type="bibr" id="ID49d964c8-dc09-4ec1-826b-7c608f54b479">17</xref>] and baseline testing patterns (ie. in the 6 months prior to the initial antihypertensive prescription).  Patients treated with beta-blockers were excluded from this analysis since beta-blockers are not recommended for initial monotherapy in elderly patients with uncomplicated hypertension, and thus the question of whether beta-blocker treated patients received more or less testing is a moot point.[<xref rid="ID51cc1c91-8a6d-4a9a-980d-4a483accdef4" ref-type="bibr" id="ID64b43829-ccf9-460a-b817-6160a508aa52">8</xref>,<xref rid="ID5d84bffa-5a23-4f5f-ad3d-110e90f4da12" ref-type="bibr" id="ID922fc81b-6d39-47ed-b69f-de7efe60d9da">18</xref>,<xref rid="IDa078d508-3c68-4fb8-9b8b-48f4cee5203f" ref-type="bibr" id="IDc9d3bb96-d831-4d11-9b79-942d4246aa8e">19</xref>]  </p>
+    </sec>
+    <sec>
+      <title>Frequency and number of tests performed: </title>
+      <p>We calculated the test density for each test per 3, 6, and 12 months of monotherapy treatment (defined as the number of tests performed per 100 patients treated with monotherapy for each time period) and compared results across drug classes using ANOVA. In addition, we performed Poisson regression (with censoring at time of hospitalization, death, discontinuation of monotherapy, or switching of drug class) to compare the frequency of testing between drug classes while on monotherapy after adjustment for age, gender, co-morbidity, and testing in the 6 months prior to the initial antihypertensive prescription.</p>
+      <p>All analyses were conducted using SAS version 8.02 (<xref rid="TO_LINK" ref-type="bibr" id="ID92727b19-82f3-40e3-8233-48bb6576e702">SAS Institute, Cary, NC</xref>).  </p>
+    </sec>
+    <sec>
+      <title>Results</title>
+      <p>From July 1994 through to March 2002, we identified 164,413 persons over age 65 years with uncomplicated hypertension who were newly started on monotherapy and who did not have comorbidities or non-blood pressure lowering indications for that medication.  Their mean age was 73 years (<xref rid="TO_LINK" ref-type="bibr" id="IDf1bd9bb8-defc-4bbd-88d3-6a1d4a5b561f">standard deviation 6 years</xref>), 60 340 (<xref rid="TO_LINK" ref-type="bibr" id="ID5970cfd1-b6ab-4090-97d1-67d5b2ce1d42">37%</xref>) were male, and the first-line antihypertensives prescribed in this cohort were thiazides (<xref rid="TO_LINK" ref-type="bibr" id="IDce67029f-9446-46f9-8810-be285995f62d">39%</xref>), ACE inhibitors (<xref rid="TO_LINK" ref-type="bibr" id="ID8f91fa89-89a5-49cc-9aef-f06fa01c6d8f">30%</xref>), calcium channel blockers (<xref rid="TO_LINK" ref-type="bibr" id="IDe51f4456-7b89-418e-9d5f-84f1acf16f90">15%</xref>), beta-blockers (<xref rid="TO_LINK" ref-type="bibr" id="IDfb21e19c-36d0-4e87-9bdf-b0fba49b34bb">15%</xref>), and angiotensin receptor blockers (1%) &#8211; <xref rid="ID55d54cd1-e500-4a6d-9b0d-0f1b3b9bcbed" ref-type="table">Table 1</xref>.  Duration of time on monotherapy with the initially prescribed antihypertensive drug ranged from the maximum of 24 months in 41,886 patients (<xref rid="TO_LINK" ref-type="bibr" id="ID36ce7125-2862-447b-a4b1-540223cc2f81">25%</xref>) to less than 6 months in 81,002 patients (<xref rid="TO_LINK" ref-type="bibr" id="IDe157c75e-4b78-43d6-9619-4382e683b466">49%</xref>) - mean time on monotherapy with the initially prescribed agent was 10.3 months.  </p>
+    </sec>
+    <sec>
+      <title>Proportion of patients having tests done at least once: </title>
+      <p>Prior to their initial antihypertensive prescription, patients prescribed newer agents were more likely to have had laboratory tests done than patients who were prescribed thiazides (<xref rid="TO_LINK" ref-type="bibr" id="IDd28b67c2-dcb1-42d0-bb3e-0e5060226697">Figure 1, all p&lt;0.0001</xref>) &#8211; however, it should be noted that 96,534 patients (<xref rid="TO_LINK" ref-type="bibr" id="IDf209f019-d0e9-4ad7-9846-ae35f7644063">59%</xref>) did not have any laboratory testing done in the 6 months prior to their initial prescription. After being prescribed antihypertensive therapy, 79,985 of the cohort patients (<xref rid="TO_LINK" ref-type="bibr" id="IDe02a7394-d21d-4ab3-a4f2-60b99288b4c0">49%</xref>) had at least one laboratory test done at any point during follow-up (50% of those who had testing done prior to their initial prescription, and 48% of those who did not have testing done prior to their initial prescription).</p>
+      <p>In comparison to patients prescribed newer agents, a greater proportion of patients prescribed thiazides had their serum electrolytes measured at least once during follow-up (38% versus 31%, OR 1.38, 95% CI 1.35 to 1.41, after adjusting for age, gender, co-morbidity, and baseline testing) but fewer thiazide-treated patients had any monitoring of their renal function (<xref rid="TO_LINK" ref-type="bibr" id="ID9ac392e8-2786-435e-aee7-ba4982b67b0c">41% versus 42%, adjusted OR 0.95, 95% CI 0.93 to 0.97</xref>), serum glucose (<xref rid="TO_LINK" ref-type="bibr" id="ID05840bdd-3f01-422f-8881-ae57d4b3cc16">38% versus 40%, adjusted OR 0.90, 95% CI 0.88 to 0.92</xref>), or cholesterol (<xref rid="TO_LINK" ref-type="bibr" id="ID08777662-b7ac-4dad-b3cd-a751d321117d">24% versus 32%, adjusted OR 0.72, 95% CI 0.70 to 0.74</xref>) &#8211; Figure 1. As a result, the number of patients who had at least one laboratory test performed while on monotherapy with their initial antihypertensive prescription did not differ between thiazides and newer agents (<xref rid="TO_LINK" ref-type="bibr" id="IDef863638-c175-4eed-990a-645c1c8c72da">49% versus 50%, adjusted OR 0.98, 95% CI 0.96 to 1.01</xref>).</p>
+    </sec>
+    <sec>
+      <title>Frequency and number of tests performed: </title>
+      <p>During 1,701,520 months of monotherapy in this cohort of patients, the most frequently performed laboratory tests were renal function tests (<xref rid="TO_LINK" ref-type="bibr" id="IDdc7dcb45-a250-4785-ae41-b16c4a5de970">77 052 tests every 6 months</xref>), serum glucose (<xref rid="TO_LINK" ref-type="bibr" id="IDf24c726c-464a-49c6-977e-dbe1efd9fc32">69 393 tests every 6 months</xref>), serum electrolytes (<xref rid="TO_LINK" ref-type="bibr" id="ID847948c9-b080-4fe1-842a-e36260084ba6">63 193 tests every 6 months</xref>), and cholesterol measurements (<xref rid="TO_LINK" ref-type="bibr" id="ID8bea7043-88c7-4e8f-b7f5-63766e1b9354">47 115 tests every 6 months</xref>). Patients treated with thiazides had significantly more measurements of renal function, serum electrolytes, or glucose during follow-up than patients prescribed newer agents, but had less monitoring of serum cholesterols (<xref rid="TO_LINK" ref-type="bibr" id="IDd8797f8d-bbaa-47ed-ad8f-ab485e50f672">all p&lt;0.0001, Table 2</xref>). These associations were maintained on multivariate Poisson regression analyses adjusting for age, gender, co-morbidity, and baseline testing patterns (<xref rid="TO_LINK" ref-type="bibr" id="ID877fed49-1b52-4b70-937d-2204d74bacfb">Table 3</xref>).</p>
+    </sec>
+    <sec>
+      <title>Magnitude of differences:</title>
+      <p>	Thiazide-treated patients had 16 extra electrolyte tests, 6 extra renal function tests, and 4 extra serum glucose tests (<xref rid="TO_LINK" ref-type="bibr" id="ID5293f039-d162-49d3-a232-aaf5d6100c90">but 6 less serum cholesterol tests</xref>) per 100 patients every 6 months compared to patients prescribed newer agents.  A formal cost-effectiveness (<xref rid="TO_LINK" ref-type="bibr" id="ID804b553f-eeaa-4fda-bcbe-bf01dd1447b7">or cost-minimization</xref>) analysis would require incorporation of the costs induced by testing (such as additional diagnoses and physician visits, clinical events, and indirect costs) which we did not capture.  However, the direct cost implications of the laboratory testing profiles we observed in this population-based cohort would be, on a per patient basis and per 6 months, $11.88 CDN for thiazides and $11. 25 CDN for those treated with the newer drugs.  In other words, when considering laboratory testing costs only, the choice of a thiazide for initial monotherapy in our cohort of elderly patients with uncomplicated hypertension resulted in an extra $0.63 CDN in laboratory testing costs every 6 months. </p>
+    </sec>
+    <sec>
+      <title>DISCUSSION</title>
+      <p>In summary, we found that the frequency of laboratory testing in newly treated elderly hypertensives was substantially lower than anticipated, and far lower than is recommended in current guidelines.[<xref rid="ID51cc1c91-8a6d-4a9a-980d-4a483accdef4" ref-type="bibr" id="IDf6d5b9dd-3cf3-4251-9da2-fdf869986aa3">8</xref>,<xref rid="IDdd14c877-0c95-4693-9131-7237d16ff103" ref-type="bibr" id="ID55f6b977-2b06-4ccf-917c-ee2f575cde85">20</xref>,<xref rid="ID4c1f2d32-701c-4e68-abc0-450dd32384ac" ref-type="bibr" id="ID7ed525f2-96f2-4b59-946c-d552b90cb2e3">21</xref>]  At baseline, 59% of these elderly hypertensives did not have any laboratory testing done and over a mean follow-up of 10.3 months, less than half had any laboratory testing done (and almost two-thirds did not have their serum electrolytes or renal function monitored even once).  Patients prescribed thiazides were significantly more likely to have their serum electrolytes, glucose, and renal function monitored than patients prescribed any of the newer drug classes, even after adjustment for age, gender, co-morbidities, and baseline testing prior to the initial prescription.  However, the magnitude of the increase in laboratory testing frequency was small and the additional costs per patient of $0.63 CDN per 6 months are substantially less than the acquisition costs for 6 month supplies of ACE inhibitors (ranging between $126.79 and $242.2<xref rid="ID51cc1c91-8a6d-4a9a-980d-4a483accdef4" ref-type="bibr" id="ID3a439a74-65f5-406a-9278-6c058723a05e">8</xref> CDN in the Ontario Drug Benefit Plan, depending on the particular agent and dose prescribed), angiotensin receptor blockers ($<xref rid="ID4c1f2d32-701c-4e68-abc0-450dd32384ac" ref-type="bibr" id="ID73f41bf4-af2c-4373-8c08-9eac2776db7d">21</xref>4.90 to $230.74 CDN in Ontario), or calcium channel blockers ($90.16 to $437.93 CDN in Ontario) compared to thiazides ($14.13 for a 6 month supply of 25 mg daily hydrochlorothiazide in Ontario). </p>
+      <p>The distribution of antihypertensive drug classes prescribed in our cohort of elderly hypertensives and the fact that only one quarter remained on initially prescribed monotherapy for the entire 2 year duration of follow-up in our study are consistent with recently published data from other locales.[<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID81e4327b-6ad1-4f9f-b566-99cb39b087b9">22</xref>,<xref rid="ID514b3d2d-0fdf-4cdb-92ee-6aea372071fe" ref-type="bibr" id="ID6b3714ea-5056-46f6-b628-fe4a36ce7006">23</xref>,<xref rid="TO_LINK" ref-type="bibr" id="IDf0cb8f05-a0ab-4bf7-82f4-4cd764345924">24</xref>,<xref rid="TO_LINK" ref-type="bibr" id="IDdcea2915-0aa8-4f43-ab48-12e8c724964e">25</xref>]  Our finding that many patients started on antihypertensive therapy do not have recommended laboratory testing done also confirms the results of previous studies conducted in other settings and limited to patients prescribed an ACE inhibitor or angiotensin-receptor blocker.[<xref rid="TO_LINK" ref-type="bibr" id="ID6f874653-0d42-4fc7-bf9f-e0239cd42369">26</xref>,<xref rid="TO_LINK" ref-type="bibr" id="ID898c77b0-5aee-4e3d-b301-627959b59102">27</xref>,<xref rid="TO_LINK" ref-type="bibr" id="IDf203abb3-d33a-4d39-9de1-e27c488c3a15">28</xref>]  In addition to reporting on a larger and population-based sample from a different locale, we have extended these earlier cross-sectional studies by reporting longitudinally on a wider variety of tests in patients treated with all the major antihypertensive drug classes, and with adjustment for age, gender, co-morbidity, and prior testing patterns.  The lower degree of laboratory monitoring we found compared to these aforementioned studies is not unexpected since our cohort explicitly excluded patients with diabetes or cardiac comorbidities, or patients treated with multiple antihypertensive agents.[<xref rid="TO_LINK" ref-type="bibr" id="ID2da7a64a-b9cd-413a-b17a-91cf8a435e15">27</xref>,<xref rid="TO_LINK" ref-type="bibr" id="ID9e9d5c6b-2281-419f-8ca7-714236afc997">29</xref>]  </p>
+      <p>Although our study includes complete information on prescribing and laboratory testing for a large, representative, and population-based sample of all adults over age 65 with newly treated uncomplicated hypertension with 100% follow-up in Canada&#8217;s largest province (thus avoiding problems with small samples, selection bias, and measurement bias), there are some limitations.  First, the use of antihypertensive prescriptions to define cases of hypertension will miss those patients who have not been prescribed therapy- however, data from NHANES 1999-2002 in the United States and the National Public Health and Community Health Surveys in Canada 2000-2003 have shown that over 80% of elderly individuals with recognized hypertension are prescribed antihypertensive therapy.[<xref rid="TO_LINK" ref-type="bibr" id="ID69fef5e3-e197-4129-9ec8-9ffaf347d498">30</xref>,<xref rid="TO_LINK" ref-type="bibr" id="ID58fd5dbb-cba7-4ffa-8cef-1aed2eef6e3a">31</xref>]  Secondly, our study was limited to the elderly &#8211; however, the prevalence of hypertension increases with age and more than half of all elderly individuals are hypertensive.[<xref rid="TO_LINK" ref-type="bibr" id="IDb5a45b24-a323-4e1e-9064-7de76ac1a29b">32</xref>]  Third, we did not have access to blood pressure readings and the reasons why physicians chose to prescribe one drug over another are not recorded in administrative data.  However, this does not directly impact our question of interest: do laboratory testing patterns differ across antihypertensive drug classes?  Fourth, just as we only have data on patients who fill their antihypertensive prescription, our laboratory test data is also affected by patient compliance &#8211; to the extent that some patients do not follow through with recommended testing, our observed testing rates likely underestimate physician test ordering behavior.  Fifth, we considered only direct costs related to laboratory testing; costs induced by testing (or not testing appropriately) such as physician visits, clinical events, or indirect costs were not captured.  Finally, we only examined testing within the first 24 months after a new antihypertensive prescription &#8211; however, previous studies have demonstrated that if testing is done at all, it is usually done within the first month of a new prescription.[<xref rid="TO_LINK" ref-type="bibr" id="ID656f4a8f-9f8b-4562-b75e-48b868209f35">28</xref>]  Indeed, we did find that testing frequency was highest in the first 90 days after prescription and declined subsequently.  </p>
+      <p>It must be recognized that our study is a description of current patterns of practice as they relate to testing; whether or not frequency of &#8220;appropriate&#8221; testing actually improves hypertension-related health outcomes is not something that has yet been answered in the literature, nor was our study designed to address this issue.  Indeed, none of the plethora of large randomized trials of antihypertensive agents published in the past decade are able to answer this question because many trial participants withdrew from therapy and the majority of trial patients were treated with multiple drugs &#8211; both facts make it difficult to attribute laboratory abnormalities and the timing of their detection to the initially allocated drug(s). As a result, current recommendations for the frequency with which to monitor laboratory tests in patients prescribed antihypertensive therapies are largely subjective and based on expert opinion with little empiric evidence to support either appropriateness or cost-effectiveness. There is clearly a need for better research to inform future recommendations for laboratory monitoring based on the frequency, severity, and timing of abnormalities seen when particular therapies are used in clinical practice. Our study is the first, but necessary, step to better understanding these oft-neglected issues.</p>
+      <p>	In conclusion, we found that in a cohort of elderly patients with uncomplicated hypertension, laboratory testing before and after their first prescription was infrequent and although those initially treated with thiazides had laboratory tests performed more frequently, the magnitude of the increase was small.  As a result, while the costs for laboratory testing in thiazide-treated patients were higher than for those patients treated with newer agents ($0.63 CDN per 6 months), when balanced against their known efficacy[<xref rid="IDe7499b46-b621-4b90-a9e9-8f31749de05c" ref-type="bibr" id="ID88ed865c-b37f-4154-8d3b-3920bd9f07bf">1</xref>] and the substantially higher acquisition costs for ACE-inhibitors, angiotensin-receptor blockers, or calcium channel blockers, the use of thiazides remains an attractive economic option for the treatment of uncomplicated hypertension.  Our study refutes claims that the use of thiazide diuretics for hypertension treatment results in marked additional laboratory monitoring costs and thus provides support for those advocating in favor of thiazide diuretics as first line agents for patients with uncomplicated hypertension. </p>
+    </sec>
+    <sec>
+      <title>Contributorship Statement: </title>
+      <p>FM is the guarantor for this manuscript. All authors took part in study conception and design, interpretation of results, revision for important content, and approved the final manuscript.  FM drafted the initial manuscript.  </p>
+    </sec>
+    <sec>
+      <title>Statement of Competing Interests</title>
+      <p>All authors declare that they have nothing to declare. </p>
+    </sec>
+    <sec>
+      <title>Role of the Funding Sources</title>
+      <p>The funding sources had no role in study design, data collection, data analysis or interpretation, or writing of the report. All authors had full access to all of the data in the study and FM had the final responsibility for the decision to submit for publication.</p>
+    </sec>
+    <sec>
+      <title/>
+      <table-wrap specific-use="rules" id="ID55d54cd1-e500-4a6d-9b0d-0f1b3b9bcbed" position="float" orientation="portrait">
+        <label>Table 1</label>
+        <caption>
+          <p>Baseline demographics and test ordering frequency, antihypertensive prescriptions, and duration of monotherapy in a cohort of elderly hypertensives</p>
+        </caption>
+        <table>
+          <tr>
+            <td rowspan="1" colspan="1">&#160;<break/>&#160;</td>
+            <td rowspan="1" colspan="1">
+              <break/>
+              <break/>
+              <break/>
+              <bold>Total</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <break/>
+              <break/>
+              <bold>Initially prescribed antihypertensive class</bold>
+              <break/>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">
+              <bold>ACE inhibitor</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>ARB</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>Beta Blocker</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>Calcium Channel Blocker</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>Thiazides</bold>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Initiated on agent as first choice </td>
+            <td rowspan="1" colspan="1">164,413</td>
+            <td rowspan="1" colspan="1">48,810 (<xref rid="TO_LINK" ref-type="bibr" id="IDde426634-a78a-42e9-99ce-dcad6eedfea4">30%</xref>)</td>
+            <td rowspan="1" colspan="1">1,479 (1%)</td>
+            <td rowspan="1" colspan="1">24,274 (<xref rid="TO_LINK" ref-type="bibr" id="ID2dd0d4f1-6c7a-45d4-bb90-9d22d2cedd50">15%</xref>)</td>
+            <td rowspan="1" colspan="1">25,393 (<xref rid="TO_LINK" ref-type="bibr" id="ID9a895d5e-beb4-40d9-8acc-87f664ed053a">15%</xref>)</td>
+            <td rowspan="1" colspan="1">64,457 (<xref rid="TO_LINK" ref-type="bibr" id="ID68c04f9a-a9f6-4b63-85e2-931fc840f4b2">39%</xref>)</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Mean age (SD)</td>
+            <td rowspan="1" colspan="1">73.1 (<xref rid="TO_LINK" ref-type="bibr" id="ID51b0bc77-4c19-4861-b48c-534f5bb241b7">6.1</xref>)</td>
+            <td rowspan="1" colspan="1">72.6 (<xref rid="TO_LINK" ref-type="bibr" id="ID686b007b-6cdf-48e0-9150-5a36818a7a79">5.8</xref>)</td>
+            <td rowspan="1" colspan="1">71.0 (<xref rid="TO_LINK" ref-type="bibr" id="ID472f2417-2224-4d1c-8b88-5cd3f4d1a684">5.2</xref>)</td>
+            <td rowspan="1" colspan="1">72.3 (<xref rid="TO_LINK" ref-type="bibr" id="IDbef694c2-8320-4da0-820e-89d880917ea4">5.6</xref>)</td>
+            <td rowspan="1" colspan="1">72.8 (<xref rid="TO_LINK" ref-type="bibr" id="IDab62a4e5-b138-4966-9993-0ce608831e15">5.9</xref>)</td>
+            <td rowspan="1" colspan="1">73.9 (<xref rid="TO_LINK" ref-type="bibr" id="ID907d14df-4427-4478-8b60-b2390bec3e65">6.5</xref>)</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Male (%)</td>
+            <td rowspan="1" colspan="1">60,340 (<xref rid="TO_LINK" ref-type="bibr" id="ID90152699-0542-460d-b631-84616667017e">37%</xref>)</td>
+            <td rowspan="1" colspan="1">20,549 (<xref rid="TO_LINK" ref-type="bibr" id="ID18925b48-f309-47fb-a1f0-75ddff7729ca">42%</xref>)</td>
+            <td rowspan="1" colspan="1">640 (<xref rid="TO_LINK" ref-type="bibr" id="IDe0ae5d8b-d8e8-47c5-b385-48e3dc4428ae">43%</xref>)</td>
+            <td rowspan="1" colspan="1">9,491 (<xref rid="TO_LINK" ref-type="bibr" id="ID2141d696-b36f-4dad-a458-c6d47932e34e">39%</xref>)</td>
+            <td rowspan="1" colspan="1">10,208 (<xref rid="TO_LINK" ref-type="bibr" id="IDff87a11c-7b40-4c22-97e1-3b28741a5765">40%</xref>)</td>
+            <td rowspan="1" colspan="1">19,466 (<xref rid="TO_LINK" ref-type="bibr" id="ID52b3040a-81c8-44dc-ab54-74878ee32ebe">30%</xref>)</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Number of months taking monotherapy with originally prescribed drug class<break/>-total<break/>-mean (SD)<break/>-median</td>
+            <td rowspan="1" colspan="1"><break/><break/>1,701,520<break/>10.3 (<xref rid="TO_LINK" ref-type="bibr" id="ID99e2844a-8703-42a7-85d2-36bc4292f913">9.4</xref>)<break/>6</td>
+            <td rowspan="1" colspan="1"><break/><break/>549,149<break/>11.3 (<xref rid="TO_LINK" ref-type="bibr" id="ID164f777f-8476-45d3-8fc1-ffd37f012b2f">9.5</xref>)<break/>7</td>
+            <td rowspan="1" colspan="1"><break/><break/>17,942<break/>12.1 (<xref rid="TO_LINK" ref-type="bibr" id="ID80e5cbc5-4bab-41a2-8354-af557d523843">9.7</xref>)<break/>9</td>
+            <td rowspan="1" colspan="1"><break/><break/>236,828<break/>9.8 (<xref rid="TO_LINK" ref-type="bibr" id="ID47d5eca4-5603-4977-954f-810cdfd71059">9.2</xref>)<break/>5</td>
+            <td rowspan="1" colspan="1"><break/><break/>286,705<break/>11.3 (<xref rid="TO_LINK" ref-type="bibr" id="IDa336138f-4d39-41c5-b0a5-fb3ff7fca587">9.6</xref>)<break/>7</td>
+            <td rowspan="1" colspan="1"><break/><break/>610,896<break/>9.5 (<xref rid="TO_LINK" ref-type="bibr" id="ID17b3f0d9-fdc6-447e-9372-45db72b892ce">9.1</xref>)<break/>4</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Charlson scores<break/>0<break/>1-2<break/>3 or more</td>
+            <td rowspan="1" colspan="1"><break/>151,858 (<xref rid="TO_LINK" ref-type="bibr" id="IDea9520fa-dacf-4b4e-911e-378a7d05cf75">92%</xref>)<break/>10,447 (6%)<break/>2108 (1%)</td>
+            <td rowspan="1" colspan="1"><break/>45,560 (<xref rid="TO_LINK" ref-type="bibr" id="IDb7b683bb-1df9-4545-9053-e47007769b48">93%</xref>)<break/>2771 (6%)<break/>479 (1%)</td>
+            <td rowspan="1" colspan="1"><break/>1399 (<xref rid="TO_LINK" ref-type="bibr" id="IDc6ddfb48-2be2-4b74-9413-a8b4d0804cca">95%</xref>)<break/>71 (5%)<break/>9 (1%)</td>
+            <td rowspan="1" colspan="1"><break/>22,685 (<xref rid="TO_LINK" ref-type="bibr" id="ID97577577-50d6-4bf4-ae96-746da2b180a2">94%</xref>)<break/>1311 (5%)<break/>278 (1%)</td>
+            <td rowspan="1" colspan="1"><break/>23,487 (<xref rid="TO_LINK" ref-type="bibr" id="ID2fd07ff3-96b9-46ec-af60-32aecb964b0d">93%</xref>)<break/>1606 (6%)<break/>300 (1%)</td>
+            <td rowspan="1" colspan="1"><break/>58,727 (<xref rid="TO_LINK" ref-type="bibr" id="IDa9d02314-5b05-4e0e-991b-f6f20416b4ad">91%</xref>)<break/>4688 (7%)<break/>1042 (2%)</td>
+          </tr>
+        </table>
+      </table-wrap>
+      <table-wrap specific-use="rules" id="IDcf954f38-4dcf-43c4-9bf3-b4b27d6189a6" position="float" orientation="portrait">
+        <label>Table 2</label>
+        <caption>
+          <p>Laboratory testing while on monotherapy, by drug class</p>
+        </caption>
+        <table>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <bold>&#160;</bold>
+              <break/>
+              <bold>&#160;</bold>
+              <break/>
+              <bold>Test</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>Test density (number of tests per 100 patients, expressed as mean and 95% CI)</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <break/>
+              <bold>p value</bold>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">
+              <bold>Timeframe</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>&#160;</bold>
+              <break/>
+              <bold>Total</bold>
+              <break/>
+              <bold>(<xref rid="TO_LINK" ref-type="bibr" id="IDbe8c46f8-ce2a-4a2e-9491-9c3b0787266a">n=164,413</xref>)</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>&#160;</bold>
+              <break/>
+              <bold>Initially prescribed antihypertensive class</bold>
+              <break/>
+              <bold>&#160;</bold>
+            </td>
+            <td rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">
+              <bold>ACE inhibitor (<xref rid="TO_LINK" ref-type="bibr" id="ID66982c8c-af0c-479d-ba8f-f168c5b848c3">n=48,810</xref>)</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>ARB</bold>
+              <break/>
+              <bold>(<xref rid="TO_LINK" ref-type="bibr" id="ID708b1348-b1c3-4ff3-b964-3e22c2e3b408">n=1,479</xref>)</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>Beta Blocker</bold>
+              <break/>
+              <bold>(<xref rid="TO_LINK" ref-type="bibr" id="IDedff0f6d-fc63-4141-95e0-90ddf23889db">n=24,274</xref>)</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>Calcium Channel Blocker (<xref rid="TO_LINK" ref-type="bibr" id="ID140834c0-63ef-4dd1-952e-ab78b6e77cf9">n=25,393</xref>)</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>Thiazides</bold>
+              <break/>
+              <bold>(<xref rid="TO_LINK" ref-type="bibr" id="ID1e3d1414-7765-45ed-8246-86e9ef641d6b">n=64,457</xref>)</bold>
+            </td>
+            <td rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Electrolytes<break/>
+                  </td>
+            <td rowspan="1" colspan="1">Every 90 days</td>
+            <td rowspan="1" colspan="1">21.3<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID27d74353-c8f0-4b13-a617-7d34cea8e728">21.0 - 21.6</xref>)</td>
+            <td rowspan="1" colspan="1">20.8<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDa2f9c38d-f6a7-4dab-a783-c5ec2d4d1e4c">20.4-21.3</xref>)</td>
+            <td rowspan="1" colspan="1">12.1<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDdc3735df-5e1a-4a29-aca8-d48a34545589">10.3-13.9</xref>)</td>
+            <td rowspan="1" colspan="1">15.1<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDc8217b1d-0dd4-4f41-a0df-d219c8481798">14.6 - 15.7</xref>)</td>
+            <td rowspan="1" colspan="1">15.3<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID194f1ed1-4a26-4fc7-b997-2cb2e29609cd">14.8 - 15.9</xref>)</td>
+            <td rowspan="1" colspan="1">26.5<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDa8991d9a-5023-4548-bca5-8c211bbfe00c">26.1 - 27.0</xref>)</td>
+            <td rowspan="1" colspan="1">&lt;0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">Every 180 days</td>
+            <td rowspan="1" colspan="1">38.4<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID30ca7350-d996-4353-b86e-3790dcc1b413">38.0 - 38.9</xref>)</td>
+            <td rowspan="1" colspan="1">36.6<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDe66343ca-f8f5-438d-ab88-e70af26c5311">35.8 - 37.3</xref>)</td>
+            <td rowspan="1" colspan="1">23.4<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID76413c6e-34c4-4095-9d80-00751719d7a3">20.2-26.7</xref>)</td>
+            <td rowspan="1" colspan="1">26.0<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID64428a54-d3d8-4d41-b25e-c8effc14a8a6">25.2 - 26.9</xref>)</td>
+            <td rowspan="1" colspan="1">26.9<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDbaef88c3-074c-42be-a5e2-7eb70044e85e">26.0 - 27.8</xref>)</td>
+            <td rowspan="1" colspan="1">49.4<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDe969d552-9d07-4cc4-bfcd-c22cb91d2000">48.6 - 50.2</xref>)</td>
+            <td rowspan="1" colspan="1">&lt;0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">Every 365 days</td>
+            <td rowspan="1" colspan="1"> 55.6<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDd99f424a-be59-4490-be92-e6b1d8139b44">55.0 - 56.2</xref>)</td>
+            <td rowspan="1" colspan="1"> 53.9<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID05d9d5b1-e5f7-4ea0-9869-9f22f2182a6c">52.8 - 54.9</xref>)</td>
+            <td rowspan="1" colspan="1"> 36.6<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDd1c913d8-5c04-4e1d-bab3-3a0da228b13a">31.5- 41.8</xref>)</td>
+            <td rowspan="1" colspan="1"> 36.9<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID40877633-e5ab-4598-9391-a591f0eecaff">35.8 - 38.1</xref>)</td>
+            <td rowspan="1" colspan="1"> 38.6<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDcc9ce948-5754-46b6-b39a-b3818abd8223">37.5 - 39.8</xref>)</td>
+            <td rowspan="1" colspan="1"> 71.1<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID61e0791b-b1ba-4f50-9569-4a2fcc09214f">70.0 - 72.2</xref>)</td>
+            <td rowspan="1" colspan="1">&lt;0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"><break/>Renal Function<break/></td>
+            <td rowspan="1" colspan="1">Every 90 days</td>
+            <td rowspan="1" colspan="1">25.7<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDc2b933f4-db23-49ea-8ef9-e5931611bc16">25.5 - 26.0</xref>)</td>
+            <td rowspan="1" colspan="1">27.3<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID01a09ca9-541a-45f6-ab5a-987ebee25503">26.8 - 27.8</xref>)</td>
+            <td rowspan="1" colspan="1">18.9<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDc2ebd627-f97b-4ed9-b5ca-85da7fbfc96a">16.7- 21.2</xref>)</td>
+            <td rowspan="1" colspan="1">21.7<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID8d557805-1395-471f-aab7-12335b04ca8d">21.1 - 22.4</xref>)</td>
+            <td rowspan="1" colspan="1">22.3<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID68a3b233-9b08-4015-bb7b-229e7d151529">21.6 - 22.9</xref>)</td>
+            <td rowspan="1" colspan="1">27.6<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID87ee9a5d-bc26-459a-9a7a-7497065a04d7">27.1 - 28.0</xref>)</td>
+            <td rowspan="1" colspan="1">&lt;0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">Every 180 days</td>
+            <td rowspan="1" colspan="1">46.9<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID7a0789f6-4a9b-473c-b0bc-70c9441f90ad">46.4 - 47.3</xref>)</td>
+            <td rowspan="1" colspan="1">48.5<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID9fe56d01-bb9b-43ba-a1da-7871b2d1842c">47.7 - 49.3</xref>)</td>
+            <td rowspan="1" colspan="1">36.4<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDeea1698b-ae4c-474c-95d7-e1ccc2097cae">32.5- 40.4</xref>)</td>
+            <td rowspan="1" colspan="1">38.6<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID02748994-5e61-4946-ba9b-8b23ae69bc86">37.5 - 39.6</xref>)</td>
+            <td rowspan="1" colspan="1">39.9<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID21835796-e890-49cd-b4b2-9e25d985c180">38.8 - 40.9</xref>)</td>
+            <td rowspan="1" colspan="1">51.7<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID02cb1c3e-e796-4327-87fb-b3851f416fb1">51.0 - 52.5</xref>)</td>
+            <td rowspan="1" colspan="1">&lt;0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">Every 365 days</td>
+            <td rowspan="1" colspan="1"> 67.3<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDdfac7751-c902-4d47-a8af-99ff6f6d4582">66.7 - 67.9</xref>)</td>
+            <td rowspan="1" colspan="1"> 71.4<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID4818a4ab-d388-4eab-b0cd-f0174ef6a6d7">70.2 - 72.6</xref>)</td>
+            <td rowspan="1" colspan="1"> 57.0<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID98f0ac60-9cd2-430f-87cd-ec40b350e58f">50.1- 63.8</xref>)</td>
+            <td rowspan="1" colspan="1"> 54.9<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDc4537f66-98b9-407a-8645-03a51326eae3">53.5 - 56.2</xref>)</td>
+            <td rowspan="1" colspan="1"> 58.2<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDdbffc6da-4ade-46a9-ba45-a58a77ae06eb">56.7 - 59.6</xref>)</td>
+            <td rowspan="1" colspan="1"> 72.8<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID5d5d4530-cc6b-42e1-99b3-f9720e98ea01">71.7 - 73.8</xref>)</td>
+            <td rowspan="1" colspan="1">&lt;0.0001<break/>
+                  </td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"><break/>Cholesterol<break/></td>
+            <td rowspan="1" colspan="1">Every 90 days</td>
+            <td rowspan="1" colspan="1">15.4<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID84b5746a-a8c3-42a9-a676-18dd8c450c24">15.2 - 15.6</xref>)</td>
+            <td rowspan="1" colspan="1">17.4<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID1711e6de-0e66-4ff5-a4f6-7dd731ae9429">17.0 - 17.7</xref>)</td>
+            <td rowspan="1" colspan="1">14.5<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDadce3e0f-4b10-4b5b-8a46-459a535e540c">12.8- 16.2</xref>)</td>
+            <td rowspan="1" colspan="1">16.1<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDaeb19cb2-29dc-4d95-aef2-c58a07647160">15.6 - 16.7</xref>)</td>
+            <td rowspan="1" colspan="1">16.2<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDb623c993-d4c2-4c76-a793-d25b4a84a3ef">15.7 - 16.8</xref>)</td>
+            <td rowspan="1" colspan="1">13.3<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID6e10723b-0b1e-40e0-bac1-9db486c4a5ef">13.0 - 13.6</xref>)</td>
+            <td rowspan="1" colspan="1">&lt;0.0001<break/>
+                  </td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">Every 180 days</td>
+            <td rowspan="1" colspan="1">28.7<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDb0761197-6359-41a6-8463-e003d869df58">28.3 - 29.0</xref>)</td>
+            <td rowspan="1" colspan="1">31.8<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDa0c979a2-db1d-47b6-b4bb-f6435b058820">31.2 - 32.4</xref>)</td>
+            <td rowspan="1" colspan="1">29.4<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDb72cbca6-dea6-4257-a052-4e6fa29f5bf3">26.2- 32.6</xref>)</td>
+            <td rowspan="1" colspan="1">29.6<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID52c7184e-4a19-439c-8567-2f22db02741c">28.8 - 30.5</xref>)</td>
+            <td rowspan="1" colspan="1">30.0<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID7b0d045e-f2f9-4e5c-97a9-b5e8056fd137">29.2 - 30.8</xref>)</td>
+            <td rowspan="1" colspan="1">25.4<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDfac68a81-c35a-4d32-9c54-db4ad9daef74">24.9 - 25.9</xref>)</td>
+            <td rowspan="1" colspan="1">&lt;0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">Every 365 days</td>
+            <td rowspan="1" colspan="1"> 41.6<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDff90e6fd-64af-46ac-bba2-ead8f2c62f69">41.2 - 42.1</xref>)</td>
+            <td rowspan="1" colspan="1"> 47.4<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID574515e2-1490-467d-88a4-0bced7b72a86">46.5 - 48.2</xref>)</td>
+            <td rowspan="1" colspan="1"> 44.3<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDd89e4dc2-ec6c-408d-8823-9e1eeb01ca5a">40.0- 48.5</xref>)</td>
+            <td rowspan="1" colspan="1"> 42.7<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID809985c4-a816-40d3-ac88-bdecdad0fc5f">41.6 - 43.9</xref> )</td>
+            <td rowspan="1" colspan="1"> 44.2<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDf44f2ddc-a783-41b5-b62d-0cfccf430476">43.1 - 45.3</xref>)</td>
+            <td rowspan="1" colspan="1"> 35.8<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID798816f8-0f8b-49f6-b475-b1e6da8db188">35.1 - 36.4</xref>)</td>
+            <td rowspan="1" colspan="1">&lt;0.0001<break/>
+                  </td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"><break/>Glucose<break/></td>
+            <td rowspan="1" colspan="1">Every 90 days</td>
+            <td rowspan="1" colspan="1">22.9<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDbf1ed4d5-d24c-42dc-8159-ef58d9717383">22.6 - 23.1</xref>)</td>
+            <td rowspan="1" colspan="1">22.9<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDd04fd165-6525-4323-86e6-3ff1d89b6c41">22.5 - 23.4</xref>)</td>
+            <td rowspan="1" colspan="1">17.0<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID1266d476-edbd-442a-af18-20877ec2299a">15.0- 19.0</xref>)</td>
+            <td rowspan="1" colspan="1">21.9<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID5186a536-8af9-4439-a985-7ec149f100a8">21.3 - 22.6</xref>)</td>
+            <td rowspan="1" colspan="1">22.0<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID518fdb96-bb43-4327-aff6-38c6a99c03e7">21.4 - 22.6</xref>)</td>
+            <td rowspan="1" colspan="1">23.6<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID50244c16-e3f3-43c3-a2d7-1fe530661a88">23.2 - 24.0</xref>)</td>
+            <td rowspan="1" colspan="1">&lt;0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">Every 180 days</td>
+            <td rowspan="1" colspan="1">42.2<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDfe1d01c4-56c3-4892-9594-8fbf4b610395">41.8 - 42.6</xref>)</td>
+            <td rowspan="1" colspan="1">41.5<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID2bdc9229-9561-4a92-ab1b-d10056e1e667">40.7 - 42.2</xref> )</td>
+            <td rowspan="1" colspan="1">34.0<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDbb9ab5da-1e5c-4c1b-afee-3048f7737315">30.3- 37.8</xref>)</td>
+            <td rowspan="1" colspan="1">39.9<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID47ca4191-0d27-4d8d-a886-e83abb343bf8">38.8 - 40.9</xref>)</td>
+            <td rowspan="1" colspan="1">39.9<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID0162a58e-24ff-4a23-a29d-c29716a36e75">38.9 - 40.9</xref>)</td>
+            <td rowspan="1" colspan="1">44.8<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID05647387-1770-420d-a132-8f6c0db5d8d2">44.1 - 45.4</xref>)</td>
+            <td rowspan="1" colspan="1">&lt;0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">Every 365 days</td>
+            <td rowspan="1" colspan="1"> 60.9<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID4e38967d-822c-4726-996f-b4bc7d9f13f1">60.3 - 61.4</xref>)</td>
+            <td rowspan="1" colspan="1"> 61.6<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID1fe5dd50-cd8f-4cd3-9970-44dd86f668ee">60.6 - 62.6</xref>)</td>
+            <td rowspan="1" colspan="1"> 53.5<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID58ca39f8-720d-42ef-aba7-76dd24870ea6">47.5- 59.5</xref>)</td>
+            <td rowspan="1" colspan="1"> 57.2<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID368b793c-8015-40f3-b54a-a4ce6d3cd6a8">55.8 - 58.6</xref>)</td>
+            <td rowspan="1" colspan="1"> 58.6<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID9a3b98ca-500b-4905-a771-8e4b8fc308a8">57.3 - 60.0</xref>)</td>
+            <td rowspan="1" colspan="1"> 62.8<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDfc09b27f-23d9-4c0d-a61e-cf1aaf496b70">61.8 - 63.7</xref>)</td>
+            <td rowspan="1" colspan="1">&lt;0.0001<break/>
+                  </td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"><break/>Any test<break/></td>
+            <td rowspan="1" colspan="1">Every 90 days</td>
+            <td rowspan="1" colspan="1">85.3<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDc15569ec-74d2-49dd-9ca6-8bcbac9faded">84.4 - 86.1</xref>)</td>
+            <td rowspan="1" colspan="1">88.4<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDfe6ff22e-1fa9-4eb2-ab7e-8d939c73e9e2">86.9 - 90.0</xref>)</td>
+            <td rowspan="1" colspan="1">62.5<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDfec0f5af-c8af-4690-a18c-2658f345d091">56.1- 68.8</xref>)</td>
+            <td rowspan="1" colspan="1">74.9<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID707a6360-17aa-4f07-ba53-9130a5047fd7">72.9 - 77.0</xref>)</td>
+            <td rowspan="1" colspan="1">75.8<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDebcc29f9-b4bb-445f-9bab-1f1456e50ca7">73.8 - 77.8</xref>)</td>
+            <td rowspan="1" colspan="1">91.0<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDc4f32ef2-1d54-4907-bedc-cd3a12efe0ee">89.6 - 92.4</xref>)</td>
+            <td rowspan="1" colspan="1">&lt;0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">Every 180 days</td>
+            <td rowspan="1" colspan="1">156.2<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDd453de72-659d-4c5c-92fe-f6d105f57c4a">154.8-157.5</xref>)</td>
+            <td rowspan="1" colspan="1">158.3<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID9c22028b-8df3-42ca-a2ef-9362df5f64ea">155.9 - 160.7</xref>)</td>
+            <td rowspan="1" colspan="1">123.3<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID96fec4d7-ee70-46f3-91d7-f8063d5b5af6">111.3-135.3</xref>)</td>
+            <td rowspan="1" colspan="1">134.1<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID3f1e6c2a-ef00-45d8-bcbd-d82fbddabc73">131.0-137.2</xref>)</td>
+            <td rowspan="1" colspan="1">136.7<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID75309e9d-a624-43f2-93bc-fd6d2960136a">133.5 - 139.8</xref>)</td>
+            <td rowspan="1" colspan="1">171.3<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDc61ebc0e-2e23-4576-b65b-dc65e0ad112f">169.0-173.6</xref>)</td>
+            <td rowspan="1" colspan="1">&lt;0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">Every 365 days</td>
+            <td rowspan="1" colspan="1">225.4<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID59911d65-6c25-460b-a822-6d226fdee4af">223.7-227.2</xref>)</td>
+            <td rowspan="1" colspan="1">234.3<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID149082f5-b141-4f7e-93b4-84d326a6d666">231.0 - 237.6</xref>)</td>
+            <td rowspan="1" colspan="1">191.4<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDc6250fe9-6a74-4a59-897a-a3da8da13d44">173.1-209.8</xref>)</td>
+            <td rowspan="1" colspan="1">191.8<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="ID7d8d0047-660c-4cd0-8cab-9151dfffa380">187.6- 195.9</xref>)</td>
+            <td rowspan="1" colspan="1">199.6<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDca64818e-364a-42ec-9762-22925b1c4d13">195.4 - 203.8</xref>)</td>
+            <td rowspan="1" colspan="1">242.4<break/>(<xref rid="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c" ref-type="bibr" id="IDcb4196d7-dcfb-4dda-97f7-9254673a4cd6">239.4-245.4</xref>)</td>
+            <td rowspan="1" colspan="1">&lt;0.0001<break/>
+                  </td>
+          </tr>
+        </table>
+      </table-wrap>
+      <p>Note that test densities are cumulative such that tests performed in 90 days were also included in the numerator for calculation of test densities at 180 and 365 days.</p>
+      <table-wrap specific-use="rules" id="IDbd929e36-4adb-41f0-8c9f-159117a7131e" position="float" orientation="portrait">
+        <label>Table 3</label>
+        <caption>
+          <p>Crude and adjusted rate ratio (RR) of having a test performed while on monotherapy with newer drugs compared with thiazide diuretics.</p>
+        </caption>
+        <table>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <bold>&#160;</bold>
+              <break/>
+              <bold>Test</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>Drug class</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>Crude estimates</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>Adjusted* estimates</bold>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">
+              <bold>Rate Ratio (RR)</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>95% C.I.</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>p value</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>Rate Ratio (RR)</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>95% C.I.</bold>
+              <break/>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>p value</bold>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Electrolytes<break/>&#160;<break/>&#160;<break/>&#160;<break/>&#160;</td>
+            <td rowspan="1" colspan="1">ACE inhibitor</td>
+            <td rowspan="1" colspan="1">0.72</td>
+            <td rowspan="1" colspan="1">0.70 - 0.73</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+            <td rowspan="1" colspan="1">0.73</td>
+            <td rowspan="1" colspan="1">0.72 &#8211; 0.74</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">ARB</td>
+            <td rowspan="1" colspan="1">0.49</td>
+            <td rowspan="1" colspan="1">0.45 - 0.53</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+            <td rowspan="1" colspan="1">0.50</td>
+            <td rowspan="1" colspan="1">0.46 &#8211; 0.55</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">CCB</td>
+            <td rowspan="1" colspan="1">0.50</td>
+            <td rowspan="1" colspan="1">0.49 - 0.51</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+            <td rowspan="1" colspan="1">0.51</td>
+            <td rowspan="1" colspan="1">0.50 &#8211; 0.52</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">Thiazide</td>
+            <td rowspan="1" colspan="1">Referent</td>
+            <td rowspan="1" colspan="1">Referent</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Renal function<break/>&#160;<break/>&#160;<break/>&#160;<break/>&#160;</td>
+            <td rowspan="1" colspan="1">ACE inhibitor</td>
+            <td rowspan="1" colspan="1">0.96</td>
+            <td rowspan="1" colspan="1">0.94 - 0.98</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+            <td rowspan="1" colspan="1">0.97</td>
+            <td rowspan="1" colspan="1">0.95 - 0.98</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">ARB</td>
+            <td rowspan="1" colspan="1">0.80</td>
+            <td rowspan="1" colspan="1">0.74 - 0.85</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+            <td rowspan="1" colspan="1">0.81</td>
+            <td rowspan="1" colspan="1">0.76 - 0.87</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">CCB</td>
+            <td rowspan="1" colspan="1">0.78</td>
+            <td rowspan="1" colspan="1">0.76 - 0.80</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+            <td rowspan="1" colspan="1">0.78</td>
+            <td rowspan="1" colspan="1">0.77 &#8211; 0.80</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">Thiazide</td>
+            <td rowspan="1" colspan="1">Referent</td>
+            <td rowspan="1" colspan="1">Referent</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Cholesterol<break/>&#160;<break/>&#160;<break/>&#160;<break/>&#160;</td>
+            <td rowspan="1" colspan="1">ACE inhibitor</td>
+            <td rowspan="1" colspan="1">1.23</td>
+            <td rowspan="1" colspan="1">1.20 - 1.25</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+            <td rowspan="1" colspan="1">1.18</td>
+            <td rowspan="1" colspan="1">1.16 - 1.21</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">ARB</td>
+            <td rowspan="1" colspan="1">1.22</td>
+            <td rowspan="1" colspan="1">1.13 - 1.32</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+            <td rowspan="1" colspan="1">1.10</td>
+            <td rowspan="1" colspan="1">1.02 - 1.19</td>
+            <td rowspan="1" colspan="1">0.02</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">CCB</td>
+            <td rowspan="1" colspan="1">1.17</td>
+            <td rowspan="1" colspan="1">1.14 - 1.19</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+            <td rowspan="1" colspan="1">1.12</td>
+            <td rowspan="1" colspan="1">1.10 - 1.15</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">Thiazide</td>
+            <td rowspan="1" colspan="1">Referent</td>
+            <td rowspan="1" colspan="1">Referent</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Glucose<break/>&#160;<break/>&#160;<break/>&#160;<break/>&#160;</td>
+            <td rowspan="1" colspan="1">ACE inhibitor</td>
+            <td rowspan="1" colspan="1">0.98</td>
+            <td rowspan="1" colspan="1">0.97 - 1.00</td>
+            <td rowspan="1" colspan="1">0.0543</td>
+            <td rowspan="1" colspan="1">0.99</td>
+            <td rowspan="1" colspan="1">0.97 - 1.004</td>
+            <td rowspan="1" colspan="1">0.13</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">ARB</td>
+            <td rowspan="1" colspan="1">0.88</td>
+            <td rowspan="1" colspan="1">0.82 - 0.94</td>
+            <td rowspan="1" colspan="1">0.0004</td>
+            <td rowspan="1" colspan="1">0.88</td>
+            <td rowspan="1" colspan="1">0.82 - 0.95</td>
+            <td rowspan="1" colspan="1">0.0007</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">CCB</td>
+            <td rowspan="1" colspan="1">0.92</td>
+            <td rowspan="1" colspan="1">0.91 - 0.94</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+            <td rowspan="1" colspan="1">0.93</td>
+            <td rowspan="1" colspan="1">0.91 - 0.95</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">Thiazide</td>
+            <td rowspan="1" colspan="1">Referent</td>
+            <td rowspan="1" colspan="1">Referent</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Any test<break/>
+                  </td>
+            <td rowspan="1" colspan="1">ACE inhibitor</td>
+            <td rowspan="1" colspan="1">0.94</td>
+            <td rowspan="1" colspan="1">0.93 - 0.95</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+            <td rowspan="1" colspan="1">0.94</td>
+            <td rowspan="1" colspan="1">0.93 - 0.95</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">ARB</td>
+            <td rowspan="1" colspan="1">0.80</td>
+            <td rowspan="1" colspan="1">0.77 - 0.83</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+            <td rowspan="1" colspan="1">0.79</td>
+            <td rowspan="1" colspan="1">0.76 - 0.82</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">CCB</td>
+            <td rowspan="1" colspan="1">0.80</td>
+            <td rowspan="1" colspan="1">0.79 - 0.81</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+            <td rowspan="1" colspan="1">0.80</td>
+            <td rowspan="1" colspan="1">0.79 - 0.81</td>
+            <td rowspan="1" colspan="1">&lt; 0.0001</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">Thiazide</td>
+            <td rowspan="1" colspan="1">Referent</td>
+            <td rowspan="1" colspan="1">Referent</td>
+          </tr>
+        </table>
+      </table-wrap>
+      <p>* Adjusted for age, gender, testing profile in the 6 months before prescription, and Charlson comorbidity scores.</p>
+      <p>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image3.png" position="float" orientation="portrait" xlink:type="simple"/>
+      </p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn id="bibd2e39">
+        <p>Fischer MA, Avorn J. Economic implications of evidence-based prescribing for hypertension. Can better care cost less? JAMA 2004;291:1850-56.</p>
+      </fn>
+      <fn id="bibd2e46">
+        <p>National Institute for Health and Clinical Excellence/British Hypertension Society. NICE Clinical Guideline No. 34. Hypertension: Management of hypertension in adults in primary care. June 28, 2006. Available at www.nice.org.uk/CG034.</p>
+      </fn>
+      <fn id="bibd2e52">
+        <p>Hansson L, Lindholm L, Ekbom T, et al. Randomised trial of old and new antihypertensive drugs in elderly patients: cardiovascular mortality and morbidity in the Swedish Trial in Old Patients with Hypertension-2 study. Lancet 1999;354:1751-56.</p>
+      </fn>
+      <fn id="bibd2e56">
+        <p>Materson BJ, Reda DJ, Cushman WC, et al.  Single drug therapy for hypertension in men. A comparison of six antihypertensive agents with placebo. N Engl J Med 1993;328:914-21.</p>
+      </fn>
+      <fn id="bibd2e60">
+        <p>Neaton JD, Grimm RH, Prineas RJ, et al for the TOMHS Research Group. Treatment of Mild Hypertension Study. Final Results. JAMA 1993;270:7113-24.</p>
+      </fn>
+      <fn id="bibd2e66">
+        <p>ALLHAT Officers and Coordinators for the ALLHAT Collaborative Research Group. Major outcomes in high-risk hypertensive patients randomized to angiotensin-converting enzyme inhibitor or calcium channel blocker vs. diuretic: The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT). JAMA 2002;288(23):2981-97.</p>
+      </fn>
+      <fn id="bibd2e70">
+        <p>Staessen JA, Wang J-G, Thijs L. Cardiovascular prevention and blood pressure reduction:  a quantitative overview updated until 1 March 2003. J Hypertens 2003; <bold>21</bold>(6):1055-1076.</p>
+      </fn>
+      <fn id="bibd2e77">
+        <p>Blood Pressure Lowering Treatment Trialists&#8217; Collaboration.  Effects of different blood-pressure-lowering regimens on major cardiovascular events: results of prospectively-designed overviews of randomised trials<bold>.</bold> Lancet 2003;362:1527-35.</p>
+      </fn>
+      <fn id="bibd2e84">
+        <p>Psaty BP, Lumley T, Furberg CD, Schellenbaum G, Pahor M, Alderman MH, Weiss NH. Health outcomes associated with various antihypertensive therapies used as first-line agents. A network meta-analysis. JAMA 2003;289:2534-2544.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <ref id="IDe7499b46-b621-4b90-a9e9-8f31749de05c">
+        <mixed-citation>Stafilas PC, Sarafidis PA, Lasaridis AN, Aletras VH, Niakas DA. An economic evaluation of the 2003 European Society of Hypertension- European Society of Cardiology Guidelines for the management of mild-to-moderate hypertension in Greece. Am J Hypertens 2005;18:1233-40.</mixed-citation>
+      </ref>
+      <ref id="ID29181d65-7c94-4085-90d4-bec4462a7a05">
+        <mixed-citation>Tu K, Campbell NRC, Duong-Hua M, McAlister FA. Hypertension Management in the Elderly Has Improved: Ontario Prescribing Trends, 1994 to 2002. Hypertension 2005;45:1113-1118. </mixed-citation>
+      </ref>
+      <ref id="ID58d3ec53-ce1a-476b-9fd6-dde145cb8dc7">
+        <mixed-citation>Williams JI, Young W: A summary of studies on the quality of health care administrative databases in Canada.  In <italic>Patterns of Health Care in Ontario. The ICES Practice Atlas.</italic> Goel V, Williams JI, Anderson GM, Blackstein-Hirsh P, Fooks C, Naylor CD, Eds.  Ottawa, Canadian Medical Association, 1996, p. 339-345.</mixed-citation>
+      </ref>
+      <ref id="ID431a398a-84eb-4a3c-9cf2-a84aaa29a339">
+        <mixed-citation>Hux JE, Ivis F, Flintoft V, Bica A: Diabetes in Ontario: determination of prevalence and incidence using a validated administrative data algorithm. Diabetes Care 25:52-516, 2002</mixed-citation>
+      </ref>
+      <ref id="ID5d68ec89-d765-4598-99e4-efd75ecac99f">
+        <mixed-citation>Salient Features of the Laboratory Industry in Ontario, 1992-93. Toronto: Ontario Ministry of Health 1995</mixed-citation>
+      </ref>
+      <ref id="ID71827537-c31b-4170-a078-4d9d90321948">
+        <mixed-citation>van Walraven C, Goel, V, Chan B. Effect of population-based interventions on laboratory utilization: A time-series analysis. JAMA 1998;280:2028-2033</mixed-citation>
+      </ref>
+      <ref id="ID5ef73243-c9ce-4370-a599-d3152748f240">
+        <mixed-citation>van Walraven C, Raymond M. Population-based study of repeat laboratory testing. Clin Chemistry 2003;49:1997-2005.</mixed-citation>
+      </ref>
+      <ref id="ID51cc1c91-8a6d-4a9a-980d-4a483accdef4">
+        <mixed-citation>Charlson ME, Pompei P, Ales KL, MacKenzie CR. A new method of classifying prognostic comorbidity in longitudinal studies: Development and validation. J Chron Dis 1987;40:373-383.</mixed-citation>
+      </ref>
+      <ref id="ID81064079-dbab-40da-9a16-a69bacd19409">
+        <mixed-citation>Khan N, McAlister FA.  Re-examining the efficacy of &#61538;-blockers for the treatment of hypertension: a meta-analysis. CMAJ 2006;174:1737-42.</mixed-citation>
+      </ref>
+      <ref id="IDff9a09a2-dde7-4b16-b6cd-7b7934324ce1">
+        <mixed-citation>Messerli FH, Grossman E, Goldbourt U.  Are &#61538;&#8211;blockers efficacious as first-line therapy for hypertension in the elderly? JAMA 1998;279:1903-7.</mixed-citation>
+      </ref>
+      <ref id="IDba8ccf6c-c7b2-4009-9e4f-9905463a247c">
+        <mixed-citation>Hemmelgarn BR, McAlister FA, Myers MG, et al.  The 2005 Canadian Hypertension Education Program recommendations for the management of hypertension&#160;: Part 1- Blood pressure measurement, diagnosis, and assessment of risk. Can J Cardiol 2005;21:645-56.</mixed-citation>
+      </ref>
+      <ref id="ID8b1139d2-30b2-456b-b8d9-23f7d98ee389">
+        <mixed-citation>Chobanian AV, Bakris GL, Black HR, Cushman WC, Green LA, Izzo JLJr, et al. The Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure. The JNC 7 Report. JAMA 2003; 289:2560-2572.</mixed-citation>
+      </ref>
+      <ref id="IDc654f248-3458-4850-801b-68c32a22fca0">
+        <mixed-citation>Gu Q, Paulose-Ram R, Dillon C, Burt V. Antihypertensive Medication Use Among US Adults With Hypertension. Circulation 2006; 113:213-221.</mixed-citation>
+      </ref>
+      <ref id="ID50642667-7fb3-4e9b-9f01-b5a8c507d886">
+        <mixed-citation>Monane M, Bohn RL, Gurwitz JH, Glynn RJ, Levin R, Avorn J. The effects of initial drug choice and comorbidity on antihypertensive therapy compliance. Results from a population-based study in the elderly. Am J Hypertens 1997;10:697-704</mixed-citation>
+      </ref>
+      <ref id="IDd32bc4b3-8793-4a57-87aa-deb91d431f1b">
+        <mixed-citation>Bourgault C, Rainville B, Suissa S.  Antihypertensive drug therapy in Saskatchewan: Patterns of use and determinants in hypertension. Arch Intern Med 2001;161:1873-1879</mixed-citation>
+      </ref>
+      <ref id="IDcb2e2e05-ee95-450a-9e20-77bfe37dead9">
+        <mixed-citation>Cushman WC, Ford CE, Cutler JA, et al.  Success and predictors of blood pressure control in diverse North American settings: The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT). J Clin Hypertens 2002;4:393-404.</mixed-citation>
+      </ref>
+      <ref id="ID244dd7dd-f154-4c07-9ada-50e17e6469f3">
+        <mixed-citation>Hurley JS, Roberts M, Solberg LI, et al. Laboratory safety monitoring of chronic medications in ambulatory care settings. J Gen Intern Med 2005;20:331-33.</mixed-citation>
+      </ref>
+      <ref id="ID5d84bffa-5a23-4f5f-ad3d-110e90f4da12">
+        <mixed-citation>Raebel MA, McClure DL, Simon SR, et al.  Laboratory monitoring of potassium and creatinine in ambulatory patients receiving angiotensin converting enzyme inhibitors and angiotensin receptor blockers. Pharmacoepidemiol Drug Saf 2006;(in press)</mixed-citation>
+      </ref>
+      <ref id="IDa078d508-3c68-4fb8-9b8b-48f4cee5203f">
+        <mixed-citation>Raebel MA, Lyons EE, Andrade SE, et al.  Laboratory monitoring of drugs at initiation of therapy in ambulatory care.  J Gen Intern Med 2005;20:1120-26.  </mixed-citation>
+      </ref>
+      <ref id="IDdd14c877-0c95-4693-9131-7237d16ff103">
+        <mixed-citation>Simon SR, Andrade SE, Ellis JL, et al.  Baseline laboratory monitoring of cardiovascular medicines in ambulatory care among elderly HMO enrollees in the US. J Am Geriatr Soc 2005;53:2165-69.</mixed-citation>
+      </ref>
+      <ref id="ID4c1f2d32-701c-4e68-abc0-450dd32384ac">
+        <mixed-citation>Onysko J, Maxwell C, Eliasziw M, Zhang JX, Campbell NRC. Increases in the diagnosis and drug treatment of hypertensive Canadians. Can J Cardiol 2005;21(suppl C):123.[abstract]</mixed-citation>
+      </ref>
+      <ref id="ID9baac2c6-dd04-4193-b502-2d73bd2efc3c">
+        <mixed-citation>Hajjar I, Kotchen TA.  Trends in Prevalence, Awareness, Treatment, and Control of Hypertension in the United States, 1988-2000.  JAMA 2003;290:199-206.</mixed-citation>
+      </ref>
+      <ref id="ID514b3d2d-0fdf-4cdb-92ee-6aea372071fe">
+        <mixed-citation>Fields LE, Burt VL, Cutler JA, Hughes J, Roccella EJ, Sorlie P.  The burden of adult hypertension in the United States 1999 to 2000.  A rising tide. Hypertension 2004;44:398-404.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

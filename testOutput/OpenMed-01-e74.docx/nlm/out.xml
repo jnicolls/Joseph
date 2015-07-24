@@ -1,0 +1,625 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">The Journal Title</journal-id>
+      <issn pub-type="epub">0000-000X</issn>
+      <publisher>
+        <publisher-name>The Publisher Name</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1000/123456</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Sample Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A Sample Article Title</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Eve</surname>
+            <given-names>Martin Paul</given-names>
+          </name>
+          <xref ref-type="aff" rid="lincoln"/>
+        </contrib>
+        <aff id="lincoln">
+          <institution>University of Lincoln</institution>
+        </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <year>2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <issue>1</issue>
+      <fpage>1</fpage>
+      <lpage>2</lpage>
+      <permissions>
+        <copyright-statement>Copyright &#169; 2014, Martin Paul Eve</copyright-statement>
+        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The citation of this article must include: the name(s) of the authors, the name of the journal, the full URL of the article (in a hyperlinked format if distributed online) and the DOI number of the article.</license-p>
+        </license>
+      </permissions>
+      <self-uri>https://www.martineve.com/</self-uri>
+      <abstract>
+        <p>This is a sample abstract that forms part of the metadataSample.xml file in meTypeset.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title/>
+      <p>Intrauterine Growth Standards for Newborns </p>
+      <p>of Caucasian, Chinese, and South Asian Descent at Term</p>
+      <p>Patricia A. Janssen, PhD,1,2,4 Paul Thiessen, MD, FRCPC,3 Michael C. Klein, MD, CCFP,2,4 Michael  F.Whitfield, MD, FRCPC,3 Ying C MacNab, PhD,1,4 </p>
+      <p>Sue C Cullis-Kuhl, RN, RSCN, SCM.5</p>
+      <p>Departments of Health Care and Epidemiology1, Family Practice2, and Pediatrics3, University of British Columbia, Child &amp; Family Research Institute,4 BC Women&#8217;s Hospital,5 Vancouver, British Columbia, Canada</p>
+      <p>Corresponding Author</p>
+      <p>Dr. Patricia Janssen</p>
+      <p>UBC Dept of Health Care and Epidemiology</p>
+      <p>5804 Fairview Ave</p>
+      <p>Vancouver, B.C., V6T-1Z3</p>
+      <p>Ph: (<xref rid="TO_LINK" ref-type="bibr" id="IDc4e995c7-e63d-4eca-8a96-512c3a865bf5">604</xref>) 806-9119  Fax: (<xref rid="TO_LINK" ref-type="bibr" id="IDab0a71b3-3967-4705-8bb1-5ccd90b0aee1">604</xref>) 806-8005  Email: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:pjanssen@interchange.ubc.ca" ext-link-type="uri" xlink:type="simple">pjanssen@interchange.ubc.ca</ext-link>
+         </p>
+      <p>Abstract word count: 226</p>
+      <p>Manuscript word count: 2937</p>
+    </sec>
+    <sec>
+      <title>CONFLICT OF INTEREST NOTIFICATION PAGE</title>
+      <p>Funding for this study was provided by the British Columbia Children&#8217;s Hospital Foundation after peer review. The Foundation did not contribute to the study design, collection, analysis or interpretation of data, composition of this manuscript, or the decision to submit for publication. Publication of the manuscript will not result in conflicts of interest for any of the authors.</p>
+    </sec>
+    <sec>
+      <title>ABSTRACT</title>
+      <sec>
+        <title>Background</title>
+        <p>Fetal growth restriction is associated with metabolic derangements in the newborn, impaired functioning in early childhood, and chronic diseases in adulthood.  Currently, standards for birthweight, length, and head circumference stratified by both sex and ethnicity are not available.  Differences in fetal growth between ethnic groups may result in the misclassification of normal but constitutionally small or large babies.  We developed and compared intrauterine growth charts based on precise morphometric measurements of newborns whose parents were both of Caucasian, Chinese, or South Asian ethnicity.  </p>
+      </sec>
+      <sec>
+        <title>Methods</title>
+        <p>Weight, length and head circumference were measured on 2695 babies born to healthy non-smoking mothers in British Columbia whose gestational age between 37 and 41 completed weeks was confirmed by ultrasound prior to 20 weeks gestation.  Weight was measured on a digital scale, length by stadiometer, and head circumference by firm plastic tape measures. Means and 95% confidence intervals of morphometric measurements were compared among newborns grouped by ethnicity and sex.  Smoothed graphs were constructed for visual interpretation.  </p>
+      </sec>
+      <sec>
+        <title>Results</title>
+        <p>Newborns of Chinese descent were on average, lighter than Caucasian babies and shorter than South Asian babies. South Asian babies were also lighter than Caucasian babies but similar in length. These differences were on average larger in magnitude that those between sexes at a given gestational age. Mean head circumference of Chinese and South Asian babies were less than those of Caucasians but these differences were not statistically significantly different except between Caucasian and Chinese babies at forty weeks gestation.</p>
+      </sec>
+      <sec>
+        <title>Conclusions</title>
+        <p>Important differences among weight, length, and head circumferences are reported among babies of different ethnicities. Use of sex and ethnicity-specific growth charts may prevent the misclassification of newborns at birth as growth-restricted or large for gestational age.</p>
+        <p><bold>Key Words:  </bold>Ethnicity<bold>, </bold>growth, intrauterine, measurement, morphometry, sex</p>
+      </sec>
+      <sec>
+        <title>INTRODUCTION</title>
+        <p>Evaluation of growth parameters at birth is undertaken to identify the newborn whose growth is judged to be abnormal. Newborns who have suffered intrauterine growth restriction in utero have been exposed to adverse conditions which may have implications for the immediate neonatal period and on through childhood, adolescence and adulthood. Severely growth restricted newborns are particularly susceptible to neonatal hypothermia, hypoglycemia, polycythemia, blood hyperviscosity, and infection. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Kramer&lt;/Author&gt;&lt;Year&gt;1999&lt;/Year&gt;&lt;RecNum&gt;18&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;18&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Kramer, M.&lt;/author&gt;&lt;author&gt;Platt, R.&lt;/author&gt;&lt;author&gt;Yang, H.&lt;/author&gt;&lt;author&gt;McNamara, H.&lt;/author&gt;&lt;author&gt;Usher, M.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Are all growth-restricted newborns created equally?&lt;/title&gt;&lt;secondary-title&gt;Pediatrics&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;Pediatrics&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;599-60<xref rid="TO_LINK" ref-type="bibr" id="IDeaa88fe8-0573-4f1e-89ef-75d4cd6e2c69">2</xref>&lt;/pages&gt;&lt;volume&gt;103&lt;/volume&gt;&lt;number&gt;3&lt;/number&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;1999&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;Cite&gt;&lt;Author&gt;Creasy&lt;/Author&gt;&lt;Year&gt;<xref rid="TO_LINK" ref-type="bibr" id="ID3a91a4f6-85ee-4e1c-a2d3-49cc65a1d98c">2</xref>00<xref rid="TO_LINK" ref-type="bibr" id="ID8b2d8f46-a22a-4e77-b182-345437129992">4</xref>&lt;/Year&gt;&lt;RecNum&gt;<xref rid="TO_LINK" ref-type="bibr" id="ID8e3d2a9e-f372-4f5a-967f-3ca470222255">2</xref>6&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;<xref rid="TO_LINK" ref-type="bibr" id="ID61b8064a-1764-4a91-b5a2-39063eff161f">2</xref>6&lt;/rec-number&gt;&lt;ref-type name='Edited Book'&gt;28&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Creasy, R.&lt;/author&gt;&lt;author&gt;Resnick, R.&lt;/author&gt;&lt;author&gt;Iams, J.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Maternal Fetal Medicine&lt;/title&gt;&lt;/titles&gt;&lt;pages&gt;<xref rid="TO_LINK" ref-type="bibr" id="ID5efa7d6b-1e6a-4444-8497-d6b1626c9de6">4</xref>95-51<xref rid="TO_LINK" ref-type="bibr" id="ID2c58a2e0-61f9-453c-a6c3-1442b42a4f37">2</xref>&lt;/pages&gt;&lt;edition&gt;5th&lt;/edition&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;<xref rid="TO_LINK" ref-type="bibr" id="ID26ee11d4-7f71-41ef-b9f5-b5d0132839bf">2</xref>00<xref rid="TO_LINK" ref-type="bibr" id="ID1d3e4b55-5f5b-4817-ae14-c45cabf7a901">4</xref>&lt;/year&gt;&lt;/dates&gt;&lt;pub-location&gt;Philadelphia&lt;/pub-location&gt;&lt;publisher&gt;Saunders&lt;/publisher&gt;&lt;isbn&gt;0-7<xref rid="TO_LINK" ref-type="bibr" id="IDb87bab26-daad-4f9f-9362-ecffeec801cb">2</xref>16-0004-<xref rid="TO_LINK" ref-type="bibr" id="IDe7f1c958-a3a0-47b4-bbf6-f6c5bdcdeeb1">2</xref>&lt;/isbn&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;Cite&gt;&lt;Author&gt;Brodsky&lt;/Author&gt;&lt;Year&gt;2004&lt;/Year&gt;&lt;RecNum&gt;43&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;43&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Brodsky, D.&lt;/author&gt;&lt;author&gt;Christow, H.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Current concepts in intrauterine growth retardation&lt;/title&gt;&lt;secondary-title&gt;J Intensive Care Med&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;J Intensive Care Med&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;307-319&lt;/pages&gt;&lt;volume&gt;19&lt;/volume&gt;&lt;number&gt;6&lt;/number&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;2004&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(<xref rid="TO_LINK" ref-type="bibr" id="IDa8f86fe7-0f0d-4e3f-87ed-5bf006dff0b7">1-3</xref>)(<xref rid="TO_LINK" ref-type="bibr" id="ID1657aa8c-a3bb-4715-9f4f-0952dc200fd1">1-3</xref>) At the 5th birth weight centile for gestational age, perinatal mortality is 15/1000 and rises to 150/1000 at the 1st centile. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Manning&lt;/Author&gt;&lt;Year&gt;1995&lt;/Year&gt;&lt;RecNum&gt;<xref rid="TO_LINK" ref-type="bibr" id="ID6ddf2598-8cda-4958-8b95-3d13dce79c32">2</xref>7&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;<xref rid="TO_LINK" ref-type="bibr" id="ID97327043-1610-4a7a-be16-5b14daf89e0a">2</xref>7&lt;/rec-number&gt;&lt;ref-type name='Book Section'&gt;5&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Manning, FA.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Intrauterine Growth Retardation&lt;/title&gt;&lt;secondary-title&gt;Fetal Medicine: Principles and Practice&lt;/secondary-title&gt;&lt;/titles&gt;&lt;pages&gt;312&lt;/pages&gt;&lt;dates&gt;&lt;year&gt;1995&lt;/year&gt;&lt;/dates&gt;&lt;pub-location&gt;Norwalk, Conn.&lt;/pub-location&gt;&lt;publisher&gt;Appleton &amp;amp; Lange&lt;/publisher&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(<xref rid="TO_LINK" ref-type="bibr" id="IDd848fe62-b772-438b-9a2b-7c81db6d471d">4</xref>)(<xref rid="TO_LINK" ref-type="bibr" id="IDd3638c65-47b3-4666-b5b3-1b089e864b0e">4</xref>) Mortality and morbidity are still elevated at the 10th centile compared with appropriate for gestational age infants. Excess mortality is associated in part to an increased risk (<xref rid="TO_LINK" ref-type="bibr" id="IDf6893a56-60fe-4bfa-95e8-c7497ce3dd4b">30-60%</xref>) of minor and major anomalies. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Creasy&lt;/Author&gt;&lt;Year&gt;<xref rid="TO_LINK" ref-type="bibr" id="ID88b49caf-de27-42ce-a6a6-446d3b58e8c9">2</xref>004&lt;/Year&gt;&lt;RecNum&gt;<xref rid="TO_LINK" ref-type="bibr" id="IDa9ff9503-29c4-4c21-a6f8-8ddb213607c9">2</xref>6&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;26&lt;/rec-number&gt;&lt;ref-type name='Edited Book'&gt;28&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Creasy, R.&lt;/author&gt;&lt;author&gt;Resnick, R.&lt;/author&gt;&lt;author&gt;Iams, J.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Maternal Fetal Medicine&lt;/title&gt;&lt;/titles&gt;&lt;pages&gt;495-512&lt;/pages&gt;&lt;edition&gt;5th&lt;/edition&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;2004&lt;/year&gt;&lt;/dates&gt;&lt;pub-location&gt;Philadelphia&lt;/pub-location&gt;&lt;publisher&gt;Saunders&lt;/publisher&gt;&lt;isbn&gt;0-7216-0004-2&lt;/isbn&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(2)(2) </p>
+        <p>Fetal growth restriction has been shown to have a deleterious effect on cognitive functioning in later childhood, independent of genetic or major organ system malformations. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Low&lt;/Author&gt;&lt;Year&gt;1992&lt;/Year&gt;&lt;RecNum&gt;2<xref rid="TO_LINK" ref-type="bibr" id="ID4beb60b1-a87a-4c4e-8107-278f5d5d8bd4">8</xref>&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;2<xref rid="TO_LINK" ref-type="bibr" id="ID7d175c17-2820-4e20-a616-6ca157b91275">8</xref>&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;1<xref rid="TO_LINK" ref-type="bibr" id="ID9c085bef-97fd-48af-8be6-eeed94c69968">7</xref>&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Low, J.&lt;/author&gt;&lt;author&gt;Handley-Derry, M.&lt;/author&gt;&lt;author&gt;Burke, S.&lt;/author&gt;&lt;author&gt;Peters, R.&lt;/author&gt;&lt;author&gt;Pater, E.&lt;/author&gt;&lt;author&gt;Killen, H.&lt;/author&gt;&lt;author&gt;Derrick. E.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Association of intrauterine fetal growth retardation and learning deficits at age 9 to 11 years.&lt;/title&gt;&lt;secondary-title&gt;Am J Obstet Gynecol&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;Am J Obstet Gynecol&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;1499-505.&lt;/pages&gt;&lt;volume&gt;16<xref rid="TO_LINK" ref-type="bibr" id="IDc189f1e1-d250-4da2-ba48-a37e7a4e32b6">7</xref>&lt;/volume&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;1992&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;Cite&gt;&lt;Author&gt;Indredavik&lt;/Author&gt;&lt;Year&gt;2005&lt;/Year&gt;&lt;RecNum&gt;44&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;44&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;1<xref rid="TO_LINK" ref-type="bibr" id="IDa81c4e5a-4cd1-4f95-b366-4977b2cb1854">7</xref>&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Indredavik, M.&lt;/author&gt;&lt;author&gt;Vik, T.&lt;/author&gt;&lt;author&gt;Heyerdahl, S.&lt;/author&gt;&lt;author&gt;Kulseng, S.&lt;/author&gt;&lt;author&gt;Fayers, P.&lt;/author&gt;&lt;author&gt;Brubakk, AM.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Psychiatric symptoms and disorders in adolescents with low birthweight&lt;/title&gt;&lt;secondary-title&gt;Child Health Care Dev&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;Child Health Care Dev&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;121-125&lt;/pages&gt;&lt;volume&gt;31&lt;/volume&gt;&lt;number&gt;1&lt;/number&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;2005&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(<xref rid="TO_LINK" ref-type="bibr" id="IDbf5c77d9-bdd9-4e08-8763-bf582b30001c">5, 6</xref>)(<xref rid="TO_LINK" ref-type="bibr" id="IDd94bf061-10df-4b0a-9015-94f54a7976c9">5, 6</xref>) Decreased insulin sensitivity in the pre-teen years has been associated with fetal growth restriction. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Veening&lt;/Author&gt;&lt;Year&gt;2002&lt;/Year&gt;&lt;RecNum&gt;29&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;29&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;1<xref rid="TO_LINK" ref-type="bibr" id="IDac809751-cfbf-41a7-a334-34c6dc0c02d8">7</xref>&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Veening, M.&lt;/author&gt;&lt;author&gt;Van Weissenbruch, M.&lt;/author&gt;&lt;author&gt;Delemarre-Van De Wall, H.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Glucose tolerance, insulin sensitivity, and insulin secretion in children born small for gestational age.&lt;/title&gt;&lt;secondary-title&gt;J Clin Endocrinol Metab&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;J Clin Endocrinol Metab&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;465<xref rid="TO_LINK" ref-type="bibr" id="ID76abfaae-87e7-42ef-a5b7-85b95d8947ce">7</xref>-61&lt;/pages&gt;&lt;volume&gt;<xref rid="TO_LINK" ref-type="bibr" id="IDaba385dc-92e8-4503-bd46-3f1c0fd42324">8</xref>7&lt;/volume&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;2002&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(7)(7)  The growing weight of evidence linking reduced fetal growth with adult-onset diabetes and coronary heart disease (<xref rid="TO_LINK" ref-type="bibr" id="ID2123645c-e551-4bf8-8852-221f7d183289">adult metabolic syndrome</xref>) ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Gillman&lt;/Author&gt;&lt;Year&gt;2000&lt;/Year&gt;&lt;RecNum&gt;36&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;36&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Gillman, M.&lt;/author&gt;&lt;author&gt;Rich-Edwards, J.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;The fetal origins of adult disease: from sceptic to convert&lt;/title&gt;&lt;secondary-title&gt;Paediatr Perinat Epidemiol&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;Paediatr Perinat Epidemiol&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;192-193&lt;/pages&gt;&lt;volume&gt;14&lt;/volume&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;2000&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(<xref rid="TO_LINK" ref-type="bibr" id="ID6a390ae1-807d-4948-aae6-3a6fbcf164ca">8</xref>)(<xref rid="TO_LINK" ref-type="bibr" id="ID664824d3-76a9-46ec-a4d3-750c4787a2e5">8</xref>) underlines the importance of the intrauterine environment as a determinant of adult health. </p>
+        <p>Variability in fetal growth parameters at birth is known to be associated with sex of the baby, gestational age at birth, and multiplicity. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Stein&lt;/Author&gt;&lt;Year&gt;1<xref rid="TO_LINK" ref-type="bibr" id="IDc97dbe4c-68cf-4044-ba96-9a5350634415">9</xref>84&lt;/Year&gt;&lt;RecNum&gt;<xref rid="TO_LINK" ref-type="bibr" id="IDb1d1d318-56ac-45c0-a60b-26018f695b58">2</xref>&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;<xref rid="TO_LINK" ref-type="bibr" id="IDb0e1ad17-421b-42f2-9012-a72e69504cc7">2</xref>&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Stein, A.&lt;/author&gt;&lt;author&gt;Susser, M.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Intrauterine growth retardation: Epidemiological Issues and Public Health Significance&lt;/title&gt;&lt;secondary-title&gt;Semin Perinatol&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;Semin Perinatol&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;5-14&lt;/pages&gt;&lt;volume&gt;8&lt;/volume&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;1<xref rid="TO_LINK" ref-type="bibr" id="IDe47de04d-3882-4939-a7f8-7bc3d9a0eff5">9</xref>84&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(<xref rid="TO_LINK" ref-type="bibr" id="ID40275ce1-e5ca-4209-962e-80cf471c9b8c">9</xref>)(9)  Controversy exists as to which growth curves are most appropriate, but there is a growing consensus that standards must relate to a specific geographic area and must include race/ethnicity in addition to other parameters. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Creasy&lt;/Author&gt;&lt;Year&gt;<xref rid="TO_LINK" ref-type="bibr" id="ID33d74c87-c35d-45ce-bd63-bed1bea1c2b2">2</xref>004&lt;/Year&gt;&lt;RecNum&gt;<xref rid="TO_LINK" ref-type="bibr" id="ID0093fad3-94e2-4048-8fb8-9b263f7aa57c">2</xref>6&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;<xref rid="TO_LINK" ref-type="bibr" id="IDc2228f67-5f36-40ff-9a8e-4d346ca89e08">2</xref>6&lt;/rec-number&gt;&lt;ref-type name='Edited Book'&gt;<xref rid="TO_LINK" ref-type="bibr" id="ID6ae04ff2-8031-4c48-a184-a2bd918e6158">2</xref>8&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Creasy, R.&lt;/author&gt;&lt;author&gt;Resnick, R.&lt;/author&gt;&lt;author&gt;Iams, J.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Maternal Fetal Medicine&lt;/title&gt;&lt;/titles&gt;&lt;pages&gt;495-5<xref rid="TO_LINK" ref-type="bibr" id="IDf8e0572d-69c5-43d3-b1ac-a6d84e0ba823">12</xref>&lt;/pages&gt;&lt;edition&gt;5th&lt;/edition&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;<xref rid="TO_LINK" ref-type="bibr" id="IDd6d6da69-c84c-4988-859c-a2ce808e38d9">2</xref>004&lt;/year&gt;&lt;/dates&gt;&lt;pub-location&gt;Philadelphia&lt;/pub-location&gt;&lt;publisher&gt;Saunders&lt;/publisher&gt;&lt;isbn&gt;0-7<xref rid="TO_LINK" ref-type="bibr" id="IDd838cfbb-0643-49e5-bfd3-607873ef3b92">2</xref>16-0004-2&lt;/isbn&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(2)(2)  Historically, studies reporting differences in morphometric measures at birth according to race/ethnicity have compared between rather than within countries. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Cheng&lt;/Author&gt;&lt;Year&gt;1969&lt;/Year&gt;&lt;RecNum&gt;3&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;3&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Cheng, MCE.&lt;/author&gt;&lt;author&gt;Chew, PCT.&lt;/author&gt;&lt;author&gt;Ratnam, SS.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Birth-weight distribution of Singapore Chinese, Malay, and Indian infants from 34 weeks to 42 weeks gestation.&lt;/title&gt;&lt;secondary-title&gt;Obstet Gynecol&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;Obstet Gynecol&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;153-161&lt;/pages&gt;&lt;volume&gt;9&lt;/volume&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;1969&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;Cite&gt;&lt;Author&gt;Lin&lt;/Author&gt;&lt;Year&gt;1972&lt;/Year&gt;&lt;RecNum&gt;16&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;16&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Lin, C.&lt;/author&gt;&lt;author&gt;Emanuel, I.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;A comparison of American and Chinese intrauterine growth standards.&lt;/title&gt;&lt;secondary-title&gt;Am J Epidemiol&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;Am J Epidemiol&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;418-430&lt;/pages&gt;&lt;volume&gt;95&lt;/volume&gt;&lt;number&gt;5&lt;/number&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;1972&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(<xref rid="TO_LINK" ref-type="bibr" id="ID32ad7a51-c3a0-487c-9103-f65d6582e4c1">10, 11</xref>)(<xref rid="TO_LINK" ref-type="bibr" id="ID527e6cc9-f949-4dd4-a311-51a47f51757d">10, 11</xref>) In contrast, a Canadian study compared infants of Caucasian and immigrant Chinese infants born in Montreal between 1978-1990. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Wen&lt;/Author&gt;&lt;Year&gt;1995&lt;/Year&gt;&lt;RecNum&gt;11&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;11&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Wen, S.&lt;/author&gt;&lt;author&gt;Kramer, M.&lt;/author&gt;&lt;author&gt;Usher, M.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Comparison of birth weight distributions between Chinese and Caucasian infants.&lt;/title&gt;&lt;secondary-title&gt;A J Epidemiol&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;A J Epidemiol&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;1177-87&lt;/pages&gt;&lt;volume&gt;1995&lt;/volume&gt;&lt;number&gt;141&lt;/number&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;1995&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(<xref rid="TO_LINK" ref-type="bibr" id="IDe93e451c-166d-49ce-b23a-6a631cf58d82">12</xref>)(<xref rid="TO_LINK" ref-type="bibr" id="ID7ce9466e-af85-46da-a9e9-58d0466a864a">12</xref>) Use of an obstetric and neonatal database allowed the investigators to compile &#8220;risk free&#8221; cohorts for comparison. Racial status was derived from the mother&#8217;s maiden name. The study reported mean birthweight-for-gestational-age increments of 180 g or more for Caucasian vs. Chinese infants but did not report on length or head circumference. Comparison of length and head circumference allow for distinction between symmetrical and asymmetrical growth, an important measure of the severity and duration of restricted growth in utero. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Creasy&lt;/Author&gt;&lt;Year&gt;<xref rid="TO_LINK" ref-type="bibr" id="IDdc907487-8971-48c4-add9-58c41201daa1">2</xref>004&lt;/Year&gt;&lt;RecNum&gt;<xref rid="TO_LINK" ref-type="bibr" id="ID13305315-9bb9-4ff4-bac6-6e9ace680611">2</xref>6&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;26&lt;/rec-number&gt;&lt;ref-type name='Edited Book'&gt;28&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Creasy, R.&lt;/author&gt;&lt;author&gt;Resnick, R.&lt;/author&gt;&lt;author&gt;Iams, J.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Maternal Fetal Medicine&lt;/title&gt;&lt;/titles&gt;&lt;pages&gt;495-512&lt;/pages&gt;&lt;edition&gt;5th&lt;/edition&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;2004&lt;/year&gt;&lt;/dates&gt;&lt;pub-location&gt;Philadelphia&lt;/pub-location&gt;&lt;publisher&gt;Saunders&lt;/publisher&gt;&lt;isbn&gt;0-7216-0004-2&lt;/isbn&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(2)(2) </p>
+        <p>At present, there are no standards for intrauterine growth measured at birth which are specific to ethnic groups and which include length and head circumference in addition to weight. In Canada the second largest ethnic group (<xref rid="TO_LINK" ref-type="bibr" id="IDc73b706e-2643-451f-be77-05aacb9f964b">after European origin</xref>) is Chinese, with over just over one million persons self identifying on this group. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Statistics Canada&lt;/Author&gt;&lt;Year&gt;2001&lt;/Year&gt;&lt;RecNum&gt;45&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;45&lt;/rec-number&gt;&lt;ref-type name="Electronic Source"&gt;12&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Statistics Canada,.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Census of Population, Ethnic Origin&lt;/title&gt;&lt;/titles&gt;&lt;volume&gt;2006&lt;/volume&gt;&lt;number&gt;July 28&lt;/number&gt;&lt;dates&gt;&lt;year&gt;2001&lt;/year&gt;&lt;/dates&gt;&lt;isbn&gt;http://www40.statcan.ca/l01/cst01/demo26a.htm&lt;/isbn&gt;&lt;label&gt;growth&lt;/label&gt;&lt;urls&gt;&lt;related-urls&gt;&lt;url&gt;http://www40.statcan.ca/l01/cst01/demo26a.htm&lt;/url&gt;&lt;/related-urls&gt;&lt;/urls&gt;&lt;electronic-resource-num&gt;http://www40.statcan.ca/l01/cst01/demo26a.htm&lt;/electronic-resource-num&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(<xref rid="TO_LINK" ref-type="bibr" id="ID68178c60-7c69-4fe1-b843-575e686b02eb">13</xref>)(<xref rid="TO_LINK" ref-type="bibr" id="ID5358cbd0-f10d-427f-9ed2-045515a84c41">13</xref>)  The fourth largest subgroup, after aboriginal persons, is South Asian, at 700,000.  In the current study, we developed ethnicity, sex, and gestational-age specific charts of birthweight, length, and head circumference for newborns of Caucasian, Chinese, and South Asian descent.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>METHODS</title>
+      <sec>
+        <title>Setting</title>
+        <p>BC Women&#8217;s Hospital, the setting of the current study, serves as a primary obstetrical care facility for residents of Vancouver and the surrounding Lower Mainland area in British Columbia.  Forty percent of women delivering at BC Women&#8217;s Hospital are of East Asian (<xref rid="TO_LINK" ref-type="bibr" id="ID0d6e5e39-cd55-44a7-9f98-ba41ee5d1add">China, Taiwan, Hong Kong, Vietnam, Laos, Cambodia</xref>) descent and 10% are of South Asian (<xref rid="TO_LINK" ref-type="bibr" id="ID97a7e248-e368-40c4-a3a4-4339a0bc4bbd">India, Pakistan</xref>) descent.  During the study period, 2000-2003, routine screening for congenital dislocation of the hip was undertaken by orthopedic surgical residents at BC Women&#8217;s Hospital.  The thrice-weekly assembly of all newborns in the nursery for this purpose afforded us an opportunity to undertake precise measurements of length and head circumference. </p>
+      </sec>
+      <sec>
+        <title>Sample</title>
+        <p>We restricted our sample to newborns of healthy mothers in order to develop standards for normal intrauterine growth. Newborns were eligible if their mothers had expected dates of confinement (<xref rid="TO_LINK" ref-type="bibr" id="ID2e947925-2a87-43c6-8199-8851fb7e16c2">EDC</xref>) between 36 and 41 completed weeks of pregnancy confirmed by ultrasound measurement of fetal biparietal diameters or crown rump length obtained before 20 weeks of pregnancy. We limited our inclusion criteria to 36-41 weeks of gestation because of our limited access to newborns of younger gestational age and our belief that babies born at preterm gestations may have been exposed to in utero conditions affecting growth and could not therefore be reliably assumed to follow a &#8220;normal&#8221; growth standard. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Kramer&lt;/Author&gt;&lt;Year&gt;2000&lt;/Year&gt;&lt;RecNum&gt;19&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;19&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Kramer, M.&lt;/author&gt;&lt;author&gt;Seguin, L.&lt;/author&gt;&lt;author&gt;Lydon, J.&lt;/author&gt;&lt;author&gt;Goulet, L.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Socio-economic disparities in pregnancy outcome: why do the poor fare so poorly?&lt;/title&gt;&lt;secondary-title&gt;Paediatr Perinat Epidemiol&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;Paediatr Perinat Epidemiol&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;194-210&lt;/pages&gt;&lt;volume&gt;<xref rid="TO_LINK" ref-type="bibr" id="ID98a41d43-cb04-415e-af00-71c77b275e4a">14</xref>&lt;/volume&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;2000&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(<xref rid="TO_LINK" ref-type="bibr" id="IDc39f2b35-ef61-441e-8696-92c3b9b1ddd4">14</xref>)(14) </p>
+        <p>Parents of study subjects were a) both Caucasian; b) both East Asian; or c) both South Asian (<xref rid="TO_LINK" ref-type="bibr" id="ID65fe83ee-0e87-4a6a-9ee3-5196d90255d2">IndoCanadian</xref>).  Race/ethnicity was determined by a perusal of a) the prenatal record in which ethnicity is recorded; and b) a socio-demographic form completed by labor/delivery nurses which includes a field for race/ethnicity.  If these two sources of information were not in agreement, the baby was not included in the study. Babies born to First Nations (<xref rid="TO_LINK" ref-type="bibr" id="ID21adaa47-5128-493b-9cad-90788e57c0f4">aboriginal parents</xref>) were not enrolled as they constituted only 1% of the population giving birth at BC Women&#8217;s Hospital, and would therefore not constitute a sample large enough to develop precise estimates of morphometry. </p>
+        <p>Babies were excluded if their mothers&#8217; pregnancies were complicated by any conditions which could potentially alter fetal growth, including pre-existing or gestational insulin-dependent diabetes, pre-eclampsia, fetal anomalies, multiple gestation or known or suspected syndromes. Babies born to mothers who disclosed use of substances during pregnancy as reported on the prenatal record (<xref rid="TO_LINK" ref-type="bibr" id="IDddac8a59-0c89-41d1-9b02-a6a5e0b94466">tobacco, alcohol, and other illicit drugs</xref>) were not included.</p>
+      </sec>
+      <sec>
+        <title>Gestational Age</title>
+        <p>Gestational age at birth for each newborn was derived from the expected date of confinement (<xref rid="TO_LINK" ref-type="bibr" id="ID1bbf75c8-dd91-4bce-bd20-5418d25eda91">EDC</xref>), calculated on the basis of both early ultrasound and the date of the last menstrual period (<xref rid="TO_LINK" ref-type="bibr" id="IDd46b9b18-467f-4a3a-bb4d-7e98c8a11aa6">LMP</xref>). Obstetrical wheels use Nagle&#8217;s rule to align dates of LMP with the corresponding <xref rid="TO_LINK" ref-type="bibr" id="IDc8e66730-deba-42e5-b9e8-b489d31b2401">EDC</xref>. We used a large scale obstetrical wheel to estimate EDC from <xref rid="TO_LINK" ref-type="bibr" id="IDdbf9f5e6-b4a8-43d3-b72c-75bae6c6e8c4">LMP</xref> because comparisons of palm-sized wheels have revealed differences in calibration of weekly intervals. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Grzybowski&lt;/Author&gt;&lt;Year&gt;1999&lt;/Year&gt;&lt;RecNum&gt;22&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;22&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Grzybowski, S.&lt;/author&gt;&lt;author&gt;Nout, R.&lt;/author&gt;&lt;author&gt;Kirkham, C.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Maternity care calendar wheel: Improved obstetric wheel developed in British Columbia&lt;/title&gt;&lt;secondary-title&gt;Can Fam Physician&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;Can Fam Physician&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;661-666&lt;/pages&gt;&lt;volume&gt;45&lt;/volume&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;1999&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(<xref rid="TO_LINK" ref-type="bibr" id="ID3309d3dc-7374-4c73-a941-624a80933c58">15</xref>)(<xref rid="TO_LINK" ref-type="bibr" id="IDe5e08f55-8e98-40d5-a1ce-114dc6c54a6b">15</xref>) To determine EDC based on ultrasound evaluations, original ultrasound reports were reviewed for all subjects and EDCs re-calculated.  In the event of disagreement between the two methods, the initial estimate of gestational age at birth by LMP was adjusted to that derived by ultrasound if the discrepancy was <underline>&gt;</underline> 6 days at 7 - 12 weeks, <underline>&gt;</underline> 7 days at 13 - 14 weeks, <underline>&gt;</underline> 8 days at <xref rid="TO_LINK" ref-type="bibr" id="IDed7262b4-b11b-4974-b64d-855542cf715c">15</xref> - 20 weeks, and <underline>&gt;</underline> 14 days at 20 - 24 weeks gestation, according to the method of Synnes et al. (<xref rid="TO_LINK" ref-type="bibr" id="ID37607456-415b-44ee-907d-5190cd00de17">1994</xref>). ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Synnes&lt;/Author&gt;&lt;Year&gt;1994&lt;/Year&gt;&lt;RecNum&gt;5&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;5&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Synnes, A.&lt;/author&gt;&lt;author&gt;LIng, E.,&lt;/author&gt;&lt;author&gt;Whitfield, M.&lt;/author&gt;&lt;author&gt;MacKinnon, M.&lt;/author&gt;&lt;author&gt;Lopes, L.&lt;/author&gt;&lt;author&gt;Wong, G.&lt;/author&gt;&lt;author&gt;Effer, S.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Perinatal outcomes of a large cohort of extremely low gestational age infants&lt;/title&gt;&lt;secondary-title&gt;J Pediatr&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;J Pediatr&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;952-60&lt;/pages&gt;&lt;volume&gt;125&lt;/volume&gt;&lt;number&gt;6&lt;/number&gt;&lt;keywords&gt;&lt;keyword&gt;Growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;1994&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(<xref rid="TO_LINK" ref-type="bibr" id="ID6aa6994f-6a2e-46cf-bc97-d78d65f10493">16</xref>)(<xref rid="TO_LINK" ref-type="bibr" id="ID716dfbfb-1435-40b0-a6f8-ad3e0ce29052">16</xref>) </p>
+        <p>Morphometric measurements were completed on a total of 2595 eligible newborns. After recalculating gestational age at birth based on original ultrasound reports and LMP, 28.5% of gestational ages were changed (<xref rid="TO_LINK" ref-type="bibr" id="ID40bdeba3-c149-48fe-8471-64f1ae189205">n = 765</xref>). Changes ranged from one to three weeks. Reasons for changing gestational age included: errors in calculation of expected date of confinement (<xref rid="TO_LINK" ref-type="bibr" id="ID03627e02-0e0e-4329-8c4b-56e9393be037">EDC</xref>) based on last menstrual period (<xref rid="TO_LINK" ref-type="bibr" id="IDdd154508-c5d6-4bb9-9823-a6262830a203">8.2%, n = 221</xref>) when use of LMP was appropriate; EDC not adjusted according to ultrasound when it should have been according to Synnes et al. (<xref rid="TO_LINK" ref-type="bibr" id="ID205ad2b0-16ce-41b1-b2c8-a87aa323651d">1999</xref>) (<xref rid="TO_LINK" ref-type="bibr" id="ID8bf0db98-7a9a-41c4-895b-3b1581e8b8c2">6.3%, n = 166</xref>); EDC calculated incorrectly from ultrasound report (<xref rid="TO_LINK" ref-type="bibr" id="ID17dad5b0-a4e1-4e61-a388-562aec5af13f">2.1%, n = 57</xref>); EDC corrected according to ultrasound inappropriately according to Synnes et al. (<xref rid="TO_LINK" ref-type="bibr" id="IDc9f5a724-22dc-46da-8f2f-156ae72b7cf2">6.0%, n = 161</xref>); and if the discrepancy between EDC calculated in the infant&#8217;s chart vs. that calculated by the authors could not be determined from the information given (<xref rid="TO_LINK" ref-type="bibr" id="ID1bd7c239-bb5e-40d0-aeba-406ba2422edb">5.9%, n = 160</xref>).</p>
+      </sec>
+      <sec>
+        <title>Morphometric Measurement</title>
+        <p>Measurement of growth parameters was completed within 48 hours of birth. Length was measured using a stadiometer, which consisted of a hard plastic platform with a vertical headboard against which the crown of the baby&#8217;s head was placed. With diapers loosened to permit free movement of the legs, the legs were held flat (<xref rid="TO_LINK" ref-type="bibr" id="IDfb463bd2-0ca6-44b5-a340-10170ea004be">knees down</xref>) and a movable foot board was pressed gently against the balls of the feet, which were held in a position perpendicular to the legs.  The measurement of length was then recorded from the crown to the soles of the feet using the centimeter scale on the stadiometer.  The head circumference was measured using a firm heavy-weight plastic tape.  Paper tapes were considered to be inadequate because of observed variability in printed measurement intervals and metal tape measures were not used in order to avoid lacerations. The plastic tape was checked throughout the study against an identical tape, which was not used for measurement, to ensure that stretching of the tape had not taken place. All measurements were made by an experienced pediatric nurse assisted by a medical student.  Inter-rater reliability between the nurse and student was within 0.1 cm for head circumference and length. Birthweight was documented in the birth record immediately after birth when the baby had been dried but before breastfeeding.  Two digital scales in the delivery suite were calibrated using a standard weight to ensure accuracy and comparability. </p>
+      </sec>
+      <sec>
+        <title>Statistical Analysis</title>
+        <p>Means and 95% confidence intervals were graphed to compare differences between newborns grouped first by ethnicity and then by sex. Plots of crude data suggested moderate non-linearity and therefore smoothing (<xref ref-type="bibr" id="ID1d59e4dd-fd85-48fb-bedd-3dcef489d8ff" rid="TO_LINK">using <italic>lowess</italic> smoother in Splus</xref>) of sample means and standard deviations was undertaking using a locally-weighted least square regression. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;RecNum&gt;41&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;41&lt;/rec-number&gt;&lt;ref-type name='Computer Program'&gt;9&lt;/ref-type&gt;&lt;contributors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;S-PLUS&lt;/title&gt;&lt;/titles&gt;&lt;edition&gt;6.1&lt;/edition&gt;&lt;dates&gt;&lt;/dates&gt;&lt;publisher&gt;Mathsoft Inc&lt;/publisher&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;Cite&gt;&lt;Author&gt;Everitt&lt;/Author&gt;&lt;Year&gt;2001&lt;/Year&gt;&lt;RecNum&gt;42&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;42&lt;/rec-number&gt;&lt;ref-type name='Book'&gt;6&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Everitt, B.&lt;/author&gt;&lt;author&gt;Rabe-Hesketh S.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Analyzing Medical Data Using S-PLUS&lt;/title&gt;&lt;/titles&gt;&lt;dates&gt;&lt;year&gt;2001&lt;/year&gt;&lt;/dates&gt;&lt;pub-location&gt;New York&lt;/pub-location&gt;&lt;publisher&gt;Springer&lt;/publisher&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(17, 18)(17, 18) We present data using means and standard deviations to reflect biological variability as opposed to percentiles, which are essentially a mathematical cut-off.</p>
+      </sec>
+      <sec>
+        <title>Sponsorship</title>
+        <p>Funding for this study was provided by the British Columbia Children&#8217;s Hospital Foundation after peer review. The Foundation did not contribute to the study design, collection, analysis or interpretation of data, or composition of this manuscript.  Ethical approval was granted by the University of British Columbia Clinical Ethics Board and the BC Women&#8217;s Hospital Research Review Committee. </p>
+      </sec>
+      <sec>
+        <title>RESULTS</title>
+        <p>Morphometric measurements were completed on 2595 newborns; 1195 born to Caucasian parents; 975 born to Chinese parents; and 525 born to South Asian parents. (<xref rid="TO_LINK" ref-type="bibr" id="ID60e8841a-0063-4dc7-8649-9e0f6f165f15">Table 1</xref>). The mean differences in birthweight among babies of differing ethnicities was similar to, or greater than, mean differences between sexes. For example, at 40 weeks gestation, the mean difference between birthweights for Caucasian vs. Chinese babies was approximately 220g (<xref rid="TO_LINK" ref-type="bibr" id="IDd9c5dc11-b306-4067-8e7c-3ef3c4527d10">Figure 1</xref>) whereas the mean difference between Caucasian girls and boys at 40 weeks was 48g (<xref rid="TO_LINK" ref-type="bibr" id="ID31aae68d-666c-413a-86cf-aee2e45c6055">Table 2</xref>). At gestational ages of 37-41 completed weeks, babies of Chinese and South Asian descent had statistically significantly lower mean birthweights than Caucasian babies but were not different from each other. (<xref rid="TO_LINK" ref-type="bibr" id="IDa3787fb6-d083-4000-aeb5-f0db6c4cb8e2">Figure 1</xref>) </p>
+        <p>A different picture emerged when comparing birth length. Caucasian babies were significantly longer than Chinese babies. South Asian babies&#8217; lengths were on average between those of Caucasian and Chinese babies and not significantly different from either. (<xref rid="TO_LINK" ref-type="bibr" id="IDa710dd16-b24a-47e2-8284-cbc4c72f2f43">Figure 2</xref>) Mean differences between Caucasian and Chinese babies at a given gestational age were approximately 1.0 cm. This difference contrasts with a mean difference in length of 0.6 cm between Caucasian girls and boys at 40 weeks gestation. (<xref rid="TO_LINK" ref-type="bibr" id="ID8c943d17-66d9-41fe-bf11-1021b3eb2bff">Table 2</xref>).</p>
+        <p>More variation existed when comparing head circumference according to ethnicity. Head circumferences for Chinese and South Asian babies were similar at the same gestation, with both tending to be approximately 0.5 cm smaller than Caucasian babies (<xref rid="TO_LINK" ref-type="bibr" id="ID934cad7c-4ae0-4fa1-b5ad-02bb4df2f579">Figure 3</xref>). However, 95% confidence intervals overlapped at all gestational ages except for the Caucasian vs. Chinese babies at 40 weeks. Differences in head circumference by sex were larger on average, at about 0.7 cm (<xref rid="TO_LINK" ref-type="bibr" id="IDc750a53f-2bc0-4acc-8ba0-f7ae9f3fab6b">Table 2</xref>).  Smoothed curves for weight, length, and head circumference by sex and ethnicity are presented in Figures 4-9. </p>
+      </sec>
+      <sec>
+        <title>DISCUSSION</title>
+        <p>We report, for the first time, sex and ethnicity-specific parameters for weight, length, and head circumference for infants born at 37-41 completed weeks of pregnancy. Standards assume optimal growth and can be used to detect clinically relevant deviations from normal, which carry risk for morbid consequences. Standards are to be distinguished from population-based references, which include all infants with morbidities and must be interpreted more broadly. Our model for this study, the first Canadian "gold standard" developed by Usher and McLean in <xref rid="TO_LINK" ref-type="bibr" id="IDa0fef6e4-83df-4aaf-8092-4387c1b10bbb">19</xref>69, restricted their sample to infants of mothers experiencing healthy pregnancies and utilized meticulous measurement techniques.  ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Usher&lt;/Author&gt;&lt;Year&gt;<xref rid="TO_LINK" ref-type="bibr" id="ID5dbbd3a0-2acc-44c4-972a-8aa09ef6f83c">19</xref>69&lt;/Year&gt;&lt;RecNum&gt;6&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;6&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Usher, M.&lt;/author&gt;&lt;author&gt;McLean, F.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Intrauterine growth of live-born Caucasian infants at sea level: Standards obtained form measurements in 7 dimensions of infants born between 25 and 44 weeks of gestaion.&lt;/title&gt;&lt;secondary-title&gt;J Pediatr&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;J Pediatr&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;901-910&lt;/pages&gt;&lt;volume&gt;74&lt;/volume&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;<xref rid="TO_LINK" ref-type="bibr" id="IDace68713-0c60-49b9-a4cc-db68eafc951c">19</xref>69&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(19)(19)  Our charts differ from references currently in use ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Kramer&lt;/Author&gt;&lt;Year&gt;<xref rid="TO_LINK" ref-type="bibr" id="IDed4a0eff-651f-4215-907c-138b411f20b2">20</xref>01&lt;/Year&gt;&lt;RecNum&gt;<xref rid="TO_LINK" ref-type="bibr" id="ID210174a4-a543-42f5-b96a-f204daa54b76">20</xref>&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;20&lt;/rec-number&gt;&lt;ref-type name="Journal Article"&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Kramer, M.&lt;/author&gt;&lt;author&gt;Platt, R.&lt;/author&gt;&lt;author&gt;Wen, S.&lt;/author&gt;&lt;author&gt;Joseph, KS.&lt;/author&gt;&lt;author&gt;Allen, A.&lt;/author&gt;&lt;author&gt;Abrahamowicz, M.&lt;/author&gt;&lt;author&gt;Blondel, B.&lt;/author&gt;&lt;author&gt;Breart, G.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;A new and improved population-based Canadian reference for birthweight for gestational age&lt;/title&gt;&lt;secondary-title&gt;Pediatrics&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;Pediatrics&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;e35&lt;/pages&gt;&lt;volume&gt;108&lt;/volume&gt;&lt;number&gt;2&lt;/number&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;2001&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(20)(20) in that they are derived from a healthy population, that is infants whose mothers had experienced healthy pregnancies and who did not use alcohol, tobacco, or illicit drugs.  In addition, we used precise measurement techniques, including recalculation of EDC from ultrasonography. Morphometric measurements at birth conducted without stadiometers or standardized techniques, as documented routinely in health records, have been shown to have a 5% relative error in measurement of infant length. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Blidner&lt;/Author&gt;&lt;Year&gt;1984&lt;/Year&gt;&lt;RecNum&gt;14&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;14&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Blidner, I.&lt;/author&gt;&lt;author&gt;McClemont, S.&lt;/author&gt;&lt;author&gt;Anderson, G.&lt;/author&gt;&lt;author&gt;Sinclair, J.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Size-at-birth standard for an urban Canadian population&lt;/title&gt;&lt;secondary-title&gt;Can Med Assoc J&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;Can Med Assoc J&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;133-140&lt;/pages&gt;&lt;volume&gt;130&lt;/volume&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;1984&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(<xref rid="TO_LINK" ref-type="bibr" id="IDe67e089d-e117-4a65-afc6-ab480e53ee21">21</xref>)(<xref rid="TO_LINK" ref-type="bibr" id="IDff64e049-af91-4932-bcce-5b351befa56f">21</xref>) </p>
+        <p>Our data indicate that variation in growth by ethnicity is as great as that measured on the basis of sex. Infants who are not compared to standards derived from their specific ethnic group may be misclassified as small or large for gestational age at birth. Similar to our study, a British study of three hospitals with a geographically defined catchment area excluded babies whose mothers with known maternal/fetal morbidities and without confirmation of EDC by early (<xref rid="TO_LINK" ref-type="bibr" id="IDae881859-ba93-4bb6-9410-04986cb41d67">24 week</xref>) ultrasound. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Wilcox&lt;/Author&gt;&lt;Year&gt;1993&lt;/Year&gt;&lt;RecNum&gt;34&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;34&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Wilcox, M.&lt;/author&gt;&lt;author&gt;Gardosi, J.&lt;/author&gt;&lt;author&gt;Mongelli, M.&lt;/author&gt;&lt;author&gt;Ray, C.&lt;/author&gt;&lt;author&gt;Johnson, I.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Birth Weight from Pregnancies Dated by Ultrasonography in a Multicultural British Population&lt;/title&gt;&lt;secondary-title&gt;Br Med J&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;Br Med J&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;588-91&lt;/pages&gt;&lt;volume&gt;307&lt;/volume&gt;&lt;number&gt;6904&lt;/number&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;1993&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(<xref rid="TO_LINK" ref-type="bibr" id="ID153714e2-1b3b-42a2-be61-e0503515de4b">22</xref>)(<xref rid="TO_LINK" ref-type="bibr" id="ID45d384cb-a187-4974-b142-b1f445d29217">22</xref>)  From the years 1986-1991 mean birthweights for newborns of non-smoking English/European, Afro-Caribbean, and Indian/Pakistani mothers were presented for both sexes combined. The authors did not report on how the racial groups were defined. Mean birthweights at 40 weeks for South Asian babies (<xref rid="TO_LINK" ref-type="bibr" id="ID37c80a19-5565-4024-a1ff-877cee8762e2">3334g</xref>) were less than our values for boys (<xref rid="TO_LINK" ref-type="bibr" id="IDdd7d3a87-71f7-401d-bf3a-ec21005595d9">3452g</xref>) or girls (<xref rid="TO_LINK" ref-type="bibr" id="IDf52ba14e-cdf2-468d-b63e-1ee67262a72e">3376 g</xref>). This difference may reflect secular increases in birthweight. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Kramer&lt;/Author&gt;&lt;Year&gt;2002&lt;/Year&gt;&lt;RecNum&gt;17&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;17&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Kramer, M.&lt;/author&gt;&lt;author&gt;Morin, I.&lt;/author&gt;&lt;author&gt;Yang, H.&lt;/author&gt;&lt;author&gt;Platt, R.&lt;/author&gt;&lt;author&gt;Usher, R.&lt;/author&gt;&lt;author&gt;McNamara, H.&lt;/author&gt;&lt;author&gt;Joseph, KS.&lt;/author&gt;&lt;author&gt;Wen, S.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Why are babies getting bigger? Temporal trends in fetal growth and its determinants&lt;/title&gt;&lt;secondary-title&gt;J Pediatr&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;J Pediatr&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;538-542&lt;/pages&gt;&lt;volume&gt;141&lt;/volume&gt;&lt;number&gt;4&lt;/number&gt;&lt;dates&gt;&lt;year&gt;2002&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;Cite&gt;&lt;Author&gt;Wen&lt;/Author&gt;&lt;Year&gt;2003&lt;/Year&gt;&lt;RecNum&gt;23&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;23&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Wen, S.&lt;/author&gt;&lt;author&gt;Kramer, M.&lt;/author&gt;&lt;author&gt;Platt, R.&lt;/author&gt;&lt;author&gt;Demissie, K.&lt;/author&gt;&lt;author&gt;Joseph, KS.&lt;/author&gt;&lt;author&gt;Liu, S.&lt;/author&gt;&lt;author&gt;Sauve, R.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Secular trends of fetal growth in Canada, 1981-1997&lt;/title&gt;&lt;secondary-title&gt;Paediatr Perinat Epidemiol&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;Paediatr Perinat Epidemiol&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;347-354&lt;/pages&gt;&lt;volume&gt;17&lt;/volume&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;2003&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(<xref rid="TO_LINK" ref-type="bibr" id="ID366d6b7a-e065-4c7c-b93c-a741cb6f8f74">23, 24</xref>)(<xref rid="TO_LINK" ref-type="bibr" id="ID84f7cda8-6db1-4b83-b3a4-f5ff38b12bed">23, 24</xref>) A study comparing birthweights of babies born to Chinese vs. Caucasian parents in 1980-87 derived from birth records in the US reported mean differences of 200g at 40-41 weeks gestation, a relative difference of 6% of the total birth weight. This study combined data for both boys and girls.  ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Yip&lt;/Author&gt;&lt;Year&gt;1991&lt;/Year&gt;&lt;RecNum&gt;15&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;15&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Yip, R.&lt;/author&gt;&lt;author&gt;Li, Zhu.&lt;/author&gt;&lt;author&gt;Chong, Wan-Hwa.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Race and birth weight: The Chinese example&lt;/title&gt;&lt;secondary-title&gt;Pediatrics&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;Pediatrics&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;688-693&lt;/pages&gt;&lt;volume&gt;87&lt;/volume&gt;&lt;number&gt;5&lt;/number&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;1991&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(<xref rid="TO_LINK" ref-type="bibr" id="IDae12441c-1ccc-4173-b318-0ee0b176e7a1">25</xref>)(<xref rid="TO_LINK" ref-type="bibr" id="ID3f7dec8a-82e6-440b-85b8-b06fafad2f2c">25</xref>) Another study collecting data from the same time period in the US reported differences in the range of 5-6% among term Chinese newborns compared to Caucasians. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Wang&lt;/Author&gt;&lt;Year&gt;1994&lt;/Year&gt;&lt;RecNum&gt;40&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;40&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Wang, Xiaobin.&lt;/author&gt;&lt;author&gt;Guyer, B.&lt;/author&gt;&lt;author&gt;Paige, D.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Differences in Gestational Age-Specific Birthweight among Chinese, Japanese, and White Americans&lt;/title&gt;&lt;secondary-title&gt;Int J Epidemiol&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;Int J Epidemiol&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;119-127&lt;/pages&gt;&lt;volume&gt;23&lt;/volume&gt;&lt;number&gt;1&lt;/number&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;1994&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(<xref rid="TO_LINK" ref-type="bibr" id="ID710c9b86-833b-4bb9-918f-1d62890c66ba">26</xref>)(<xref rid="TO_LINK" ref-type="bibr" id="IDaf5c9950-1134-4d26-97b6-21e59c9d73af">26</xref>) </p>
+        <p>Reasons for differing intrauterine growth velocities according to race/ethnicity among apparently healthy populations are relatively unexplored. Wen and colleagues in Canada reported more rapid fetal growth early in the third trimester but slower growth near and after term among Chinese vs. Caucasian infants. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Wen&lt;/Author&gt;&lt;Year&gt;1995&lt;/Year&gt;&lt;RecNum&gt;11&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;11&lt;/rec-number&gt;&lt;ref-type name="Journal Article"&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Wen, S.&lt;/author&gt;&lt;author&gt;Kramer, M.&lt;/author&gt;&lt;author&gt;Usher, M.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Comparison of birth weight distributions between Chinese and Caucasian infants.&lt;/title&gt;&lt;secondary-title&gt;A J Epidemiol&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;A J Epidemiol&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;1177-87&lt;/pages&gt;&lt;volume&gt;1995&lt;/volume&gt;&lt;number&gt;141&lt;/number&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;1995&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(<xref rid="TO_LINK" ref-type="bibr" id="IDb01c816f-2bc9-4ae2-bbc5-130ddd86466a">12</xref>)(<xref rid="TO_LINK" ref-type="bibr" id="ID1bc987e4-aa88-4902-82f5-24467d3f73ae">12</xref>) Lower mean birth weights were due to differences in fetal growth rate rather than gestational duration after adjustment for maternal determinants of fetal growth. Our data support this explanation.  Careful examination of Figure 1 indicates a flatter slope for increase in weight by gestational week for Chinese vs. Canadian babies. The ponderal index (<xref rid="TO_LINK" ref-type="bibr" id="IDe98638e3-c897-42f0-aed8-931a56ceac39">[weight (g</xref>) /length3 (cm)] x 100) is a measure of growth restriction which identifies &#8220;wasting&#8221; or &#8220;thin&#8221; babies. The mean ponderal index for Caucasian (2.84 <underline>+</underline> 0.33) vs. Chinese babies (2.82<underline>+</underline> 0.40) g/cm3 was not different in our study, (<xref rid="TO_LINK" ref-type="bibr" id="ID0781af0b-8983-433c-82d1-5910f376f2ec">p = 0.50</xref>), adjusted for gestational age. In contrast, the ponderal index for Caucasian vs. South Asian babies in our data, 2.68 <underline>+</underline> 0.46, was significantly different (<xref rid="TO_LINK" ref-type="bibr" id="ID310a3643-6691-42b1-9c43-d6436bf69458">p&lt;.001</xref>), adjusted for gestational age. This suggests that growth of South Asian babies in our setting may be restricted by factors not accounted for in our sampling, for example, nutritional status of the mother.  Fetal growth among South Asian women in Canada has not been studied in detail but may be subject to dietary or other intervention.  </p>
+        <p>Compared to a recently published Canadian sex but not ethnicity- specific reference for birth weight for gestational age based on birth certificate data, mean birthweights in our distribution at 40 weeks gestation are 74 g larger on average for Caucasian boys,161g larger for Caucasian girls and 100g smaller for babies of Chinese and South Asian descent, reflecting the changes in the directions expected for each ethnic group. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Kramer&lt;/Author&gt;&lt;Year&gt;<xref rid="TO_LINK" ref-type="bibr" id="IDa619a524-988c-490e-b38c-11f1db8fe156">20</xref>01&lt;/Year&gt;&lt;RecNum&gt;<xref rid="TO_LINK" ref-type="bibr" id="IDff87e3ff-f251-47f7-85ef-22590260772b">20</xref>&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;<xref rid="TO_LINK" ref-type="bibr" id="ID5b130d83-1c39-4277-95c3-62e1a7ed625c">20</xref>&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Kramer, M.&lt;/author&gt;&lt;author&gt;Platt, R.&lt;/author&gt;&lt;author&gt;Wen, S.&lt;/author&gt;&lt;author&gt;Joseph, KS.&lt;/author&gt;&lt;author&gt;Allen, A.&lt;/author&gt;&lt;author&gt;Abrahamowicz, M.&lt;/author&gt;&lt;author&gt;Blondel, B.&lt;/author&gt;&lt;author&gt;Breart, G.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;A new and improved population-based Canadian reference for birthweight for gestational age&lt;/title&gt;&lt;secondary-title&gt;Pediatrics&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;Pediatrics&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;e35&lt;/pages&gt;&lt;volume&gt;108&lt;/volume&gt;&lt;number&gt;2&lt;/number&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;2001&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(20)(20)   Another British Columbia reference for birthweights 1981 through 1990 for babies of European, Chinese, and South Asian origin, reports comparable or slightly smaller values compared to ours, again likely reflecting secular trends, but these are reported for both sexes combined and thus have limited utility. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Kierans&lt;/Author&gt;&lt;Year&gt;2003&lt;/Year&gt;&lt;RecNum&gt;25&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;25&lt;/rec-number&gt;&lt;ref-type name='Report'&gt;<xref rid="TO_LINK" ref-type="bibr" id="ID91a3c9c4-218d-4c22-b6be-3f0924741cef">27</xref>&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Kierans, W.&lt;/author&gt;&lt;author&gt;Kramer, M.&lt;/author&gt;&lt;author&gt;Wilkins, R.&lt;/author&gt;&lt;author&gt;Liston, R.&lt;/author&gt;&lt;author&gt;Foster, L.&lt;/author&gt;&lt;author&gt;Uh, SH.&lt;/author&gt;&lt;author&gt;Mohamed, J.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Charting birth outcome in British Columbia: Determinants of optimal health and ultimate risk.&lt;/title&gt;&lt;/titles&gt;&lt;pages&gt;90-94&lt;/pages&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;2003&lt;/year&gt;&lt;/dates&gt;&lt;publisher&gt;British Columbia Vital Statistics Agency&lt;/publisher&gt;&lt;isbn&gt;ISBN 0-7726-5040-3&lt;/isbn&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(<xref rid="TO_LINK" ref-type="bibr" id="ID2088b38f-95ca-4965-ba9a-12a93f23d22f">27</xref>)(27) </p>
+        <p>Our study is limited by our inability to report growth standards for babies of less than 37 weeks gestation. Investigators extending our work should be encouraged to identify a population of newborns for whom prematurity appears to be unrelated to factors which affect fetal growth. We are also limited by small numbers in categories formed by stratification on sex and ethnicity. It must be understood, however, that the homogeneity of our sample combined with accurate measurement has improved precision. The dispersion around the mean in our categories of birthweight at two standard deviations is similar to that at the 5th and 95th percentiles in the new Canadian distribution based on all live births. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Kramer&lt;/Author&gt;&lt;Year&gt;<xref rid="TO_LINK" ref-type="bibr" id="ID32ef0217-1d02-45c9-890d-bb44a413ed35">20</xref>01&lt;/Year&gt;&lt;RecNum&gt;<xref rid="TO_LINK" ref-type="bibr" id="ID54cb382a-7a39-4b3b-9034-a186d29c6662">20</xref>&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;<xref rid="TO_LINK" ref-type="bibr" id="ID7c9fe3dd-b716-4205-87cd-7bd2201125a8">20</xref>&lt;/rec-number&gt;&lt;ref-type name="Journal Article"&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Kramer, M.&lt;/author&gt;&lt;author&gt;Platt, R.&lt;/author&gt;&lt;author&gt;Wen, S.&lt;/author&gt;&lt;author&gt;Joseph, KS.&lt;/author&gt;&lt;author&gt;Allen, A.&lt;/author&gt;&lt;author&gt;Abrahamowicz, M.&lt;/author&gt;&lt;author&gt;Blondel, B.&lt;/author&gt;&lt;author&gt;Breart, G.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;A new and improved population-based Canadian reference for birthweight for gestational age&lt;/title&gt;&lt;secondary-title&gt;Pediatrics&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;Pediatrics&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;e35&lt;/pages&gt;&lt;volume&gt;108&lt;/volume&gt;&lt;number&gt;2&lt;/number&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;2001&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(20)(20) </p>
+        <p>Our charts may be used by clinicians to diagnose individual newborns as small or large for gestational age at birth and to determine the need for close observation and follow-up. Misclassification of a healthy, but constitutionally small newborn as growth restricted may invoke unnecessary monitoring, including phlebotomy for repeated measurement of serum glucose and other parameters. Anxiety on the part of the parents as well as over-utilization of scarce nursing and laboratory resources are additional adverse sequelae associated with identification of &#8220;false positives.&#8221; Small babies who are inappropriately classified as normally grown, &#8220;false negatives&#8221;, on the other hand, may be overlooked. In addition, intrauterine growth restriction is a marker for maternal disease or risk behaviours such as hypertension, both pre-existing and gestational, viral infections, use of tobacco and/or illicit drugs, and poor nutritional status. Failure to diagnose growth restricted infants may be therefore be a missed opportunity to intervene on behalf of the mother and future pregnancies. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Creasy&lt;/Author&gt;&lt;Year&gt;<xref rid="TO_LINK" ref-type="bibr" id="IDf2b8fea4-7273-4a7f-98d0-f6337261b388">2</xref>004&lt;/Year&gt;&lt;RecNum&gt;<xref rid="TO_LINK" ref-type="bibr" id="IDde926e8b-ae47-4e7d-ae39-d5a2736ff378">2</xref>6&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;<xref rid="TO_LINK" ref-type="bibr" id="ID071d109a-021d-4c9e-b991-9bf3730415ab">2</xref>6&lt;/rec-number&gt;&lt;ref-type name='Edited Book'&gt;28&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Creasy, R.&lt;/author&gt;&lt;author&gt;Resnick, R.&lt;/author&gt;&lt;author&gt;Iams, J.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Maternal Fetal Medicine&lt;/title&gt;&lt;/titles&gt;&lt;pages&gt;495-512&lt;/pages&gt;&lt;edition&gt;5th&lt;/edition&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;2004&lt;/year&gt;&lt;/dates&gt;&lt;pub-location&gt;Philadelphia&lt;/pub-location&gt;&lt;publisher&gt;Saunders&lt;/publisher&gt;&lt;isbn&gt;0-7216-0004-2&lt;/isbn&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(2)(2)  Failure to identify undergrown newborns may also preclude opportunities to identify and intervene early with children at risk for disability.</p>
+        <p>Our data should not be interpreted as &#8220;explaining&#8221; the determinants of restricted fetal growth as race/ethnicity may be proxy measures of diet, activity, stress, education, socio-economic status, access to health care and other factors. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Vangen&lt;/Author&gt;&lt;Year&gt;2002&lt;/Year&gt;&lt;RecNum&gt;38&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;38&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Vangen, S.&lt;/author&gt;&lt;author&gt;Stoltenberg, C.&lt;/author&gt;&lt;author&gt;Skjaerven, R.&lt;/author&gt;&lt;author&gt;Magnus, P.&lt;/author&gt;&lt;author&gt;Harris, J.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;The heavier the better? Birthweight and perinatal mortality in different ethnic groups&lt;/title&gt;&lt;secondary-title&gt;Int J Epidemiol&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;Int J Epidemiol&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;654-660&lt;/pages&gt;&lt;volume&gt;31&lt;/volume&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;2002&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;Cite&gt;&lt;Author&gt;Alexander&lt;/Author&gt;&lt;Year&gt;1992&lt;/Year&gt;&lt;RecNum&gt;30&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;30&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Alexander, G.&lt;/author&gt;&lt;author&gt;DeCaunes, F.&lt;/author&gt;&lt;author&gt;Hulsey, T.&lt;/author&gt;&lt;author&gt;Tompkins, M.&lt;/author&gt;&lt;author&gt;Allen, M.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Ethnic variation in postnatal assessments of gestational age: a reappraisal&lt;/title&gt;&lt;secondary-title&gt;Paediatr Perinat Epidemiol&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;Paediatr Perinat Epidemiol&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;423-433&lt;/pages&gt;&lt;volume&gt;6&lt;/volume&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;1992&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(<xref rid="TO_LINK" ref-type="bibr" id="ID5a323c42-18bb-4dc3-aae1-c57af7d4b484">28, 29</xref>)(<xref rid="TO_LINK" ref-type="bibr" id="IDe1dd27b4-114f-410a-8db6-63e23be2a790">28, 29</xref>) One group has reported interactions between race and maternal variables such as education, marital status, and access to prenatal care when studying determinants of gestational-age specific birthweight. ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Wang&lt;/Author&gt;&lt;Year&gt;1994&lt;/Year&gt;&lt;RecNum&gt;40&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;40&lt;/rec-number&gt;&lt;ref-type name='Journal Article'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Wang, Xiaobin.&lt;/author&gt;&lt;author&gt;Guyer, B.&lt;/author&gt;&lt;author&gt;Paige, D.&lt;/author&gt;&lt;/authors&gt;&lt;/contributors&gt;&lt;titles&gt;&lt;title&gt;Differences in Gestational Age-Specific Birthweight among Chinese, Japanese, and White Americans&lt;/title&gt;&lt;secondary-title&gt;Int J Epidemiol&lt;/secondary-title&gt;&lt;/titles&gt;&lt;periodical&gt;&lt;full-title&gt;Int J Epidemiol&lt;/full-title&gt;&lt;/periodical&gt;&lt;pages&gt;119-127&lt;/pages&gt;&lt;volume&gt;23&lt;/volume&gt;&lt;number&gt;1&lt;/number&gt;&lt;keywords&gt;&lt;keyword&gt;growth&lt;/keyword&gt;&lt;/keywords&gt;&lt;dates&gt;&lt;year&gt;1994&lt;/year&gt;&lt;/dates&gt;&lt;urls&gt;&lt;/urls&gt;&lt;/record&gt;&lt;/Cite&gt;&lt;/EndNote&gt;(<xref rid="TO_LINK" ref-type="bibr" id="ID437f0960-3b9b-4ec0-826c-8fb42b6bf51f">26</xref>)(<xref rid="TO_LINK" ref-type="bibr" id="ID74f75025-45c2-4d1d-8ee8-b9c6a3e19f6a">26</xref>) Ongoing efforts to elucidate the determinants of fetal growth among racial/ethnic groups should include evaluation of these parameters.  The current study provides contemporary charts to assist the clinician in accurately classifying babies of Caucasian, Chinese or South Asian descent at term gestations as growth restricted or large for gestational age. </p>
+        <table-wrap specific-use="rules" id="ID8b7c59ab-c44a-4e7a-9479-afbb598d66f5" position="float" orientation="portrait">
+          <label>Table 1</label>
+          <caption>
+            <p>Distribution of Study Subjects by Gestational Age at Birth and Ethnicity</p>
+          </caption>
+          <table>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1">
+                <sec>
+                  <title/>
+                  <p>Gestational Age At Birth In Completed Weeks</p>
+                </sec>
+              </td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Parents</td>
+              <td rowspan="1" colspan="1">37</td>
+              <td rowspan="1" colspan="1">38</td>
+              <td rowspan="1" colspan="1">39</td>
+              <td rowspan="1" colspan="1">40</td>
+              <td rowspan="1" colspan="1">41</td>
+              <td rowspan="1" colspan="1">Total</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"> Both Caucasian</td>
+              <td rowspan="1" colspan="1">100</td>
+              <td rowspan="1" colspan="1">240</td>
+              <td rowspan="1" colspan="1">282</td>
+              <td rowspan="1" colspan="1">343</td>
+              <td rowspan="1" colspan="1">230</td>
+              <td rowspan="1" colspan="1">1195</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"> Both Chinese</td>
+              <td rowspan="1" colspan="1">95</td>
+              <td rowspan="1" colspan="1">241</td>
+              <td rowspan="1" colspan="1">295</td>
+              <td rowspan="1" colspan="1">228</td>
+              <td rowspan="1" colspan="1">116</td>
+              <td rowspan="1" colspan="1">975</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"> Both Indocanadian</td>
+              <td rowspan="1" colspan="1">43</td>
+              <td rowspan="1" colspan="1">106</td>
+              <td rowspan="1" colspan="1">136</td>
+              <td rowspan="1" colspan="1">155</td>
+              <td rowspan="1" colspan="1">85</td>
+              <td rowspan="1" colspan="1">525</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Total</td>
+              <td rowspan="1" colspan="1">238</td>
+              <td rowspan="1" colspan="1">587</td>
+              <td rowspan="1" colspan="1">713</td>
+              <td rowspan="1" colspan="1">926</td>
+              <td rowspan="1" colspan="1">431</td>
+              <td rowspan="1" colspan="1">2695</td>
+            </tr>
+          </table>
+        </table-wrap>
+        <disp-quote>
+          <p>Table 2. Means and standard deviations for Birthweight, Length and Head Circumference by Sex, Gestational Age at Birth and Ethnicity</p>
+        </disp-quote>
+        <table-wrap specific-use="rules" position="float" orientation="portrait">
+          <table>
+            <tr>
+              <td rowspan="1" colspan="1">
+                <break/>
+                <underline>Boys</underline>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1">Caucasian</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1">Chinese</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1">South Asian</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Weeks</td>
+              <td rowspan="1" colspan="1">n</td>
+              <td rowspan="1" colspan="1">Weight</td>
+              <td rowspan="1" colspan="1">Length</td>
+              <td rowspan="1" colspan="1">HC*</td>
+              <td rowspan="1" colspan="1">n</td>
+              <td rowspan="1" colspan="1">Weight</td>
+              <td rowspan="1" colspan="1">Length</td>
+              <td rowspan="1" colspan="1">HC</td>
+              <td rowspan="1" colspan="1">n</td>
+              <td rowspan="1" colspan="1">Weight</td>
+              <td rowspan="1" colspan="1">Length</td>
+              <td rowspan="1" colspan="1">HC</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">37</td>
+              <td rowspan="1" colspan="1">52</td>
+              <td rowspan="1" colspan="1">3336.4<underline>+</underline>434.3</td>
+              <td rowspan="1" colspan="1">49.4 <underline>+</underline>2.0</td>
+              <td rowspan="1" colspan="1">34.5 <underline>+</underline>1.1</td>
+              <td rowspan="1" colspan="1">46</td>
+              <td rowspan="1" colspan="1">3119<underline>+</underline>361.9</td>
+              <td rowspan="1" colspan="1">48.3<underline>+</underline>1.6</td>
+              <td rowspan="1" colspan="1">33.9<underline>+</underline>1.2</td>
+              <td rowspan="1" colspan="1">26</td>
+              <td rowspan="1" colspan="1">3060<underline>+</underline>346.1</td>
+              <td rowspan="1" colspan="1">48.7<underline>+</underline>3.9</td>
+              <td rowspan="1" colspan="1">34.6<underline>+</underline>3.0</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">38</td>
+              <td rowspan="1" colspan="1">121</td>
+              <td rowspan="1" colspan="1">3359.4<underline>+</underline>416.3</td>
+              <td rowspan="1" colspan="1">49.4<underline>+</underline>1.7</td>
+              <td rowspan="1" colspan="1">34.7<underline>+</underline>1.1</td>
+              <td rowspan="1" colspan="1">133</td>
+              <td rowspan="1" colspan="1">3209.5<underline>+</underline>356.5</td>
+              <td rowspan="1" colspan="1">48.4<underline>+</underline>2.0</td>
+              <td rowspan="1" colspan="1">34.3<underline>+</underline>1.7</td>
+              <td rowspan="1" colspan="1">56</td>
+              <td rowspan="1" colspan="1">3201.8<underline>+</underline>397.8</td>
+              <td rowspan="1" colspan="1">50.2<underline>+</underline>2.2</td>
+              <td rowspan="1" colspan="1">34.3<underline>+</underline>1.4</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">39</td>
+              <td rowspan="1" colspan="1">124</td>
+              <td rowspan="1" colspan="1">3586.0<underline>+</underline>460.3</td>
+              <td rowspan="1" colspan="1">50.47<underline>+</underline>1.9</td>
+              <td rowspan="1" colspan="1">35.2<underline>+</underline>1.1</td>
+              <td rowspan="1" colspan="1">141</td>
+              <td rowspan="1" colspan="1">3359.0<underline>+</underline>390.4</td>
+              <td rowspan="1" colspan="1">49.4<underline>+</underline>2.0</td>
+              <td rowspan="1" colspan="1">34.8<underline>+</underline>1.6</td>
+              <td rowspan="1" colspan="1">70</td>
+              <td rowspan="1" colspan="1">3361.2<underline>+</underline>383.5</td>
+              <td rowspan="1" colspan="1">50.2<underline>+</underline>1.7</td>
+              <td rowspan="1" colspan="1">34.6<underline>+</underline>1.1</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">40</td>
+              <td rowspan="1" colspan="1">171</td>
+              <td rowspan="1" colspan="1">3687.6<underline>+</underline>410.5</td>
+              <td rowspan="1" colspan="1">50.8<underline>+</underline>1.7</td>
+              <td rowspan="1" colspan="1">35.4<underline>+</underline>1.0</td>
+              <td rowspan="1" colspan="1">101</td>
+              <td rowspan="1" colspan="1">3500.4<underline>+</underline>343.5</td>
+              <td rowspan="1" colspan="1">50.1<underline>+</underline>1.6</td>
+              <td rowspan="1" colspan="1">34.9<underline>+</underline>1.0</td>
+              <td rowspan="1" colspan="1">71</td>
+              <td rowspan="1" colspan="1">3452.5<underline>+</underline>399.1</td>
+              <td rowspan="1" colspan="1">50.4<underline>+</underline>2.5</td>
+              <td rowspan="1" colspan="1">35.2<underline>+</underline>2.3</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">41</td>
+              <td rowspan="1" colspan="1">124</td>
+              <td rowspan="1" colspan="1">3877.1<underline>+</underline>384.4</td>
+              <td rowspan="1" colspan="1">51.4<underline>+</underline>2.2</td>
+              <td rowspan="1" colspan="1">35.9<underline>+</underline>1.6</td>
+              <td rowspan="1" colspan="1">60</td>
+              <td rowspan="1" colspan="1">3724.1<underline>+</underline>522.3</td>
+              <td rowspan="1" colspan="1">50.9<underline>+</underline>2.1</td>
+              <td rowspan="1" colspan="1">35.6<underline>+</underline>1.1</td>
+              <td rowspan="1" colspan="1">52</td>
+              <td rowspan="1" colspan="1">3674.7<underline>+</underline>363.1</td>
+              <td rowspan="1" colspan="1">51.4<underline>+</underline>1.5</td>
+              <td rowspan="1" colspan="1">35.3<underline>+</underline>1.0</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">
+                <underline>Girls</underline>
+              </td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">37</td>
+              <td rowspan="1" colspan="1">48</td>
+              <td rowspan="1" colspan="1">3050.7<underline>+</underline>414.1</td>
+              <td rowspan="1" colspan="1">47.4<underline>+</underline>2.5</td>
+              <td rowspan="1" colspan="1">33.8<underline>+</underline>2.3</td>
+              <td rowspan="1" colspan="1">49</td>
+              <td rowspan="1" colspan="1">3048.4<underline>+</underline>402.9</td>
+              <td rowspan="1" colspan="1">47.6<underline>+</underline>1.7</td>
+              <td rowspan="1" colspan="1">33.4<underline>+</underline>1.2</td>
+              <td rowspan="1" colspan="1">17</td>
+              <td rowspan="1" colspan="1">2956.8<underline>+</underline>436.3</td>
+              <td rowspan="1" colspan="1">48.2<underline>+</underline>2.2</td>
+              <td rowspan="1" colspan="1">33.0<underline>+</underline>1.2</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">38</td>
+              <td rowspan="1" colspan="1">118</td>
+              <td rowspan="1" colspan="1">3293.5<underline>+</underline>423.3</td>
+              <td rowspan="1" colspan="1">48.6<underline>+</underline>1.8</td>
+              <td rowspan="1" colspan="1">34.0<underline>+</underline>1.1</td>
+              <td rowspan="1" colspan="1">105</td>
+              <td rowspan="1" colspan="1">3190.2<underline>+</underline>377.1</td>
+              <td rowspan="1" colspan="1">48.2<underline>+</underline>1.6</td>
+              <td rowspan="1" colspan="1">33.8<underline>+</underline>1.0</td>
+              <td rowspan="1" colspan="1">49</td>
+              <td rowspan="1" colspan="1">3118.4<underline>+</underline>371.4</td>
+              <td rowspan="1" colspan="1">48.8<underline>+</underline>1.8</td>
+              <td rowspan="1" colspan="1">33.7<underline>+</underline>1.2</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">39</td>
+              <td rowspan="1" colspan="1">154</td>
+              <td rowspan="1" colspan="1">3455.8<underline>+</underline>434.0</td>
+              <td rowspan="1" colspan="1">49.4<underline>+</underline>1.7</td>
+              <td rowspan="1" colspan="1">34.3<underline>+</underline>1.1</td>
+              <td rowspan="1" colspan="1">151</td>
+              <td rowspan="1" colspan="1">3271.0<underline>+</underline>424.1</td>
+              <td rowspan="1" colspan="1">48.7<underline>+</underline>1.7</td>
+              <td rowspan="1" colspan="1">34.1<underline>+</underline>1.1</td>
+              <td rowspan="1" colspan="1">64</td>
+              <td rowspan="1" colspan="1">3311.7<underline>+</underline>458.5</td>
+              <td rowspan="1" colspan="1">49.5<underline>+</underline>1.9</td>
+              <td rowspan="1" colspan="1">34.2<underline>+</underline>1.2</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">40</td>
+              <td rowspan="1" colspan="1">167</td>
+              <td rowspan="1" colspan="1">3639.47<underline>+</underline>458.2</td>
+              <td rowspan="1" colspan="1">50.2<underline>+</underline>1.8</td>
+              <td rowspan="1" colspan="1">34.7<underline>+</underline>1.1</td>
+              <td rowspan="1" colspan="1">126</td>
+              <td rowspan="1" colspan="1">3373.3<underline>+</underline>362.3</td>
+              <td rowspan="1" colspan="1">49.2<underline>+</underline>2.2</td>
+              <td rowspan="1" colspan="1">34.3<underline>+</underline>1.5</td>
+              <td rowspan="1" colspan="1">83</td>
+              <td rowspan="1" colspan="1">3376.1<underline>+</underline>389.4</td>
+              <td rowspan="1" colspan="1">50.0<underline>+</underline>2.6</td>
+              <td rowspan="1" colspan="1">34.5<underline>+</underline>2.0</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">41</td>
+              <td rowspan="1" colspan="1">104</td>
+              <td rowspan="1" colspan="1">3696.8<underline>+</underline>448.0</td>
+              <td rowspan="1" colspan="1">50.5<underline>+</underline>1.6</td>
+              <td rowspan="1" colspan="1">35.0<underline>+</underline>1.1</td>
+              <td rowspan="1" colspan="1">56</td>
+              <td rowspan="1" colspan="1">3451.0<underline>+</underline>344.5</td>
+              <td rowspan="1" colspan="1">49.4<underline>+</underline>2.7</td>
+              <td rowspan="1" colspan="1">34.7<underline>+</underline>2.0</td>
+              <td rowspan="1" colspan="1">33</td>
+              <td rowspan="1" colspan="1">3411.4<underline>+</underline>401.6</td>
+              <td rowspan="1" colspan="1">50.6<underline>+</underline>1.6</td>
+              <td rowspan="1" colspan="1">34.7<underline>+</underline>1.1</td>
+            </tr>
+          </table>
+        </table-wrap>
+        <p>* Head circumference</p>
+        <p>Figure 1. Birthweight Distribution By Gestational Age and Ethnicity</p>
+        <fig position="float" orientation="portrait">
+          <p>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image14.png" position="float" orientation="portrait" xlink:type="simple"/>
+          </p>
+        </fig>
+        <p>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image15.png" id="IDe3ab1eb6-d30d-456d-8d44-f364a668ed74" position="float" orientation="portrait" xlink:type="simple">
+            <label>Figure 2</label>
+            <caption>
+              <p>Birth Length Distribution By Gestational Age and Ethnicity</p>
+            </caption>
+          </graphic>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image15.png" position="float" orientation="portrait" xlink:type="simple"/>
+        </p>
+        <fig position="float" orientation="portrait">
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image16.png" id="ID803d9e8a-81d7-41c7-adea-961cac9bad10" position="float" orientation="portrait" xlink:type="simple">
+            <label>Figure 3</label>
+            <caption>
+              <p>Head Circumference at Birth by Gestational Age and Ethnicity</p>
+            </caption>
+          </graphic>
+        </fig>
+        <fig position="float" orientation="portrait">
+          <p>
+            <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image17.png" position="float" orientation="portrait" xlink:type="simple"/>
+          </p>
+        </fig>
+        <p>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image18.png" id="ID84d8c9ce-9550-4531-a233-c91bacd1ab0b" position="float" orientation="portrait" xlink:type="simple">
+            <label>Figure 4</label>
+            <caption>
+              <p>Caucasian Girls</p>
+            </caption>
+          </graphic>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image18.png" position="float" orientation="portrait" xlink:type="simple"/>
+        </p>
+        <p>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image19.png" position="float" orientation="portrait" xlink:type="simple"/>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image19.png" position="float" orientation="portrait" xlink:type="simple"/>
+        </p>
+        <p>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image20.png" id="IDf924ef2b-f976-46ba-bbb6-43bad1233eab" position="float" orientation="portrait" xlink:type="simple">
+            <label>Figure 5</label>
+            <caption>
+              <p>Caucasian Boys</p>
+            </caption>
+          </graphic>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image20.png" position="float" orientation="portrait" xlink:type="simple"/>
+        </p>
+        <p>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image21.png" position="float" orientation="portrait" xlink:type="simple"/>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image21.png" position="float" orientation="portrait" xlink:type="simple"/>
+        </p>
+        <p>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image22.png" position="float" orientation="portrait" xlink:type="simple"/>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image22.png" position="float" orientation="portrait" xlink:type="simple"/>
+        </p>
+        <p>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image23.png" id="IDe1047409-a991-45b5-a978-be0ea444bed2" position="float" orientation="portrait" xlink:type="simple">
+            <label>Figure 6</label>
+            <caption>
+              <p>Chinese Girls</p>
+            </caption>
+          </graphic>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image23.png" position="float" orientation="portrait" xlink:type="simple"/>
+        </p>
+        <p>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image24.png" position="float" orientation="portrait" xlink:type="simple"/>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image24.png" position="float" orientation="portrait" xlink:type="simple"/>
+        </p>
+        <p>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image25.png" position="float" orientation="portrait" xlink:type="simple"/>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image25.png" position="float" orientation="portrait" xlink:type="simple"/>
+        </p>
+        <p>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image26.png" id="IDbede80f5-ec33-473c-8f26-bebf5f1abd22" position="float" orientation="portrait" xlink:type="simple">
+            <label>Figure 7</label>
+            <caption>
+              <p>Chinese Boys</p>
+            </caption>
+          </graphic>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image26.png" position="float" orientation="portrait" xlink:type="simple"/>
+        </p>
+        <p>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image27.png" position="float" orientation="portrait" xlink:type="simple"/>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image27.png" position="float" orientation="portrait" xlink:type="simple"/>
+        </p>
+        <p>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image28.png" position="float" orientation="portrait" xlink:type="simple"/>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image28.png" position="float" orientation="portrait" xlink:type="simple"/>
+        </p>
+        <p>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image29.png" id="ID2e8f0f19-86c3-4cdf-9ae1-c31f39d1ccf8" position="float" orientation="portrait" xlink:type="simple">
+            <label>Figure 8</label>
+            <caption>
+              <p>South Asian Girls</p>
+            </caption>
+          </graphic>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image29.png" position="float" orientation="portrait" xlink:type="simple"/>
+        </p>
+        <p>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image30.png" position="float" orientation="portrait" xlink:type="simple"/>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image30.png" position="float" orientation="portrait" xlink:type="simple"/>
+        </p>
+        <p>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image31.png" position="float" orientation="portrait" xlink:type="simple"/>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image31.png" position="float" orientation="portrait" xlink:type="simple"/>
+        </p>
+        <p>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image32.png" id="IDc9efc92a-3ed4-4039-95da-b0ddeb040b66" position="float" orientation="portrait" xlink:type="simple">
+            <label>Figure 9</label>
+            <caption>
+              <p>South Asian Boys</p>
+            </caption>
+          </graphic>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image32.png" position="float" orientation="portrait" xlink:type="simple"/>
+        </p>
+        <p>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image33.png" position="float" orientation="portrait" xlink:type="simple"/>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image33.png" position="float" orientation="portrait" xlink:type="simple"/>
+        </p>
+        <p>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image34.png" position="float" orientation="portrait" xlink:type="simple"/>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image34.png" position="float" orientation="portrait" xlink:type="simple"/>
+        </p>
+        <p>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image35.png" position="float" orientation="portrait" xlink:type="simple"/>
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="media/image35.png" position="float" orientation="portrait" xlink:type="simple"/>
+        </p>
+      </sec>
+      <sec>
+        <title>REFERENCES </title>
+        <disp-quote>
+          <p>2. Creasy R, Resnick R, Iams J, editors. Maternal Fetal Medicine. 5th ed. Philadelphia: Saunders; 2004.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>3. Brodsky D, Christow H. Current concepts in intrauterine growth retardation. J Intensive Care Med 2004;19(<xref rid="TO_LINK" ref-type="bibr" id="ID28212445-9a1d-4f7f-bd01-78d59da82717">6</xref>):307-319.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>4. Manning F. Intrauterine Growth Retardation. In: Fetal Medicine: Principles and Practice. Norwalk, Conn.: Appleton &amp; Lange; 1995. p. 312.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>5. Low J, Handley-Derry M, Burke S, Peters R, Pater E, Killen H, et al. Association of intrauterine fetal growth retardation and learning deficits at age 9 to 11 years. Am J Obstet Gynecol 1992;167:1499-505.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>6. Indredavik M, Vik T, Heyerdahl S, Kulseng S, Fayers P, Brubakk A. Psychiatric symptoms and disorders in adolescents with low birthweight. Child Health Care Dev 2005;3<xref rid="TO_LINK" ref-type="bibr" id="ID09590720-76ae-47f6-a4a9-8aa49c377e25">1</xref>(<xref rid="TO_LINK" ref-type="bibr" id="ID29c4e9ce-2255-4d8b-ab5b-9c40bc7048dd">1</xref>):121-125.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>7. Veening M, Van Weissenbruch M, Delemarre-Van De Wall H. Glucose tolerance, insulin sensitivity, and insulin secretion in children born small for gestational age. J Clin Endocrinol Metab 2002;87:4657-61.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>8. Gillman M, Rich-Edwards J. The fetal origins of adult disease: from sceptic to convert. Paediatr Perinat Epidemiol 2000;14:192-193.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>9. Stein A, Susser M. Intrauterine growth retardation: Epidemiological Issues and Public Health Significance. Semin Perinatol 1984;8:5-14.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>10. Cheng M, Chew P, Ratnam S. Birth-weight distribution of Singapore Chinese, Malay, and Indian infants from 34 weeks to 42 weeks gestation. Obstet Gynecol 1969;9:153-161.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>11. Lin C, Emanuel I. A comparison of American and Chinese intrauterine growth standards. Am J Epidemiol 1972;9<xref rid="TO_LINK" ref-type="bibr" id="ID2c0ea080-3b75-4076-ba82-9eaddd9cddf1">5</xref>(<xref rid="TO_LINK" ref-type="bibr" id="IDbf02db7d-d8a9-405d-892e-3c07ccf3f03c">5</xref>):418-430.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>12. Wen S, Kramer M, Usher M. Comparison of birth weight distributions between Chinese and Caucasian infants. A J Epidemiol 1995;1995(<xref rid="TO_LINK" ref-type="bibr" id="ID2a18592b-97ed-4784-8d88-42da480dbe09">141</xref>):1177-87.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>13. Statistics Canada. Census of Population, Ethnic Origin. In; 2001.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>14. Kramer M, Seguin L, Lydon J, Goulet L. Socio-economic disparities in pregnancy outcome: why do the poor fare so poorly? Paediatr Perinat Epidemiol 2000;14:194-210.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>15. Grzybowski S, Nout R, Kirkham C. Maternity care calendar wheel: Improved obstetric wheel developed in British Columbia. Can Fam Physician 1999;45:661-666.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>1<xref rid="TO_LINK" ref-type="bibr" id="IDb1556f7c-7a2d-4c32-b213-77070c26933c">6</xref>. Synnes A, LIng E, Whitfield M, MacKinnon M, Lopes L, Wong G, et al. Perinatal outcomes of a large cohort of extremely low gestational age infants. J Pediatr 1994;125(<xref rid="TO_LINK" ref-type="bibr" id="ID78f234f0-69e0-402d-8493-c84087a4aa26">6</xref>):952-60.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>17. S-PLUS. In. 6.1 ed: Mathsoft Inc.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>18. Everitt B, S. R-H. Analyzing Medical Data Using S-PLUS. New York: Springer; 2001.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>19. Usher M, McLean F. Intrauterine growth of live-born Caucasian infants at sea level: Standards obtained form measurements in 7 dimensions of infants born between 25 and 44 weeks of gestaion. J Pediatr 1969;74:901-910.</p>
+        </disp-quote>
+        <disp-quote>
+          <p><xref rid="TO_LINK" ref-type="bibr" id="IDa86bae54-8138-440a-8fca-aff6671c9731">2</xref>0. Kramer M, Platt R, Wen S, Joseph K, Allen A, Abrahamowicz M, et al. A new and improved population-based Canadian reference for birthweight for gestational age. Pediatrics <xref rid="TO_LINK" ref-type="bibr" id="IDe44c9641-8f4f-4c2c-b227-5326943ed444">2</xref>001;108(2):e35.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>21. Blidner I, McClemont S, Anderson G, Sinclair J. Size-at-birth standard for an urban Canadian population. Can Med Assoc J 1984;130:133-140.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>22. Wilcox M, Gardosi J, Mongelli M, Ray C, Johnson I. Birth Weight from Pregnancies Dated by Ultrasonography in a Multicultural British Population. Br Med J 1993;307(<xref rid="TO_LINK" ref-type="bibr" id="ID099b49e0-3ea9-4ba3-b996-3ae83cb190bc">6904</xref>):588-91.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>23. Kramer M, Morin I, Yang H, Platt R, Usher R, McNamara H, et al. Why are babies getting bigger? Temporal trends in fetal growth and its determinants. J Pediatr 2002;1<xref rid="TO_LINK" ref-type="bibr" id="ID8784b287-1eba-4f12-9929-0a3854a6bc9f">4</xref>1(<xref rid="TO_LINK" ref-type="bibr" id="IDed0ecbe0-9b62-40a2-a712-d8f563393000">4</xref>):538-542.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>24. Wen S, Kramer M, Platt R, Demissie K, Joseph K, Liu S, et al. Secular trends of fetal growth in Canada, 1981-1997. Paediatr Perinat Epidemiol 2003;17:347-354.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>2<xref rid="TO_LINK" ref-type="bibr" id="IDd96ace85-61a8-487f-9e9d-c3d90eaae5b8">5</xref>. Yip R, Li Z, Chong W-H. Race and birth weight: The Chinese example. Pediatrics 1991;87(<xref rid="TO_LINK" ref-type="bibr" id="IDc2412a7c-31cf-4986-a223-8e4cd5260aaa">5</xref>):688-693.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>26. Wang X, Guyer B, Paige D. Differences in Gestational Age-Specific Birthweight among Chinese, Japanese, and White Americans. Int J Epidemiol <xref rid="TO_LINK" ref-type="bibr" id="IDbd0bbf92-f633-496b-a3df-a47e558927d3">1</xref>994;23(<xref rid="TO_LINK" ref-type="bibr" id="ID11a78097-96e6-41f6-9480-484353585f7c">1</xref>):119-127.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>27. Kierans W, Kramer M, Wilkins R, Liston R, Foster L, Uh S, et al. Charting birth outcome in British Columbia: Determinants of optimal health and ultimate risk.: British Columbia Vital Statistics Agency; 2003. Report No.: ISBN 0-7726-5040-3.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>28. Vangen S, Stoltenberg C, Skjaerven R, Magnus P, Harris J. The heavier the better? Birthweight and perinatal mortality in different ethnic groups. Int J Epidemiol 2002;31:654-660.</p>
+        </disp-quote>
+        <disp-quote>
+          <p>29. Alexander G, DeCaunes F, Hulsey T, Tompkins M, Allen M. Ethnic variation in postnatal assessments of gestational age: a reappraisal. Paediatr Perinat Epidemiol 1992;6:423-433.</p>
+        </disp-quote>
+      </sec>
+    </sec>
+  </body>
+  <back/>
+</article>

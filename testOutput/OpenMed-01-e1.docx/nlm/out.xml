@@ -1,0 +1,105 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">The Journal Title</journal-id>
+      <issn pub-type="epub">0000-000X</issn>
+      <publisher>
+        <publisher-name>The Publisher Name</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1000/123456</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Sample Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A Sample Article Title</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Eve</surname>
+            <given-names>Martin Paul</given-names>
+          </name>
+          <xref ref-type="aff" rid="lincoln"/>
+        </contrib>
+        <aff id="lincoln">
+          <institution>University of Lincoln</institution>
+        </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <year>2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <issue>1</issue>
+      <fpage>1</fpage>
+      <lpage>2</lpage>
+      <permissions>
+        <copyright-statement>Copyright &#169; 2014, Martin Paul Eve</copyright-statement>
+        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The citation of this article must include: the name(s) of the authors, the name of the journal, the full URL of the article (in a hyperlinked format if distributed online) and the DOI number of the article.</license-p>
+        </license>
+      </permissions>
+      <self-uri>https://www.martineve.com/</self-uri>
+      <abstract>
+        <p>This is a sample abstract that forms part of the metadataSample.xml file in meTypeset.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Why Open Medicine?</title>
+      <sec>
+        <title>James Maskalyk, MD</title>
+        <p>For the Editors of Open Medicine</p>
+        <p>James Maskalyk, Assistant Professor in the Division of Emergency Medicine, Faculty of Medicine, University of Toronto, is currently posted in Abyei, Sudan, with M&#233;decins San Fronti&#232;res. You can read his blog at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.msf.ca/blogs/JamesM.php" ext-link-type="uri" xlink:type="simple">www.msf.ca/blogs/JamesM.php</ext-link>.</p>
+        <p>It is in the nature of medicine, as science and art, to improve itself.  Medical journals are often the sharp point of this evolution.  It is on their pages that many of us will, one day, first learn how to apply a new treatment for cancer or debate the success of a vaccine for AIDS. With their powerful tools of editorial and peer review, journals make possible physicians&#8217; wish to be better stewards of their patients&#8217; health. </p>
+        <p>	To attain their true worth, medical journals need to place the knowledge on their pages into as many capable hands as possible. In the past, this opportunity was limited mainly to those with a university library close by. Now, because of the Internet, one simply needs to be near a telephone line. The capacity of medical journals to disseminate knowledge has never been greater. </p>
+        <p>	Unfortunately, physicians attempting to answer a clinical question are faced with two unappealing options: to navigate a sea of unedited pages of varying quality, or to pay for access to more carefully reviewed scholarly information. It seems an anathema to the spirit of medical research that, largely for economic reasons, the information it produces remains hidden from many potential users. Access is limited not only for health professionals in poorer countries, but also for health care providers in wealthy countries (most of whom do not have &#8220;free&#8221; access to information unless they work in universities), and for patients, who deserve the opportunity to become informed about research that affects their lives. The transformation of research findings and discussion of the results &#8212; the application of knowledge &#8212; is curtailed. Just as importantly, the debate over its merit is stifled before it can properly begin.  </p>
+        <p>	There is a necessary cost to medical publishing, the publisher&#8217;s pursuit of profit notwithstanding. The reviewing and editing processes that help to ensure the reliability of information is intensive, requiring considerable resources. However, the costs of editing and peer review, where possible, should not be borne by the end user, but should be shared by a broader group in society who acknowledge that the utility of information lies in its application and that the health of individuals and populations is a common good. There is increasing recognition that the costs of publishing the results of medical research should be built into funding grants as an integral part of the cost of research: without dissemination, knowledge cannot truly be said to exist.</p>
+        <p> 	Traditional modes of medical journal publishing can also exact a price in other, less noticeable, ways. There is clear evidence of publication bias in medical journals predicated on financial conflicts,<xref ref-type="fn" rid="bibd2e59"/>geography<xref ref-type="fn" rid="bibd2e66"/> and poverty.<xref ref-type="fn" rid="bibd2e73"/> There are also several important instances where information and debate have been stifled because of private and political concerns<xref ref-type="fn" rid="bibd2e80"/> over making knowledge public. To an important degree, the impetus to launch <italic>Open Medicine</italic> arose from widespread dismay in the Canadian and international medical community over one such  attempt to suppress open discussion and restrict the scope of health care discourse.<xref ref-type="fn" rid="bibd2e97"/> Further, too much of the revenue that sustains medical journals comes from pharmaceutical advertising that attempts to influence physicians into making decisions based on brand recognition rather than on discerning scholarship.<xref ref-type="fn" rid="bibd2e108"/>
+            </p>
+        <p>	Medical knowledge should be public and free from undeclared influence. When possible, it should be free for those who apply it. Since people&#8217;s lives depend on it, that knowledge must be filtered several times before it is ready to use. Studies need to be peer reviewed, to have their statistics analyzed, their content edited, then copy edited, then published quickly for as wide an audience as possible. The prospect of having a high-quality source of information that held true to these principles but was also free and globally accessible was impossible to imagine 20 years ago. Paper and postage are simply too expensive. The landscape is different today.<xref ref-type="fn" rid="bibd2e116"/> An ideal medical journal &#8212; a truly open one &#8212; is not only within our sight, it is within our reach.</p>
+        <p><italic>Open Medicine</italic> is a new general medical journal. It will be paperless and available without charge or any other barrier to access online. We will publish peer-reviewed science and analysis as well as clinical articles. We will provide a forum for informed and inclusive debates on medicine and its application. <italic>Open Medicine</italic> will be independent of any commercial publisher or association ownership &#8212; it will be &#8220;owned&#8221; by all who read and contribute to it &#8212; and will take no advertisements from companies selling pharmaceuticals or medical devices. We will rely on voluntarism, donations and ethical advertising. Any revenue will be used to improve our ability to meet the needs of our readers and contributors.</p>
+        <p>	This first edition of <italic>Open Medicine</italic> offers carefully reviewed and edited articles for discovery and discussion. In the future, it is our intention to make the journal not only open, but also collaborative. As an example, the editors considered the merits of publishing peer reviews along with accepted papers, and began reviewing the published evidence on the effectiveness of open peer review. Before reaching consensus, we realized that this is a discussion our readers and contributors should actively participate in. As we developed <italic>Open Medicine</italic>, we made extensive use of a wiki site and quickly realized how well it captured our combined efforts. We will continue to experiment with its use as an editing tool, and are discussing ways to add a wiki to our public site. </p>
+        <p>	Information technology is evolving at a blistering pace. To try to keep step with its potential to influence medical science and practice, Open Medicine is hosting a blog <bold>[Tarek: Please hyperlink the word &#8220;blog&#8221; to Dean&#8217;s blog page.] </bold>on the topic. To manage it, we are using an open-source program. So, too, for our manuscript management system. The <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.opensource.org/" ext-link-type="uri" xlink:type="simple">Open Source Initiative</ext-link> was developed at the close of the millennium with the idea that if one simply put a software program in a million hands, along with the tools to modify it, evolutionary changes would result in improvements that could not have been anticipated. That has borne true. Similar manifestations of collective wisdom have made Wikipedia the site of record for many and has allowed &#8220;Google&#8221; to change from noun to verb. Our intent is to harness as much power as possible from the collaborative potential of a connected world.<xref ref-type="fn" rid="bibd2e148"/> With it, Open Medicine can publish articles as soon as they are peer reviewed and edited, host the discussion on their interpretation and perhaps even watch them change.  Once they are published, they will be available to the widest possible audience and to the worldwide media who can cast them even further.</p>
+        <p>	The idea of free access to information, of putting knowledge into as many hands as possible to maximize the number of beneficial outcomes, has captured the hearts and minds of people for centuries, but has become a reality only in the past decade. It too has captured the people who rally around Open Medicine: A committed group of experienced medical editors to ensure high-quality content; a dynamic, accomplished, and international editorial board to contribute and offer advice; and a diverse and prominent board of directors to mind how well our mandate is fulfilled. <bold>[Tarek: In the preceding sentence, should we hyperlink &#8220;editors&#8221; , &#8220;editorial board&#8221;, &#8220;board of directors&#8221; and &#8220;mandate&#8221; to the appropriate pages on our site?] </bold>These are the founding minds and hearts of <italic>Open Medicine</italic>. </p>
+        <p>	Ultimately, the success of Open Medicine will depend on how important our readers believe it is to have open access to high-quality medical information that is as free from commercial and political influence as possible.  We believe there are few things more important. </p>
+        <p>	Time will be the test. In addition to an audience, <italic>Open Medicine</italic> will need international contributors and willing peer reviewers. Please write <underline>to us</underline>. <bold>[Tarek: Please link to Letter to the editor page.] </bold>Please write <underline>for us</underline>. <bold>[Tarek: Please link to authors info.] </bold>Tell two colleagues. Those who can, please <underline>contribute</underline> financially. <bold>[Tarek: Please link to donors page.] </bold>
+            </p>
+        <p><italic>Open Medicine</italic>, although launched in Canada, is an international endeavour. Its strength will be a connected global community of interested, committed health workers. Like the country that birthed it, it will remain open, inclusive, and independent but its eyes, like those of its readers, will be on the world. We hope that you share our excitement about the future and being part of it.  </p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn id="bibd2e59">
+        <p>Bekelman JE, Li Y, Gross CP. Scope and impact of financial conflicts of interest in biomedical research: a systematic review. <italic>JAMA</italic> 2003;289(4):454-65. </p>
+      </fn>
+      <fn id="bibd2e66">
+        <p>Rochon PA, Mashari A, Cohen A, Misra A, Laxer D, Streiner DL, et al. Relation between randomized controlled trials published in leading general medical journals and the global burden of disease. <italic>CMAJ</italic> 2004;25;170(11):1673-7.</p>
+      </fn>
+      <fn id="bibd2e73">
+        <p>Trouillier P, Olliaro P, Torreele E, Orbinski J, Laing R, Ford N. Drug development for neglected diseases: a deficient market and a public-health policy failure. <italic>Lancet</italic> 2002;359:2188-94.</p>
+      </fn>
+      <fn id="bibd2e80">
+        <p>Shuchman M, Redelmeier DA. Politics and independence &#8212; the collapse of the <italic>Canadian Medical Association Journal</italic>. <italic>N Engl J Med</italic> 2006;354(13):1337-9.</p>
+      </fn>
+      <fn id="bibd2e97">
+        <p>Kassirer JP, Davidoff F, O&#8217;Hara K, Redelmeir DA. Editorial autonomy of <italic>CMAJ. CMAJ </italic>2006;174(7):945-50. Available: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.cmaj.ca/cgi/content/full/174/7/945" ext-link-type="uri" xlink:type="simple">www.cmaj.ca/cgi/content/full/174/7/945</ext-link> (accessed 2007 March 26).</p>
+      </fn>
+      <fn id="bibd2e108">
+        <p>Villanueva P, Peiro S, Librero J, Pereiro I. Accuracy of pharmaceutical advertisements in medical journals. <italic>Lancet</italic> 2003;361(9351):27-32.</p>
+      </fn>
+      <fn id="bibd2e116">
+        <p>Eisen MB, Brown PO, Varmus HE. PLoS Medicine&#8212;A Medical Journal for the Internet Age. <italic>PLoS Medicine</italic> 2004;1(1). Available: http://medicine.plosjournals.org/perlserv/?request=get-document&amp;doi=10.1371/journal.pmed.0010031 (accessed 2007 March 26).</p>
+      </fn>
+      <fn id="bibd2e148">
+        <p>Giustini D. How Web 2.0 is changing medicine. <italic>BMJ</italic> 2006;333:1283-4. </p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

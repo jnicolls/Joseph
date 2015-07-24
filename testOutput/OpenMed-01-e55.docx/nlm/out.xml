@@ -1,0 +1,80 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">The Journal Title</journal-id>
+      <issn pub-type="epub">0000-000X</issn>
+      <publisher>
+        <publisher-name>The Publisher Name</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1000/123456</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Sample Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A Sample Article Title</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Eve</surname>
+            <given-names>Martin Paul</given-names>
+          </name>
+          <xref ref-type="aff" rid="lincoln"/>
+        </contrib>
+        <aff id="lincoln">
+          <institution>University of Lincoln</institution>
+        </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <year>2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <issue>1</issue>
+      <fpage>1</fpage>
+      <lpage>2</lpage>
+      <permissions>
+        <copyright-statement>Copyright &#169; 2014, Martin Paul Eve</copyright-statement>
+        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The citation of this article must include: the name(s) of the authors, the name of the journal, the full URL of the article (in a hyperlinked format if distributed online) and the DOI number of the article.</license-p>
+        </license>
+      </permissions>
+      <self-uri>https://www.martineve.com/</self-uri>
+      <abstract>
+        <p>This is a sample abstract that forms part of the metadataSample.xml file in meTypeset.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title/>
+      <p>
+        <underline>A report from the front lines: trying to improve risk stratification for patients at intermediate coronary risk</underline>
+      </p>
+      <p>We see many patients at intermediate Coronary Heart Disease (<xref rid="TO_LINK" ref-type="bibr" id="IDcc1e173d-a79c-4a76-8c4e-e0e354a984ad">CHD</xref>) risk in primary care. By intermediate risk, I mean a calculated Framingham 10 year risk of 10% to 20% for patients without a history of arteriosclerotic disease or diabetes. In my family practice, a recent audit found that 14% of my patients age 35 to 75 meet this profile.</p>
+      <p>I have some difficulty deciding whether I should use statins for these patients. Lifestyle counseling (quitting smoking, regular exercise, eating a healthy diet and maintaining a healthy weight) is for everyone, regardless of risk. Recent Canadian dyslipidemia guidelines &lt;ref&gt; have been criticized for promoting the overuse of statins for patients at low risk &lt;ref&gt;. Statins decrease the risk of Coronary events by approximately 30% &lt;ref: HPS&gt;. If a patient has a 5% risk of CAD in the next 10 years, using a statin for 10 years would only reduce their risk by 1.5% (<xref rid="TO_LINK" ref-type="bibr" id="IDb46c11e6-0be8-4fd1-9863-87659070bc24">0.3 x 5%</xref>); I would have to treat 67 patients for 10 years to prevent one MI; 66 of those patients would not benefit. Statins cost about $1 per day; treating 67 patients for 10 years would mean $245,000 in drug costs alone. Patients at high risk (<xref rid="TO_LINK" ref-type="bibr" id="ID4ae7dff1-b40e-4268-ba9b-751ce7f90cfa">Framingham &gt;20%</xref>) derive greater benefit from statins, and I am more likely to treat them.</p>
+      <p>It is the patients at intermediate risk that represent a dilemma. I need additional information to help me stratify their risk.</p>
+      <p>Several markers have been proposed to adjust risk. In my practice, a family history of early Coronary Heart Disease (<xref rid="TO_LINK" ref-type="bibr" id="ID75a4a16d-96b4-4efb-a525-d488f03890e0">first degree relative with CHD at age 50 or earlier</xref>), doubles the Framingham risk &lt;ref&gt;. Guidelines have recommended the use of blood tests such as homocysteine to adjust risk &lt;ref&gt;; however, the accuracy and risk adjustment due to these markers is not clear, and a recent study found that even multiple markers add little to the Framingham score &lt;ref, NEJM dec 06&gt;. I have not implemented testing using these biomarkers in my practice.</p>
+      <p>There are other tests that can be used for risk stratification. The USPSTF recently reviewed screening for Coronary Heart Disease: EKG, cardiac stress exercise testing or Electron Beam Coronary Tomography (<xref rid="TO_LINK" ref-type="bibr" id="IDeb961e2b-1b64-415a-8b9c-609a90ab6048">EBCT</xref>) were given an &#8220;I&#8221; rating (<xref rid="TO_LINK" ref-type="bibr" id="IDb823e457-f019-49f9-9d0b-9ece2fd40bf6">insufficient evidence</xref>) for patients at intermediate Framingham risk &lt;ref&gt;. <xref rid="TO_LINK" ref-type="bibr" id="ID2b3df39d-8888-481e-8483-1cddded66d97">EBCT</xref> is expensive, and there are already long waiting lists for CT scans in Canada; this would not be an ideal screening test.</p>
+      <list list-type="order">
+        <list-item>
+          <p>belong to a monthly journal club (<xref rid="TO_LINK" ref-type="bibr" id="ID51babbd5-58bf-4578-9071-f8e3bdc18966">Practice Based Small Group Learning Program</xref>).  Our last session was on Peripheral Arterial Disease.  The educational module appeared to imply that large groups of patients, such as all patients age 50 or over with at least one cardiovascular risk factor and all patients age 70 and over, should be screened for PAD, using the Ankle-Brachial Index (<xref rid="TO_LINK" ref-type="bibr" id="IDfeab219e-fd40-4e98-a1d8-e589acd8ea2a">ABI</xref>).  My group did not accept the recommendation, as we felt that this promoted over-use of ABI testing in primary care.  </p>
+        </list-item>
+      </list>
+      <list list-type="order">
+        <list-item>
+          <p>always send a follow-up note to my group, with a summary of the key points and actions we decide to undertake.  When I wrote the summary for this session, and reviewed the module again, it occurred to me that we ought to revisit this.  Perhaps we should think of ABI as a marker of risk for cardiovascular disease, rather than solely as a screening or diagnostic test for PAD.  </p>
+        </list-item>
+      </list>
+      <p>The prevalence of abnormal ABIs (<xref rid="TO_LINK" ref-type="bibr" id="IDf5570f32-b423-48a6-bc2d-1d71a3d0decf">0.9 or less</xref>) is 18 to 29% in patients age 50 and over &lt;ref&gt;.  75% of those patients are asymptomatic &lt;ref&gt;.  A systematic review found that the likelihood ratio of Coronary Heart Disease if the ABI is <xref rid="TO_LINK" ref-type="bibr" id="IDd28d1978-19a7-4a7d-a474-7c1d10ae537c">0.9 or less</xref> is 2.5 &lt;ref&gt;.  Using a normogram &lt;URL&gt;, if a patient has a 15% Framingham risk, and a positive ABI, this now translates into a CHD risk of approximately 30%.  That patient is now at high risk, and should be treated with a statin.  </p>
+      <p>The cost in Ontario at a vascular or ultrasound lab is $22.60 for the technical component and $13.70 for the professional component &lt;check&gt;. The test could easily be performed in my office, using a hand-held Doppler probe and a BP cuff &lt;see URL&gt;. Payment per test if done at the office is $10.05; the cost of the Doppler is approximately $900. I am not sure that the current reimbursement and the additional time required for me to do the test make this practical in my office.</p>
+      <p>The USPSTF does not currently recommend PAD screening in the general population (<xref rid="TO_LINK" ref-type="bibr" id="IDaa6f96b1-cd78-4dfe-8c90-7bbdd812893e">grade D recommendation</xref>), due to false-positive results and unnecessary work-ups for PAD &lt;ref&gt;. However, they appeared to only have considered screening to determine PAD diagnosis, and not for CHD risk stratification using ABI. I wonder if this simple, non-invasive and inexpensive test has a role in helping me to decide to decide which intermediate risk patients should be offered long term statins.</p>
+      <p>Ideally, I would like to see a prospective randomized controlled trial, looking at patients with intermediate risk who are randomly assigned to be screened or not screened with ABI. I did not find such a study on the trial registry, clinicaltrials.gov, though there is a study on the expensive and more invasive EBCT. Specialty guidelines appear to recommend screening for ABI in patients at intermediate risk &lt;ref, ref&gt;, but they are perhaps more likely to be biased towards intervention in their area of interest. I would like to see the US or Canadian Task Forces review the subject. In the absence of a RCT, is the evidence strong enough for me to start using ABI for risk stratification of patients at intermediate Framingham risk?</p>
+    </sec>
+  </body>
+  <back/>
+</article>

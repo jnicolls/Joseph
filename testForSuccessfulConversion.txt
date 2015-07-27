@@ -1,8 +1,9 @@
 *** Settings ***
 Documentation 	This test goes through every file in the corpus and sees if a conversion process occurred and if only the accepted errors were passed through and if the XML files matches JATS format.   
 Library          	OperatingSystem
-
-
+Library 		String
+Library			XML
+Library 		Collections
 
 *** User Keywords ***
 
@@ -10,20 +11,21 @@ Get Pure Body Texts
 	[arguments] 	${text}
 	${xml}= 	Parse XML 	${text}
 	@{pRawTexts}=	Get Elements Texts	${xml} 		body/p
-	@{pPureTexts}= 	Create List 	${EMPTY}
+	${pPureTexts}= 	Create List
 	:FOR	${prt}		IN 	@{pRawTexts}
-	\	${pt}=		Get Lines Matching Regexp	${prt}	 <([^>]*)>
-	\	Append To List 		@{pPureTexts}		${pt}
-	[return]	@{pPureTexts}			
+	\	${pt}=		Get Lines Matching Regexp	${prt}	 \\s*<([^>]*)>
+	\	Append To List 		${pPureTexts}		${prt}
+	Log Variables
+	[return]	${pPureTexts}			
 
 	
 Text of Sample Body Found at Some Place in Convert
-	[arguments]	${cXMLText}		${sXMLText}
-	${sXMLTexts}= 	Get Pure Body Texts	${sXMLText}
-	${cXMLPText}=	Get Lines Matching Regexp	${cXMLText}	<([^>]*)> 
+	[arguments]	${cXMLText}		${sXMLTextPath}
+	${sXMLTexts}= 	Get Pure Body Texts	${sXMLTextPath}
+	${cXMLPText}=	Get Lines Matching Regexp	${cXMLText}	(.*?)<.*?>(.*?) 
+	Log Variables
 	:FOR	${text}		IN 	@{sXMLTexts}
-	\	${escapT}	Regexp Escape		${text}
-	\	Should Match Regexp		${cXMLPText}	${escapT}
+	\	Should Match Regexp 		${cXMLPText}	${text}
 
 # Runs only when error file from xmllint test of meTypeset'd xml returns an error when checked against JATS Green DTD.
 # Checks to make sure the only error is "Document ./testOutput/OpenMed-###-e###./nlm/out.xml: ### element xref: validity error IDREFS attribute 
@@ -42,7 +44,8 @@ File is Converted and Errors Highlighted
 	File Should Exist 	testOutput/${filePath}.docx/nlm/out.xml
 	${status}	Run Keyword and Ignore Error 		File Should Be Empty         error/${filePath}.docx 
 	Run Keyword If 		${status} != ('PASS', None)		Acceptable Errors Present 		  error/${filePath}.docx   
-		
+	${fText}=	Get File 	testOutput/${filePath}.docx/nlm/out.xml
+	Text of Sample Body Found at Some Place in Convert 	${fText}	/var/local/meTypesetTests/testingDocuments/OpenMedXML/${filePath}.nxml			
 
 *** Test Cases ***
 
@@ -96,6 +99,9 @@ OpenMed-01-e166
 
 OpenMed-01-e181
 	File is Converted and Errors Highlighted	OpenMed-01-e181
+
+
+
 
 OpenMed-01-e184
 	File is Converted and Errors Highlighted	OpenMed-01-e184
@@ -377,9 +383,6 @@ OpenMed-06-e101
 	File is Converted and Errors Highlighted	OpenMed-06-e101
 
 OpenMed-06-e118  
-	File is Converted and Errors Highlighted	OpenMed-06-e118  
-
-OpenMed-06-e134
 	File is Converted and Errors Highlighted	OpenMed-06-e134
 
 OpenMed-06-e141

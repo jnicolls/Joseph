@@ -6,6 +6,25 @@ Library          	OperatingSystem
 
 *** User Keywords ***
 
+Get Pure Body Texts
+	[arguments] 	${text}
+	${xml}= 	Parse XML 	${text}
+	@{pRawTexts}=	Get Elements Texts	${xml} 		body/p
+	@{pPureTexts}= 	Create List 	${EMPTY}
+	:FOR	${prt}		IN 	@{pRawTexts}
+	\	${pt}=		Get Lines Matching Regexp	${prt}	 <([^>]*)>
+	\	Append To List 		@{pPureTexts}		${pt}
+	[return]	@{pPureTexts}			
+
+	
+Text of Sample Body Found at Some Place in Convert
+	[arguments]	${cXMLText}		${sXMLText}
+	${sXMLTexts}= 	Get Pure Body Texts	${sXMLText}
+	${cXMLPText}=	Get Lines Matching Regexp	${cXMLText}	<([^>]*)> 
+	:FOR	${text}		IN 	@{sXMLTexts}
+	\	${escapT}	Regexp Escape		${text}
+	\	Should Match Regexp		${cXMLPText}	${escapT}
+
 # Runs only when error file from xmllint test of meTypeset'd xml returns an error when checked against JATS Green DTD.
 # Checks to make sure the only error is "Document ./testOutput/OpenMed-###-e###./nlm/out.xml: ### element xref: validity error IDREFS attribute 
 # references an unknown ID "TO_LINK". 

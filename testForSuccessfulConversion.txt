@@ -5,6 +5,7 @@ Library          	OperatingSystem
 Library 		String
 Library			XML
 Library 		Collections
+Library			Process
 
 *** User Keywords ***
 
@@ -23,10 +24,12 @@ Get Pure Body Texts
 Text of Sample Body Found at Some Place in Convert
 	[arguments]	${cXMLText}		${sXMLTextPath}
 	${sXMLTexts}= 	Get Pure Body Texts	${sXMLTextPath}
-	${cXMLPText}=	Get Lines Matching Regexp	${cXMLText}	(?:&#\\d*|>)(.*?)(?=&#\\d*|<)
+	Run Process 	python regex.py ${cXMLText}
+	${text}=	Get File 	regexOutput
+	Run Process 	rm regexOutput
 	Log Variables
 	:FOR	${text}		IN 	@{sXMLTexts}
-	\	Should Match Regexp 		${cXMLPText}	${text}
+	\	Should Match Regexp 		${cXMLText}	${text}
 
 # Runs only when error file from xmllint test of meTypeset'd xml returns an error when checked against JATS Green DTD.
 # Checks to make sure the only error is "Document ./testOutput/OpenMed-###-e###./nlm/out.xml: ### element xref: validity error IDREFS attribute 
@@ -45,8 +48,7 @@ File is Converted and Errors Highlighted
 	File Should Exist 	testOutput/${filePath}.docx/nlm/out.xml
 	${status}	Run Keyword and Ignore Error 		File Should Be Empty         error/${filePath}.docx 
 	Run Keyword If 		${status} != ('PASS', None)		Acceptable Errors Present 		  error/${filePath}.docx   
-	${fText}=	Get File 	testOutput/${filePath}.docx/nlm/out.xml
-	Text of Sample Body Found at Some Place in Convert 	${fText}	/var/local/meTypesetTests/testingDocuments/OpenMedXML/${filePath}.nxml			
+	Text of Sample Body Found at Some Place in Convert 	var/local/meTypesetTests/testingDocuments/testOutput/${filePath}.docx/nlm/out.xml 	/var/local/meTypesetTests/testingDocuments/OpenMedXML/${filePath}.nxml			
 
 *** Test Cases ***
 

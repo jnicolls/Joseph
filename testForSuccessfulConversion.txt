@@ -1,5 +1,6 @@
 *** Settings ***
 Documentation 	This test goes through every file in the corpus and sees if a conversion process occurred and if only the accepted errors were passed through and if the XML files matches JATS format.   
+
 Library          	OperatingSystem
 Library 		String
 Library			XML
@@ -22,7 +23,7 @@ Get Pure Body Texts
 Text of Sample Body Found at Some Place in Convert
 	[arguments]	${cXMLText}		${sXMLTextPath}
 	${sXMLTexts}= 	Get Pure Body Texts	${sXMLTextPath}
-	${cXMLPText}=	Get Lines Matching Regexp	${cXMLText}	(.*?)<.*?>(.*?) 
+	${cXMLPText}=	Get Lines Matching Regexp	${cXMLText}	(?:&#\\d*|>)(.*?)(?=&#\\d*|<)
 	Log Variables
 	:FOR	${text}		IN 	@{sXMLTexts}
 	\	Should Match Regexp 		${cXMLPText}	${text}

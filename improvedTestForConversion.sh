@@ -17,10 +17,11 @@ for dir in *; do
 	declare -i RETURNVAL=0
 	returnval= timeout  5m xmllint --dtdvalid http://jats.nlm.nih.gov/archiving/1.1d3/JATS-archivearticle1.dtd "$dir"/nlm/out.xml 2> /var/local/meTypesetTests/tests/error/"$dir" 
 	if [ $RETURNVAL -eq 124 -a -a /var/local/meTypesetTests/tests/error/"$dir" ]; then
-		printf 'timeout has occured during xmllint' >> /var/local/meTypesetTests/tests/error/"$dir"
+		rm -rf /var/local/meTypesetTests/tests/error/"$dir"
 	fi
 done
 cd /var/local/meTypesetTests/tests
+./regexFilter.sh
 pybot testForSuccessfulConversion.txt
 yes | cp -i		log.html          /var/www/public/parsingdev/robot/Corpus
 yes | cp -i 		output.xml       /var/www/public/parsingdev/robot/Corpus

@@ -9,6 +9,10 @@ for e in re.findall(pattern, fd):
 	s += ' '
 	s += e[1]
 f.close()
-o = open ( '/var/local/meTypesetTests/tests/regexOutput/'+sys.argv[1], 'w', 0)
-o.write(s)
+pattern2 = re.compile(r'(.*?)(?:(\s+?(;|\'))')
+rs = ''
+for p in re.findall(pattern2, s):
+	rs += p[0]
+o = open ( '/var/local/meTypesetTests/tests/regexOutput/'+sys.argv[1], "w")
+o.write(rs)
 o.close()

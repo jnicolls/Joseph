@@ -15,6 +15,7 @@ Text of Sample Body Found at Some Place in Convert
 	[arguments]	${cXMLRegexPath}		${sXMLTextPath}
 	${sXMLText}= 	Parse XML 	${sXMLTextPath}
 	${sXMLPTexts}= 	Get Elements Texts 	${sXMLText}	body/p
+	${sXMLBody}= 	Get Element Text	${sXMLText} 	body	
 	${cXMLTextRegex}=	Get File 	${cXMLRegexPath}
 	Log Variables
 	:FOR	${text}		IN 	@{sXMLPTexts}

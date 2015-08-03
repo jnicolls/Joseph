@@ -22,6 +22,7 @@ for dir in *; do
 done
 cd /var/local/meTypesetTests/tests
 ./regexFilter.sh
+cd /var/local/meTypesetTests/tests
 pybot testForSuccessfulConversion.txt
 yes | cp -i		log.html          /var/www/public/parsingdev/robot/Corpus
 yes | cp -i 		output.xml       /var/www/public/parsingdev/robot/Corpus

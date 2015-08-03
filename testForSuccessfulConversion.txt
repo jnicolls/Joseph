@@ -17,8 +17,10 @@ Text of Sample Body Found at Some Place in Convert
 	${sXMLPTexts}= 	Get Elements Texts 	${sXMLText}	body/p
 	${sXMLBody}= 	Get Element Text	${sXMLText} 	body	
 	${cXMLTextRegex}=	Get File 	${cXMLRegexPath}
+	${noNewLineText}=	Replace String 		${cXMLTextRegex} 	(\\n)		\  		
 	:FOR	${text}		IN 	@{sXMLPTexts}
-	\	${noPossesiveText}=	Replace String  	${text}		' 	\  
+	\	${noQuotes}=	Replace String		${text}		"	\ 
+	\	${noPossesiveText}=	Replace String  	${noQuotes}		' 	\  
 	\ 	Create File 	spaced 		${noPossesiveText}
 	\	Run Process		python spaceString.py spaced 		shell=True
 	\	${spacedString}=	Get File	spaced

@@ -17,9 +17,13 @@ Text of Sample Body Found at Some Place in Convert
 	${sXMLPTexts}= 	Get Elements Texts 	${sXMLText}	body/p
 	${sXMLBody}= 	Get Element Text	${sXMLText} 	body	
 	${cXMLTextRegex}=	Get File 	${cXMLRegexPath}
-	Log Variables
 	:FOR	${text}		IN 	@{sXMLPTexts}
-	\	Should Match Regexp 		${cXMLTextRegex}		${text}
+	\	${noPossesiveText}=	Replace String  	${text}		' 	\  
+	\ 	Create File 	spaced 		${noPossesiveText}
+	\	Run Process		python spaceString.py spaced 		shell=True
+	\	${spacedString}=	Get File	spaced
+	\ 	Log Variables
+	\	Should Match Regexp 		${cXMLTextRegex}	${spacedString}	
 
 # Runs only when error file from xmllint test of meTypeset'd xml returns an error when checked against JATS Green DTD.
 # Checks to make sure the only error is "Document ./testOutput/OpenMed-###-e###./nlm/out.xml: ### element xref: validity error IDREFS attribute 

@@ -20,14 +20,8 @@ Text of Sample Body Found at Some Place in Convert
 	${sXMLBody}= 	Get Element Text	${sXMLText} 	body	
 	${cXMLTextRegex}=	Get File 	${cXMLRegexPath}
 	${noNewLineText}=	Replace String 		${cXMLTextRegex} 	(\\n)		\  		
-	:FOR	${text}		IN 	@{sXMLPTexts} 
-	\	${noQuotes}=	Replace String		${text}		"	\ 
-	\	${escForwardParens}=	Replace String 		${noQuotes}	(	\\(
-	\	${escBackwardParens}=	Replace String		${escForwardParens}	)	\\)  
-	\	${noDashesText}=	Replace String 		${escBackwardParens}	—	\ 
-	\	${no'text}=	Replace String		${noDashesText}		'	\ 
-	\	${nostext}=	Replace String		${no'text}	s 	${EMPTY} 		
-	\ 	Create File 	spaced 		${nostext}
+	:FOR	${text}		IN 	@{sXMLPTexts}  		
+	\ 	Create File 	spaced 		${text}
 	\	Run Process		python spaceString.py spaced 		shell=True
 	\	${spacedString}=	Get File	spaced
 	\ 	Log Variables

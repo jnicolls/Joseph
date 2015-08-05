@@ -13,7 +13,9 @@ Library			Process
 	
 Text of Sample Body Found at Some Place in Convert
 	[arguments]	${cXMLRegexPath}		${sXMLTextPath}
-	${sXMLText}= 	Parse XML 	${sXMLTextPath}
+	${sXMLRawText}= 	Get File 	${sXMLTextPath}
+	${sXMLRefinedText}= 	Replace String Using Regexp 	${sXMLRawText}		(<xref)(.*?)(/xref>)	${EMPTY}s
+	${sXMLText}= 	Parse XML 	${sXMLRefinedText}
 	${sXMLPTexts}= 	Get Elements Texts 	${sXMLText}	body/p
 	${sXMLBody}= 	Get Element Text	${sXMLText} 	body	
 	${cXMLTextRegex}=	Get File 	${cXMLRegexPath}
@@ -21,11 +23,11 @@ Text of Sample Body Found at Some Place in Convert
 	:FOR	${text}		IN 	@{sXMLPTexts} 
 	\	${noQuotes}=	Replace String		${text}		"	\ 
 	\	${escForwardParens}=	Replace String 		${noQuotes}	(	\\(
-	\	${escBackwardParens}=	Replace String		${escForwardParens}	)	\\)
-	\	${noPossesiveText}=	Replace String  	${escBackwardParens}		's	s  
-	\	${noDashesText}=	Replace String 		${noPossesiveText}	—	\ 
+	\	${escBackwardParens}=	Replace String		${escForwardParens}	)	\\)  
+	\	${noDashesText}=	Replace String 		${escBackwardParens}	—	\ 
 	\	${no'text}=	Replace String		${noDashesText}		'	\ 
-	\ 	Create File 	spaced 		${no'text}
+	\	${nostext}=	Replace String		${no'text}	s 	${EMPTY} 		
+	\ 	Create File 	spaced 		${nostext}
 	\	Run Process		python spaceString.py spaced 		shell=True
 	\	${spacedString}=	Get File	spaced
 	\ 	Log Variables

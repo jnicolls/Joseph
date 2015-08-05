@@ -8,10 +8,13 @@ pattern = re.compile(r'(?:(&#\d*|>))(.*?)(?=(&#\d*|<))')
 for e in re.findall(pattern, fd):
 	s += ' '
 	s += e[1]
-pattern2 = re.compile(r'(\ss\s)')
-s = re.sub(pattern, 's ', s)
+
+s = re.sub(',', ' ', s)
+s = re.sub('.', ' ', s)
 s = re.sub('\'', '', s)
 s = re.sub(';', '', s)
+s = re.sub('s', '', s)
+
 f.close()
 o = open ( '/var/local/meTypesetTests/tests/regexOutput/'+sys.argv[1], "w")
 o.write(s)

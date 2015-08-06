@@ -17,14 +17,10 @@ Text of Sample Body Found at Some Place in Convert
 	${sXMLRefinedText}= 	Replace String Using Regexp 	${sXMLRawText}		(<xref)(.*?)(/xref>)	${EMPTY}
 	${sXMLText}= 	Parse XML 	${sXMLRefinedText}
 	${sXMLPTexts}= 	Get Elements Texts 	${sXMLText}	body/p
-	${sXMLBody}= 	Get Element Text	${sXMLText} 	body	
 	${cXMLTextRegex}=	Get File 	${cXMLRegexPath}
-	${noNewLineText}=	Replace String 		${cXMLTextRegex} 	(\\n)		\  		
 	:FOR	${text}		IN 	@{sXMLPTexts} 
-	\	${noQuotes}=	Replace String		${text}		"	\  
-	\	${noDashesText}=	Replace String 		${noQuotes}	—	\ 
-	\	${no'text}=	Replace String		${noDashesText}		'	\  		 
-	\ 	Create File 	spaced 		${no'text}
+	\	${noDashesText}=	Replace String 		${text}		—	\ 		 
+	\ 	Create File 	spaced 		${noDashesText}
 	\	Run Process		python spaceString.py spaced 		shell=True
 	\	${spacedString}=	Get File	spaced
 	\ 	Log Variables

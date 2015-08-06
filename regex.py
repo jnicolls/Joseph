@@ -4,6 +4,8 @@ f = open ('/var/local/meTypesetTests/tests/testOutput/'+sys.argv[1] +'/nlm/out.x
 print ("open operation complete")
 fd = f.read()
 s = ''
+
+fd = 
 pattern = re.compile(r'(?:(&#\d*|>))(.*?)(?=(&#\d*|<))')
 for e in re.findall(pattern, fd):
 	s += ' '

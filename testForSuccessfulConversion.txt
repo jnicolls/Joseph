@@ -14,12 +14,11 @@ Library			Process
 Text of Sample Body Found at Some Place in Convert
 	[arguments]	${cXMLRegexPath}		${sXMLTextPath}
 	${sXMLRawText}= 	Get File 	${sXMLTextPath}
-	${sXMLRefinedText}= 	Replace String Using Regexp 	${sXMLRawText}		(<xref)(.*?)(/xref>)	${EMPTY}s
+	${sXMLRefinedText}= 	Replace String Using Regexp 	${sXMLRawText}		(<xref)(.*?)(/xref>)	${EMPTY}
 	${sXMLText}= 	Parse XML 	${sXMLRefinedText}
-	${sXMLPTexts}= 	Get Elements Texts 	${sXMLText}	body/p
-	${sXMLBody}= 	Get Element Text	${sXMLText} 	body	
+	${sXMLPTexts}= 	Get Elements Texts 	${sXMLText}	body/p	
 	${cXMLTextRegex}=	Get File 	${cXMLRegexPath}
-	${noNewLineText}=	Replace String 		${cXMLTextRegex} 	(\\n)		\  		
+	${noNewLineText}=	Replace String 		${cXMLTextRegex} 	(\\n)		\  
 	:FOR	${text}		IN 	@{sXMLPTexts}  		
 	\ 	Create File 	spaced 		${text}
 	\	Run Process		python spaceString.py spaced 		shell=True

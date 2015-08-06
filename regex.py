@@ -10,10 +10,9 @@ for e in re.findall(pattern, fd):
 	s += e[1]
 
 s = re.sub(',', ' ', s)
-s = re.sub('.', ' ', s)
+s = re.sub('\.', ' ', s)
 s = re.sub('\'', '', s)
 s = re.sub(';', '', s)
-s = re.sub('s', '', s)
 
 f.close()
 o = open ( '/var/local/meTypesetTests/tests/regexOutput/'+sys.argv[1], "w")

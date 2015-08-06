@@ -9,12 +9,14 @@ for e in re.findall(pattern, fd):
 	s += ' '
 	s += e[1]
 
+s = re.sub('-', ' ', s)
 s = re.sub(r'\,', ' ', s)
 s = re.sub(r'\.', ' ', s)
 s = re.sub('\'', '', s)
-s = re.sub(';', '', s)
+s = re.sub(r'\;', ' ', s)
 s = re.sub('s', ' ', s)
 s = re.sub(r'\(.*?\)', ' ', s)
+s = re.sub(r'(\[.*?\])', ' ', s)
 
 f.close()
 o = open ( '/var/local/meTypesetTests/tests/regexOutput/'+sys.argv[1], "w")

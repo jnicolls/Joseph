@@ -5,10 +5,13 @@ s = ''
 f = open(sys.argv[1], 'r')
 a = f.read()
 
+a = re.sub(r'\;', ' ', a)
 a = re.sub('\.', ' ', a)
 a = re.sub(',', ' ', a)
 a = re.sub('s', ' ', a)
+a = re.sub('-', ' ', a)
 a = re.sub(r'(\(.*?\))', ' ', a)
+a = re.sub(r'(\[.*?\])', ' ', a)
 
 pattern = re.compile(r'(.*?)(?:\s)') 
 

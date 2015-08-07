@@ -17,7 +17,6 @@ a = re.sub(r'(\(.*?\))', ' ', a)
 a = re.sub(r'(\[.*?\])', ' ', a)
 a = re.sub(r'(\s+)', '\s+', a)
 
-
 w = open('spaced', 'w')
-w.write(s)
+w.write(a)
 w.close()

@@ -15,13 +15,7 @@ a = re.sub('s', ' ', a)
 a = re.sub('-', ' ', a)
 a = re.sub(r'(\(.*?\))', ' ', a)
 a = re.sub(r'(\[.*?\])', ' ', a)
-
-pattern = re.compile(r'(\S*?)(?:\s)') 
-
-for c in re.findall(pattern, a):
-	s += c
-	s += '\\s+'
-
+a = re.sub(r'(\s+)', '\s+', a)
 
 
 w = open('spaced', 'w')

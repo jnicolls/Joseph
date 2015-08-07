@@ -5,7 +5,8 @@ print ("open operation complete")
 fd = f.read()
 s = ''
 
-fd = 
+fd = re.sub(r'\&lt.*?\&gt\;', ' ', fd)
+ 
 pattern = re.compile(r'(?:(&#\d*|>))(.*?)(?=(&#\d*|<))')
 for e in re.findall(pattern, fd):
 	s += ' '

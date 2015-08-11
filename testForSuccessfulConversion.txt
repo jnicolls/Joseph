@@ -11,14 +11,14 @@ Library			Process
 			
 
 	
-Text of Sample Body Found at Some Place in Convert
-	[arguments]	${cXMLRegexPath}		${sXMLTextPath}
+Titles in Sample Body Found at Some Place in Convert
+	[arguments]	${filePath}
 	[Timeout]	30 sec 	
-	${sXMLRawText}= 	Get File 	${sXMLTextPath}
+	${sXMLRawText}= 	Get File 	/var/local/meTypesetTests/testingDocuments/OpenMedXML/${filePath}.nxml
 	${sXMLRefinedText}= 	Replace String Using Regexp 	${sXMLRawText}		(<xref)(.*?)(/xref>)	${EMPTY}
 	${sXMLText}= 	Parse XML 	${sXMLRefinedText}
-	${sXMLPTexts}= 	Get Elements Texts 	${sXMLText}	body/p
-	${cXMLTextRegex}=	Get File 	${cXMLRegexPath}
+	${sXMLPTexts}= 	Get Elements Texts 	${sXMLText}	body/sec/title
+	${cXMLTextRegex}=	Get File 	/var/local/meTypesetTests/tests/regexOutput/${filePath}.docx
 	:FOR	${text}		IN 	@{sXMLPTexts}
 	# The character '—' is a special character that can cause issues depending on the version of python the machine is implementing. Because of this, the removal of this
 	# character is done in the context of the test.  
@@ -27,7 +27,7 @@ Text of Sample Body Found at Some Place in Convert
 	\	Run Process		python spaceString.py spaced 		shell=True
 	\	${spacedString}=	Get File	spaced
 	\ 	Log Variables
-	\	Run Keyword And Ignore Error 		Should Match Regexp 		${cXMLTextRegex}	${spacedString}	
+	\	Should Match Regexp 		${cXMLTextRegex}	${spacedString}	
 
 # Runs only when error file from xmllint test of meTypeset'd xml returns an error when checked against JATS Green DTD.
 # Checks to make sure the only error is "Document ./testOutput/OpenMed-###-e###./nlm/out.xml: ### element xref: validity error IDREFS attribute 
@@ -46,17 +46,15 @@ File is Converted and Errors Highlighted
 	File Should Exist 	testOutput/${filePath}.docx/nlm/out.xml
 	${status}	Run Keyword and Ignore Error 		File Should Be Empty         error/${filePath}.docx 
 	Run Keyword If 		${status} != ('PASS', None)		Acceptable Errors Present 		  error/${filePath}.docx   
-	Text of Sample Body Found at Some Place in Convert       /var/local/meTypesetTests/tests/regexOutput/${filePath}.docx            /var/local/meTypesetTests/testingDocuments/OpenMedXML/${filePath}.nxml
 
 *** Test Cases ***
 
 OpenMed-01-e1   
 	File is Converted and Errors Highlighted	OpenMed-01-e1  
-	Text of Sample Body Found at Some Place in Convert       /var/local/meTypesetTests/tests/regexOutput/OpenMed-01-e1.docx            /var/local/meTypesetTests/testingDocuments/OpenMedXML/OpenMed-01-e1.nxml
-
 
 OpenMed-01-e3
 	File is Converted and Errors Highlighted	OpenMed-01-e3
+	Titles in Sample Body Found at Some Place in Convert 	OpenMed-01-e3
 
 OpenMed-01-e13
 	File is Converted and Errors Highlighted	OpenMed-01-e13
@@ -93,17 +91,17 @@ OpenMed-01-e147
 
 OpenMed-01-e160
 	File is Converted and Errors Highlighted	OpenMed-01-e160
+	Titles in Sample Body Found at Some Place in Convert   OpenMed-01-e160
 
 OpenMed-01-e164 
 	File is Converted and Errors Highlighted	OpenMed-01-e164
 
 OpenMed-01-e166
 	File is Converted and Errors Highlighted	OpenMed-01-e166
+	Titles in Sample Body Found at Some Place in Convert   OpenMed-01-e166
 
 OpenMed-01-e181
 	File is Converted and Errors Highlighted	OpenMed-01-e181
-
-
 
 
 OpenMed-01-e184
@@ -132,12 +130,13 @@ OpenMed-02-e49
 
 OpenMed-02-e51
 	File is Converted and Errors Highlighted	OpenMed-02-e51
+	Titles in Sample Body Found at Some Place in Convert   		OpenMed-02-e51
 
 OpenMed-02-e60
 	File is Converted and Errors Highlighted	OpenMed-02-e60
 
 OpenMed-02-e62
-	File is Converted and Errors Highlighted	OpenMed-02-e62
+	Titles in Sample Body Found at Some Place in Convert   		OpenMed-02-e62
 
 OpenMed-02-e70
 	File is Converted and Errors Highlighted	OpenMed-02-e70
@@ -153,6 +152,7 @@ OpenMed-02-e89
 
 OpenMed-02-e91
 	File is Converted and Errors Highlighted	OpenMed-02-e91
+	 Titles in Sample Body Found at Some Place in Convert   	OpenMed-02-e91
 	
 OpenMed-02-e99
 	File is Converted and Errors Highlighted	OpenMed-02-e99
@@ -186,6 +186,7 @@ OpenMed-03-e92
 
 OpenMed-03-e101
 	File is Converted and Errors Highlighted	OpenMed-03-e101
+	 Titles in Sample Body Found at Some Place in Convert           OpenMed-03-e101
 
 OpenMed-03-e120
 	File is Converted and Errors Highlighted	OpenMed-03-e120
@@ -201,16 +202,20 @@ OpenMed-03-e131
 
 OpenMed-03-e140
 	File is Converted and Errors Highlighted	OpenMed-03-e140
+	 Titles in Sample Body Found at Some Place in Convert           OpenMed-03-e140
 
 OpenMed-03-e165 
 	File is Converted and Errors Highlighted	OpenMed-03-e165
+	 Titles in Sample Body Found at Some Place in Convert           OpenMed-03-e165
 
 OpenMed-03-e178
 	File is Converted and Errors Highlighted	OpenMed-03-e178
+	 Titles in Sample Body Found at Some Place in Convert           OpenMed-03-e178
 
 OpenMed-03-e210
 	File is Converted and Errors Highlighted	OpenMed-03-e210
-
+	Titles in Sample Body Found at Some Place in Convert           OpenMed-03-e210
+	
 OpenMed-03-e220	
 	File is Converted and Errors Highlighted	OpenMed-03-e220
 
@@ -273,6 +278,7 @@ OpenMed-04-e187
 
 OpenMed-04-e193
 	File is Converted and Errors Highlighted	OpenMed-04-e193
+	Titles in Sample Body Found at Some Place in Convert           OpenMed-04-e193
 
 OpenMed-04-e197
 	File is Converted and Errors Highlighted	OpenMed-04-e197
@@ -285,6 +291,7 @@ OpenMed-05-e10
 
 OpenMed-05-e13
 	File is Converted and Errors Highlighted	OpenMed-05-e13
+	Titles in Sample Body Found at Some Place in Convert           OpenMed-05-e13
 
 OpenMed-05-e23
 	File is Converted and Errors Highlighted	OpenMed-05-e23
@@ -321,6 +328,7 @@ OpenMed-05-e94
 
 OpenMed-05-e104
 	File is Converted and Errors Highlighted	OpenMed-05-e104
+	Titles in Sample Body Found at Some Place in Convert           OpenMed-05-e104
 
 OpenMed-05-e120
 	File is Converted and Errors Highlighted	OpenMed-05-e120
@@ -342,6 +350,7 @@ OpenMed-05-e149
 
 OpenMed-05-e166
 	File is Converted and Errors Highlighted	OpenMed-05-e166
+	Titles in Sample Body Found at Some Place in Convert           OpenMed-05-e166
 
 OpenMed-05-e173
 	File is Converted and Errors Highlighted	OpenMed-05-e173
@@ -351,15 +360,18 @@ OpenMed-05-e175
 
 OpenMed-05-e183 
 	File is Converted and Errors Highlighted	OpenMed-05-e183
+	Titles in Sample Body Found at Some Place in Convert           OpenMed-05-e183
 
 OpenMed-05-e193 
 	File is Converted and Errors Highlighted	OpenMed-05-e193 
 
 OpenMed-05-e201
 	File is Converted and Errors Highlighted	OpenMed-05-e201
+	Titles in Sample Body Found at Some Place in Convert           OpenMed-05-e201
 
 OpenMed-06-e1
 	File is Converted and Errors Highlighted	OpenMed-06-e1
+	Titles in Sample Body Found at Some Place in Convert           OpenMed-06-e1
 
 OpenMed-06-e10
 	File is Converted and Errors Highlighted	OpenMed-06-e10
@@ -378,12 +390,14 @@ OpenMed-06-e35
 
 OpenMed-06-e48
 	File is Converted and Errors Highlighted	OpenMed-06-e48
+	Titles in Sample Body Found at Some Place in Convert           OpenMed-06-e48
 
 OpenMed-06-e75
 	File is Converted and Errors Highlighted	OpenMed-06-e75
 
 OpenMed-06-e101
 	File is Converted and Errors Highlighted	OpenMed-06-e101
+	Titles in Sample Body Found at Some Place in Convert           OpenMed-06-e101
 
 OpenMed-06-e118  
 	File is Converted and Errors Highlighted	OpenMed-06-e134
@@ -393,9 +407,12 @@ OpenMed-06-e141
 
 OpenMed-06-e146
 	File is Converted and Errors Highlighted	OpenMed-06-e146
+	Titles in Sample Body Found at Some Place in Convert           OpenMed-06-e146
 
 OpenMed-06-e166
 	File is Converted and Errors Highlighted	OpenMed-06-e146
+	Titles in Sample Body Found at Some Place in Convert           OpenMed-06-e166
+
 
 OpenMed-07-74 
 	File is Converted and Errors Highlighted	OpenMed-07-74 
@@ -471,15 +488,18 @@ OpenMed-01-e107
 
 OpenMed-01-e171
 	File is Converted and Errors Highlighted	OpenMed-01-e171
-
+	Titles in Sample Body Found at Some Place in Convert           OpenMed-01-e171
+	
 OpenMed-02-e26
 	File is Converted and Errors Highlighted	OpenMed-02-e26
 
 OpenMed-03-e31
 	File is Converted and Errors Highlighted	OpenMed-03-e31	
+	Titles in Sample Body Found at Some Place in Convert           OpenMed-03-e31
 
 OpenMed-03-e62
 	File is Converted and Errors Highlighted	OpenMed-03-e62
+	Titles in Sample Body Found at Some Place in Convert           OpenMed-06-e62
 
 OpenMed-03-e69
 	File is Converted and Errors Highlighted	OpenMed-03-e69
@@ -489,21 +509,25 @@ OpenMed-03-e123
 
 OpenMed-03-e196   
 	File is Converted and Errors Highlighted	OpenMed-03-e196  
+	Titles in Sample Body Found at Some Place in Convert           OpenMed-06-e196
 
 OpenMed-04-e13
 	File is Converted and Errors Highlighted	OpenMed-04-e13
 
 OpenMed-04-e102
 	File is Converted and Errors Highlighted	OpenMed-04-e102
+	Titles in Sample Body Found at Some Place in Convert           OpenMed-04-e102
 
 OpenMed-04-e134
 	File is Converted and Errors Highlighted	OpenMed-04-e134
+	Titles in Sample Body Found at Some Place in Convert           OpenMed-04-e134
 
 OpenMed-04-e154
 	File is Converted and Errors Highlighted	OpenMed-04-e154
 
 OpenMed-04-e171
 	File is Converted and Errors Highlighted	OpenMed-04-e171	
+	Titles in Sample Body Found at Some Place in Convert           OpenMed-04-e171
 
 OpenMed-05-e35
 	File is Converted and Errors Highlighted	OpenMed-05-e35

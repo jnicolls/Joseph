@@ -9,27 +9,23 @@ Library			Process
 
 *** User Keywords ***
 			
-
 	
-Titles in Sample Body Found at Some Place in Convert
-	[arguments]	${filePath}
+Element in Sample Body Found in Convert
+	[arguments]	${filePath}	${xpath}
 	[Timeout]	30 sec 	
 	${sXMLRawText}= 	Get File 	/var/local/meTypesetTests/testingDocuments/OpenMedXML/${filePath}.nxml
-	${sXMLRefinedText}= 	Replace String Using Regexp 	${sXMLRawText}		(<xref)(.*?)(/xref>)	${EMPTY}
+	${sXMLRefinedText}= 	Replace String Using Regexp 	${sXMLRawText}		(<xref[^>]>)([^<]*)(</xref>)	${EMPTY}
 	${sXMLText}= 		Parse XML 	${sXMLRefinedText}
-	${sXMLPTexts}= 		Get Elements Texts 	${sXMLText}	body/sec/title
+	${sXMLPTexts}= 		Get Elements Texts 	${sXMLText}		${xpath}
 	${cXMLRawText}=		Get File 	/var/local/meTypesetTests/tests/testOutput/${filePath}.docx/nlm/out.xml
 	${cXMLParsedText}= 	Parse XML 	${cXMLRawText}
-	${cXMLPTexts}=		Get Elements Texts 	${cXMLParsedText}	body/sec/title
+	${cXMLPTexts}=		Get Elements Texts 	${cXMLParsedText}	${xpath}
+	${status}=	Run Keyword And Return Status 		Should Not Be Empty 	${cXMLPTexts}
+	Run Keyword If 		'${status}' == 'False'			Return From Keyword
+	Should Not Be Empty 	${sXMLPTexts}		Sample XML has no tags matching ${xpath} while the converted file does. 	
 	:FOR	${text}		IN 	@{sXMLPTexts}
-	# The character '—' is a special character that can cause issues depending on the version of python the machine is implementing. Because of this, the removal of this
-	# character is done in the context of the test.  
-#	\	${noDashesText}=	Replace String 		${text}		—	\ 		 
-#	\ 	Create File 	spaced 		${noDashesText}
-#	\	Run Process		python spaceString.py spaced 		shell=True
-#	\	${spacedString}=	Get File	spaced
 	\ 	Log Variables
-	\	List Should Contain Value		${cXMLPTexts}		${text}	
+	\	List Should Contain Value		${cXMLPTexts}		${text}		The text '${text}' is present in the sample but  not found in the meTypeset'd xml. 
 
 # Runs only when error file from xmllint test of meTypeset'd xml returns an error when checked against JATS Green DTD.
 # Checks to make sure the only error is "Document ./testOutput/OpenMed-###-e###./nlm/out.xml: ### element xref: validity error IDREFS attribute 
@@ -49,8 +45,21 @@ File is Converted and Errors Highlighted
 	${status}	Run Keyword and Ignore Error 		File Should Be Empty         error/${filePath}.docx 
 	Run Keyword If 		${status} != ('PASS', None)		Acceptable Errors Present 		  error/${filePath}.docx   
 
+File Test Cases
+	[arguments] 	${filePath}
+	File is Converted and Errors Highlighted 	${filePath}
+	Run Keyword and Continue on Failure	 	Element in Sample Body Found in Convert 	${filePath} 	./article/title
+	Run Keyword and Continue on Failure		Element in Sample Body Found in Convert 	${filePath}	.//aff
+	Run Keyword and Continue on Failure	 	Element in Sample Body Found in Convert 	${filePath}	.//p
+	Run Keyword and Continue on Failure 		Element in Sample Body Found in Convert 	${filePath}	.//abstract/p
+	Run Keyword and Continue on Failure             Element in Sample Body Found in Convert         ${filePath}	.//fig/graphic
+	Run Keyword and Continue on Failure             Element in Sample Body Found in Convert         ${filePath} 	.//fig/table-wrap/table
+	Run Keyword and Continue on Failure             Element in Sample Body Found in Convert         ${filePath} 	.//sec/title
+	Run Keyword and Continue on Failure             Element in Sample Body Found in Convert         ${filePath} 	.//fig/table-wrap/caption
+	Run Keyword and Continue on Failure             Element in Sample Body Found in Convert         ${filePath} 	.//fn/fn-group
+	
+
 *** Test Cases ***
 
 OpenMed-01-e1   
-	File is Converted and Errors Highlighted	OpenMed-01-e1  
-
+	File Test Cases 	OpenMed-01-e1

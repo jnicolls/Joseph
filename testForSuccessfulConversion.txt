@@ -8,24 +8,24 @@ Library 		Collections
 Library			Process
 
 *** User Keywords ***
+
+Demo Element in Sample Body Found in Convert
+	[arguments]     ${filePath}     ${xpath}
+        [Timeout]       30 sec
+        Log Variables
+        Run Process     sudo python absXpath.py /var/local/meTypesetTests/tests/newCorpus/${filePath}-gold.xml /var/local/meTypesetTests/tests/testOutput/${filePath}.docx/nlm/out.xml ${xpath}                shell=True
+        ${pathTestResult}=      Get File        pathTestResults
+        Should Be Equal As Strings      ${pathTestResult}       Success! 	${xpath} does not match up evenly between the sample XML and the meTypeset'd version. Please see corresponding file for more information!		False
 			
 	
 Element in Sample Body Found in Convert
 	[arguments]	${filePath}	${xpath}
 	[Timeout]	30 sec 	
-	${sXMLRawText}= 	Get File 	/var/local/meTypesetTests/testingDocuments/OpenMedXML/${filePath}.nxml
-	${sXMLRefinedText}= 	Replace String Using Regexp 	${sXMLRawText}		(<xref[^>]>)([^<]*)(</xref>)	${EMPTY}
-	${sXMLText}= 		Parse XML 	${sXMLRefinedText}
-	${sXMLPTexts}= 		Get Elements Texts 	${sXMLText}		${xpath}
-	${cXMLRawText}=		Get File 	/var/local/meTypesetTests/tests/testOutput/${filePath}.docx/nlm/out.xml
-	${cXMLParsedText}= 	Parse XML 	${cXMLRawText}
-	${cXMLPTexts}=		Get Elements Texts 	${cXMLParsedText}	${xpath}
-	${status}=	Run Keyword And Return Status 		Should Not Be Empty 	${cXMLPTexts}
-	Run Keyword If 		'${status}' == 'False'			Return From Keyword
-	Should Not Be Empty 	${sXMLPTexts}		Sample XML has no tags matching ${xpath} while the converted file does. 	
-	:FOR	${text}		IN 	@{sXMLPTexts}
-	\ 	Log Variables
-	\	List Should Contain Value		${cXMLPTexts}		${text}		The text '${text}' is present in the sample but  not found in the meTypeset'd xml. 
+	Log Variables
+	Run Process	sudo python absXpath.py /var/local/meTypesetTests/testingDocuments/OpenMedXML/${filePath}.nxml /var/local/meTypesetTests/tests/testOutput/${filePath}.docx/nlm/out.xml ${xpath}  		shell=True
+	${pathTestResult}=	Get File	pathTestResults
+	Should Be Equal As Strings	${pathTestResult}	Success!	${xpath} does not match up evenly between the sample XML and the meTypeset'd version. Please see co
+rresponding file for more information! 			False
 
 # Runs only when error file from xmllint test of meTypeset'd xml returns an error when checked against JATS Green DTD.
 # Checks to make sure the only error is "Document ./testOutput/OpenMed-###-e###./nlm/out.xml: ### element xref: validity error IDREFS attribute 
@@ -63,3 +63,17 @@ File Test Cases
 
 OpenMed-01-e1   
 	File Test Cases 	OpenMed-01-e1
+
+Demo with Custom XML File
+	Run Keyword and Continue on Failure 		Demo Element in Sample Body Found in Convert		OpenMed-01-e171 	./article/title
+	Run Keyword and Continue on Failure             Demo Element in Sample Body Found in Convert            OpenMed-01-e171		.//aff
+	 Run Keyword and Continue on Failure             Demo Element in Sample Body Found in Convert            OpenMed-01-e171	.//p
+	Run Keyword and Continue on Failure             Demo Element in Sample Body Found in Convert            OpenMed-01-e171    	.//abstract/p
+	Run Keyword and Continue on Failure             Demo Element in Sample Body Found in Convert            OpenMed-01-e171 	.//fig/graphic
+	Run Keyword and Continue on Failure             Demo Element in Sample Body Found in Convert            OpenMed-01-e171  	.//fig/table-wrap/table
+	Run Keyword and Continue on Failure             Demo Element in Sample Body Found in Convert            OpenMed-01-e171  	.//sec/title
+	Run Keyword and Continue on Failure             Demo Element in Sample Body Found in Convert            OpenMed-01-e171 	.//fig/table-wrap/caption
+	Run Keyword and Continue on Failure             Demo Element in Sample Body Found in Convert            OpenMed-01-e171		.//fn/fn-group
+
+
+

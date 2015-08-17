@@ -1,7 +1,7 @@
 *** Settings ***
 Documentation 	This test goes through every file in the corpus and sees if a conversion process occurred and if only the accepted errors were passed through and if the XML files matches JATS format.   
 
-Library          	OperatingSystem
+Library         OperatingSystem
 Library 		String
 Library			XML
 Library 		Collections
@@ -9,23 +9,29 @@ Library			Process
 
 *** User Keywords ***
 
+# Same test as Element in Sample Body Found in Convert, except with different file paths for a specific file manipulated 
+# for test-tweaking purposes and demoing. 
+
+
 Demo Element in Sample Body Found in Convert
-	[arguments]     ${filePath}     ${xpath}
-        [Timeout]       30 sec
-        Log Variables
-        Run Process     sudo python absXpath.py /var/local/meTypesetTests/tests/newCorpus/${filePath}-gold.xml /var/local/meTypesetTests/tests/testOutput/${filePath}.docx/nlm/out.xml ${xpath}                shell=True
-        ${pathTestResult}=      Get File        pathTestResults
-        Should Be Equal As Strings      ${pathTestResult}       Success! 	${xpath} does not match up evenly between the sample XML and the meTypeset'd version. Please see corresponding file for more information!		False
+ 	[arguments]     ${filePath}     ${xpath}
+    [Timeout]       30 sec
+    Log Variables
+    Run Process     sudo python absXpath.py /var/local/meTypesetTests/tests/newCorpus/${filePath}-gold.xml /var/local/meTypesetTests/tests/testOutput/${filePath}.docx/nlm/out.xml ${xpath}                shell=True
+    ${pathTestResult}=      Get File        pathTestResults
+    Should Be Equal As Strings      ${pathTestResult}       Success! 	${xpath} does not match up evenly between the sample XML and the meTypeset'd version. Please see corresponding file for more information!		False
 			
+# This test will check to see if all the elements of a specific tag in a meTypeset'd document has a corresponding tag in the sample XML that has the same
+# text associated with it as well as the same XML path. 
 	
 Element in Sample Body Found in Convert
-	[arguments]	${filePath}	${xpath}
-	[Timeout]	30 sec 	
+	[arguments]		${filePath}		${xpath}
+	[Timeout]		30 sec 	
 	Log Variables
-	Run Process	sudo python absXpath.py /var/local/meTypesetTests/testingDocuments/OpenMedXML/${filePath}.nxml /var/local/meTypesetTests/tests/testOutput/${filePath}.docx/nlm/out.xml ${xpath}  		shell=True
-	${pathTestResult}=	Get File	pathTestResults
-	Should Be Equal As Strings	${pathTestResult}	Success!	${xpath} does not match up evenly between the sample XML and the meTypeset'd version. Please see co
-rresponding file for more information! 			False
+	# This python functio (absXpath.py) does the actual comparision, and outputs the result to 'pathTestResults'
+	Run Process			sudo python absXpath.py /var/local/meTypesetTests/testingDocuments/OpenMedXML/${filePath}.nxml /var/local/meTypesetTests/tests/testOutput/${filePath}.docx/nlm/out.xml ${xpath}  		shell=True
+	${pathTestResult}=		Get File		pathTestResults
+	Should Be Equal As Strings		${pathTestResult}		Success!		${xpath} does not match up evenly between the sample XML and the meTypeset'd version. Please see corresponding file for more information! 			False
 
 # Runs only when error file from xmllint test of meTypeset'd xml returns an error when checked against JATS Green DTD.
 # Checks to make sure the only error is "Document ./testOutput/OpenMed-###-e###./nlm/out.xml: ### element xref: validity error IDREFS attribute 
@@ -49,10 +55,10 @@ File Test Cases
 	[arguments] 	${filePath}
 	File is Converted and Errors Highlighted 	${filePath}
 	Run Keyword and Continue on Failure	 	Element in Sample Body Found in Convert 	${filePath} 	./article/title
-	Run Keyword and Continue on Failure		Element in Sample Body Found in Convert 	${filePath}	.//aff
-	Run Keyword and Continue on Failure	 	Element in Sample Body Found in Convert 	${filePath}	.//p
-	Run Keyword and Continue on Failure 		Element in Sample Body Found in Convert 	${filePath}	.//abstract/p
-	Run Keyword and Continue on Failure             Element in Sample Body Found in Convert         ${filePath}	.//fig/graphic
+	Run Keyword and Continue on Failure		Element in Sample Body Found in Convert 	${filePath}		.//aff
+	Run Keyword and Continue on Failure	 	Element in Sample Body Found in Convert 	${filePath}		.//p
+	Run Keyword and Continue on Failure 		Element in Sample Body Found in Convert 	${filePath}		.//abstract/p
+	Run Keyword and Continue on Failure             Element in Sample Body Found in Convert         ${filePath}		.//fig/graphic
 	Run Keyword and Continue on Failure             Element in Sample Body Found in Convert         ${filePath} 	.//fig/table-wrap/table
 	Run Keyword and Continue on Failure             Element in Sample Body Found in Convert         ${filePath} 	.//sec/title
 	Run Keyword and Continue on Failure             Element in Sample Body Found in Convert         ${filePath} 	.//fig/table-wrap/caption
@@ -65,15 +71,12 @@ OpenMed-01-e1
 	File Test Cases 	OpenMed-01-e1
 
 Demo with Custom XML File
-	Run Keyword and Continue on Failure 		Demo Element in Sample Body Found in Convert		OpenMed-01-e171 	./article/title
+	Run Keyword and Continue on Failure 			Demo Element in Sample Body Found in Convert		OpenMed-01-e171 	./article/title
 	Run Keyword and Continue on Failure             Demo Element in Sample Body Found in Convert            OpenMed-01-e171		.//aff
-	 Run Keyword and Continue on Failure             Demo Element in Sample Body Found in Convert            OpenMed-01-e171	.//p
+	Run Keyword and Continue on Failure             Demo Element in Sample Body Found in Convert            OpenMed-01-e171	.//p
 	Run Keyword and Continue on Failure             Demo Element in Sample Body Found in Convert            OpenMed-01-e171    	.//abstract/p
 	Run Keyword and Continue on Failure             Demo Element in Sample Body Found in Convert            OpenMed-01-e171 	.//fig/graphic
 	Run Keyword and Continue on Failure             Demo Element in Sample Body Found in Convert            OpenMed-01-e171  	.//fig/table-wrap/table
 	Run Keyword and Continue on Failure             Demo Element in Sample Body Found in Convert            OpenMed-01-e171  	.//sec/title
 	Run Keyword and Continue on Failure             Demo Element in Sample Body Found in Convert            OpenMed-01-e171 	.//fig/table-wrap/caption
 	Run Keyword and Continue on Failure             Demo Element in Sample Body Found in Convert            OpenMed-01-e171		.//fn/fn-group
-
-
-

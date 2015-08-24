@@ -1,7 +1,7 @@
  absXpath.py takes in three arguments from the command line. The first two represent filepaths to XML files. 
 # The last represents a tag that is being searched for. 
 #
-# This program goes trhough every element in the second argument (the 'convertFile'), and tries to find a matching
+# This program goes through every element in the second argument (the 'convertFile'), and tries to find a matching
 # element in the first, both in terms of the tag content and in terms of the string representation of the xpath. 
 
 import os
@@ -31,7 +31,7 @@ error = open(errorPath, 'w')
 
 
 # This variable keeps track of whether all of the current tags in the converted XML has 
-# both a matching xpath and a matching body text. 
+# both a matching xpath and a matching body text, and how many errors occur if any. 
 
 mismatchCount = 0
 

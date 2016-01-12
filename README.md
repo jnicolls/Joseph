@@ -1,4 +1,4 @@
-verall Structure
+Overall Structure
 -----------------
 This test processes two corpuses. One of these is a corpus of XML files derived from a corpus of Docx files that were run through meTypeset. From this point forward, this corpus will be referred to as the ‘converted’ corpus. The other is another corpus of XML derived from a body of Docx manually typed up to match JATS standard. From this point forward, this body will be referred to as the ‘sample’ corpus. 
 

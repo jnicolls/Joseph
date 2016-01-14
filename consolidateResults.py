@@ -13,6 +13,7 @@ def getPercentPassString(parentFolder):
 	if not os.path.isfile(parentFolder + '/mismatches'): return '0.0'
 	misFile = open (parentFolder + '/mismatches', 'r'); totFile = open (parentFolder + '/total', 'r')
         misFloat = float(misFile.readline()); totFloat = float(totFile.readline())
+        if totFloat == 0: percentPass = 100
         percentPass =   (1 - misFloat/totFloat) * 100 
         percentPString = "%.2f" % percentPass
 	return percentPString;

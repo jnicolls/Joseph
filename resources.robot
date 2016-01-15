@@ -132,6 +132,7 @@ Check for Matching Text Elems FRONT
 	${conFile}= 	Get File	${frontConvertParent}/${pdf}
 	${status}	Run Keyword and Ignore Error	Should Not Be Equal		${pdf}	\{"status":"error","error":"The job is not completed yet","flashMessages":\[\]\}
 	Run Keyword If	${status} != ('PASS', None)		Update Incompleted Files		${pdf}
+	Run Keyword and Continue on Failure		Element Text in Convert Found in a Sample Element	${pdf}	${xml}	front//institution	${frontConvertParent}	${frontSampleParent}
 	Run Keyword and Continue on Failure		Element Text in Convert Found in a Sample Element	${pdf}	${xml}	front//article-title	${frontConvertParent}	${frontSampleParent}
 	Run Keyword and Continue on Failure		Element Text in Convert Found in a Sample Element	${pdf}	${xml}	front//journal-title	${frontConvertParent}	${frontSampleParent}
 	Run Keyword and Continue on Failure		Element Text in Convert Found in a Sample Element	${pdf}	${xml}	front//email	${frontConvertParent}	${frontSampleParent}

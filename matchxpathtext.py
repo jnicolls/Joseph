@@ -4,9 +4,6 @@
 # This program goes trhough every element in the second argument (the 'trialFile'), and tries to find a matching
 # element in the first in terms of text content. In the event that the tag is 'xref', a seperate specialized process is
 # undergone instead of attempting to match text elements. 
-#
-# Important note: the section of the 'findClosestMatch' which counts mismatches if the tagNames is 'front//name' was done almost 
-# in entirety by Alex Garnett, as my only contribution was debugging. 
 
 import re
 import os
@@ -181,26 +178,28 @@ def countMismatches(trialTree, sampleTree, tag, error, fileName):
 
 	aliasTag = tag
 	if tag == 'front//name': aliasTag = 'front//string-name'
+	if tag == 'front//institution': aliasTag = 'front//aff' 
 
 	trialTreeTags = trialTree.findall(tag)
 	if not trialTreeTags: trialTreeTags = trialTree.findall(aliasTag)
+	
+	sampleElemList = sampleTree.findall(tag)
+	
+	if not sampleElemList: sampleElemList = sampleTree.findall(aliasTag)
 
+	if not sampleElemList and aliasTag == tag:
+  		error.write('sampleTree has no elems matching xpath: ' +  tag + '\n\n')
+ 		mismatchCount += 1
+
+	elif not sampleElemList and aliasTag != tag:
+		error.write('sampleTree has no elems matching xpath: ' + tag + ' or ' + aliasTag)
+  		mismatchCount += 1
+	
 	for trialElem in trialTreeTags:
 
 		totalTags += 1.0
 
-		sampleElemList = sampleTree.findall(tag)
-		if not sampleElemList: sampleElemList = sampleTree.findall(aliasTag)
-
-		if not sampleElemList and aliasTag == tag:
-			error.write('sampleTree has no elems matching xpath: ' +  tag + '\n\n')
-			mismatchCount += 1
-
-		elif not sampleElemList and aliasTag != tag:
-			error.write('sampleTree has no elems matching xpath: ' + tag + ' or ' + aliasTag)
-			mismatchCount += 1
-
-		else:
+		if sampleElemList:
 
 			levDistance = findClosestMatch(sampleElemList, trialElem, error, tag)
 
@@ -257,9 +256,6 @@ def findClosestMatch(sampleElemList, trialElem, error, tag):
 	matchIndividualElem = False
 	lowestLevDistance = SENTINEL
 	closestMatchingString = ''
-	
-# Important note: the section of the 'findClosestMatch' which counts mismatches if the tagNames is 'front//name' was done almost 
-# in entirety by Alex Garnett, as my only contribution was debugging. 
 
 	for sampleElem in sampleElemList:
 		if tag != "front//name":
@@ -320,4 +316,10 @@ sampleTree = lxml.etree.parse(sampleFile)
 trialFile.close()
 sampleFile.close()
 
-error = 
+error = createErrorFile(fileName, tag)
+
+if tag != 'xref': countMismatches(trialTree, sampleTree, tag, error, fileName)
+else: compareXREFS(trialTree, sampleTree, error, fileName)
+
+error.close()
+if os.stat(getErrorPath(fileName, tag)) == 0: os.remove(getErrorPath(fileName, tag))

@@ -37,6 +37,8 @@ Does the actual processing work for comparing tag texts. In addition, creates an
 
 /failDetails/
 -------------
+Note: Due to the fact that the documents being tested are not available for the public domain, an example of this folder is not provided in this repository. 
+
 Direct child folders: 	
 						convertsInSample: Tests for accuracy of tags in converts compared to the sample. 
 						samplesInConvert: Tests for how many of sample tags are reflected in the converted document. 

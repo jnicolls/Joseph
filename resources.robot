@@ -110,14 +110,13 @@ Check for Matching Text Elems
 	${conFile}=		Get File	/var/local/meTypesetTests/testingDocuments/coactionDocxOutput/${docx}
 	${status}	Run Keyword and Ignore Error	Should Not Be Equal		${conFile}		\{"status":"error","error":"The job is not completed yet","flashMessages":\[\]\}
 	Run Keyword If	${status} != ('PASS', None)		Update Incompleted Files	${docx}
-	Run Keyword and Continue on Failure		Element Text in Convert Found in a Sample Element	${docx}		${xml}	back//fn	/var/local/meTypesetTests/testingDocuments/coactionDocxOutput/	${bodySampleParent}
-	Run Keyword and Continue on Failure		Element Text in Convert Found in a Sample Element	${docx}		${xml}	body//fig//caption	/var/local/meTypesetTests/testingDocuments/coactionDocxOutput/	${bodySampleParent}
-	Run Keyword and Continue on Failure		Element Text in Convert Found in a Sample Element	${docx}		${xml}	body//p		/var/local/meTypesetTests/testingDocuments/coactionDocxOutput/	${bodySampleParent}
-	Run Keyword and Continue on Failure		Element Text in Convert Found in a Sample Element	${docx}		${xml}	body//table-wrap//caption	/var/local/meTypesetTests/testingDocuments/coactionDocxOutput/	${bodySampleParent}
-	Run Keyword and Continue on Failure		Element Text in Convert Found in a Sample Element	${docx}		${xml}	body//list/list-item/p	/var/local/meTypesetTests/testingDocuments/coactionDocxOutput/	${bodySampleParent}
-	Run Keyword and Continue on Failure		XREF Test	${docx}		${xml}	/var/local/meTypesetTests/testingDocuments/coactionDocxOutput/	${bodySampleParent}
-	Element Text in Convert Found in a Sample Element	${docx}		${xml}	body//sec/title	/var/local/meTypesetTests/testingDocuments/coactionDocxOutput/	${bodySampleParent}
-
+	Run Keyword and Continue on Failure		Element Text in Convert Found in a Sample Element	${docx}		${xml}	back//fn	${bodyConvertParent}		${bodySampleParent}
+	Run Keyword and Continue on Failure		Element Text in Convert Found in a Sample Element	${docx}		${xml}	body//fig//caption	${bodyConvertParent}		${bodySampleParent}
+	Run Keyword and Continue on Failure		Element Text in Convert Found in a Sample Element	${docx}		${xml}	body//table-wrap//caption	${bodyConvertParent}	${bodySampleParent}
+	Run Keyword and Continue on Failure		Element Text in Convert Found in a Sample Element	${docx}		${xml}	body//list/list-item/p		${bodyConvertParent}	${bodySampleParent}
+	Run Keyword and Continue on Failure		XREF Test	${docx}		${xml}	${bodyConvertParent}	${bodySampleParent}
+	Element Text in Convert Found in a Sample Element	${docx}		${xml}	body//sec/title		${bodyConvertParent}	${bodySampleParent}
+	
 # Check for Matching Text Elems FRONT
 # -----------------------------------
 #
